@@ -1,144 +1,85 @@
-# Forensic ATOMIC: Generative Commonsense Reasoning
+# F-ATOMIC: Forensic Commonsense Knowledge
 
-This project implements an asynchronous pipeline to generate, validate, and train a **Forensic Knowledge Graph**.
-
-By providing a new version of the **ATOMIC** dataset in forensic format, we extend the events of the original dataset by introducing a criminal, suspicious, or partially harmless context using large language models (LLMs).
+This project constructs and explores a forensic commonsense knowledge graph. It reinterprets everyday **events** from ATOMIC within criminal contexts and validates the generated annotations.
 
 ## Contributions
 
-- Generates multiple forensic interpretations (violent, financial, cyber) for a single event. 
-- Fine-tunes Phi-4-mini for crime category classification and generation on unseen events.
-- Compares recorded LLM tribunal decisions with historical and new human judgments.
+- **Events:** Generation, cleaning, and Multi-Judge validation of forensic interpretations with 16 ATOMIC relations.
+- **Human evaluation:** Comparison between automated judgments and human assessments, including an additional human-filtered dataset.
+- **Model experiments:** Phi-4-mini classification and generation experiments on forensic events.
+- **Symbolic reasoning:** An Answer Set Programming example for criminal plan reconstruction.
 
 ---
 
-## Results
+## Dataset and Results
 
-### Dataset Statistics
+The tribunal-validated event dataset contains **9,175 annotations** across six crime categories.
 
-The final F-Atomic dataset consists of **9,175 validated forensic instances**, each representing a unique (event, crime_category) pair enriched with 16 relational dimensions from the ATOMIC2020 ontology. The Poly-Category Branching strategy produced multiple distinct criminal interpretations per source event.
+| Crime Category | Instances | Percentage |
+|:---|---:|---:|
+| Financial Crimes | 2,894 | 31.5% |
+| Organized Crimes | 2,072 | 22.6% |
+| Violent Crimes | 1,877 | 20.5% |
+| Property Crimes | 1,254 | 13.7% |
+| Cyber Crimes | 844 | 9.2% |
+| Public Order / Justice | 234 | 2.6% |
+| **Total** | **9,175** | **100.0%** |
 
-| Crime Category         | Instances | Percentage |
-|:-----------------------|----------:|:----------:|
-| Financial Crimes       |     2,894 |   31.5%    |
-| Organized Crimes       |     2,072 |   22.6%    |
-| Violent Crimes         |     1,877 |   20.5%    |
-| Property Crimes        |     1,254 |   13.7%    |
-| Cyber Crimes           |       844 |    9.2%    |
-| Public Order / Justice |       234 |    2.6%    |
-| **Total**              | **9,175** |  100.0%    |
-
----
-
-### Multi-Judge Tribunal Performance
-
-The complete judgment audit log and aggregated statistics are available in [`data/judged_log.csv`](./data/judged_log.csv) and [`data/judgement_summary.csv`](./data/judgement_summary.csv). 
-
-The tribunal-validated dataset is in [`data/forensic_atomic.csv`](data/forensic_atomic.csv) (9,175 rows). [`data/forensic_atomic_human_validated.csv`](data/forensic_atomic_human_validated.csv) contains 9,100 of those rows after excluding the 75 events not approved in the unified human evaluation. The human approval rule requires both a mean score ≥ 50 and an approval percentage ≥ 50%.
-
-The Phi-4-mini experiments and human judgment comparisons are documented in [models/phi4_mini/](models/phi4_mini/README.md) and [analysis/](analysis/README.md). Their saved tables and figures are under `results/`.
+The original human comparison covers **550 form-event judgments**. A subsequent unified evaluation covers **671 distinct events**. The supplied human-filtered dataset contains **9,100 annotations**, excluding 75 events not approved under the joint human score/approval-percentage rule. These are separate evaluation cohorts.
 
 ---
 
-## Project structure
+## Project Structure
 
-| Module                                          | Description                                                                      |
-|:------------------------------------------------|:---------------------------------------------------------------------------------|
-| [**config/**](./config/README.md)               | **Configuration.** Prompts and settings.                                         |
-| [**core/**](./core/README.md)                   | **Core.** Generator and state manager on Redis.                                  |
-| [**tools/**](./tools/README.md)                 | **Tools.** Scripts for cleaning, splitting, and quality control of the dataset.  |
-| [**data/**](./data/README.md)                   | **Data.** Input/Output CSVs and processed data.                                  |
-| [**form_creation/**](./form_creation/README.md) | **Form Creation.** Script to generate Google Forms through Google API and results |
-| [**models/phi4_mini/**](./models/phi4_mini/README.md) | **Models.** Phi-4-mini classification and generation experiments.             |
-| [**analysis/**](./analysis/README.md)         | **Analysis.** Historical and unified human–LLM judgment comparisons.           |
-| [**results/**](./results/)                     | **Results.** Saved model predictions, statistics, and figures.                 |
+| Folder | Description |
+|:---|:---|
+| [**code/core/**](code/core/README.md) | Shared LLM facade, provider adapters, and logging. |
+| [**code/config/**](code/config/README.md) | Provider credentials, execution settings, and repository paths. |
+| [**code/events/**](code/events/README.md) | Event filtering, prompts, automated validation, tribunal, and ASP example. |
+| [**data/**](data/README.md) | ATOMIC sources, selected event inputs, and reference resources. |
+| [**analysis/**](analysis/README.md) | Event cleaning and automated tribunal analysis notebooks. |
+| [**experiments/**](experiments/README.md) | Generated/validated datasets and event model experiments. |
+| [**human_validation/**](human_validation/README.md) | Form creation, human-analysis code, form inputs, and evaluation reports. |
 
----
+Generated event datasets and tribunal artifacts are stored directly in [`experiments/events/results/`](experiments/events/results/README.md), beside the `phi4_mini/` model results. `data/` contains only source inputs and reference resources.
 
 ## Installation
 
-### Requirements
-- **Python 3.11+**
-- **Redis server** (Run locally or via Docker)
+- **Python 3.11–3.13** and **Poetry** for the main environment.
+- **Redis** when using the event state manager.
+- **CUDA GPU** for Phi-4 training and inference; its dependencies use a separate Poetry environment.
 
-### Setup
-This project uses **Poetry** for dependency management.
-
-**Environment configuration (`.env`):**
-```ini
-# GENERATION SETTINGS (OpenRouter)
-LLM_MODE=openrouter
-OPENROUTER_API_KEY=sk-or-your-key-here
-OPENROUTER_MODEL_A=deepseek/deepseek-chat
-
-# PIPELINE CAPACITY
-BATCH_SIZE=40
-GEN_SEMAPHORE=28
-JUDGE_SEMAPHORE=4
-
-# DATABASE / STATE
-REDIS_HOST=localhost
-REDIS_PORT=6379
-
-# JUDGE SETTINGS
-USE_SINGLE_JUDGE_PROVIDER=true
-
-# Provider to use in test-mode
-SINGLE_JUDGE_PROVIDER=openrouter
-SINGLE_JUDGE_MODEL=deepseek/deepseek-chat
-
-# Disable the rewrite loop (true = active, false = only pass/fail)
-ENABLE_REWRITE=false
-
-# EVALUATION SETTINGS (Multi-Judge-LLMs)
-REWRITER_PROVIDER=openai
-
-# OpenAI (Judge 1 + Expert Rewriter)
-OPENAI_API_KEY=sk-proj-your-openai-key
-OPENAI_MODEL=gpt-4o
-
-# Anthropic (Judge 2)
-ANTHROPIC_API_KEY=sk-ant-your-anthropic-key
-ANTHROPIC_MODEL=claude-3-5-sonnet-latest
-
-# Google Gemini (Judge 3)
-GEMINI_API_KEY=AIzaSy-your-google-key
-GEMINI_MODEL=gemini-1.5-pro
-
-# PATHS
-INPUT_FILE=data/v4_atomic_all_agg.csv
-OUTPUT_FILE=data/forensic_atomic_final.csv
-JUDGEMENT_FILE=data/judgements_log.csv
+```bash
+poetry install --no-root
+cp .env.example .env
 ```
 
----
+Fill the selected providers' credentials in `.env` at the repository root. See [configuration](code/config/README.md) for provider and three-judge settings. For interactive imports, run `export PYTHONPATH="$PWD/code:$PWD"` from the repository root. `code/` is a source directory, not a Python package.
 
 ## Workflow
 
-### 1. Generation phase
+### 1. Events
 
-The filtering and generation components are under `core/`, and the ATOMIC source files are under `data/atomic_dataset/`. This checkout does not contain a top-level `main.py` launcher. The existing validated output is `data/forensic_atomic.csv`.
+Source selection, prompts, structural validation, and Redis state management are in [`code/events/`](code/events/README.md). This checkout includes the components and supplied datasets, but no complete generation launcher.
 
-### 2. Evaluating Phase
-Post-Generation Tribunal:
-Validates the raw generated dataset using a Multi-Agent Tribunal (GPT, Claude, Gemini). This step filters out hallucinations, enforces forensic logic through majority voting, and attempts to rewrite rejected inferences (if selected).
-```bash 
-python tools/post_generation_judge.py --input data/pre-judge_forensic_atomic.csv --output data/forensic_atomic_judged.csv --workers 3
+Use [`clean_generated_events.ipynb`](analysis/events/clean_generated_events.ipynb) to clean a new raw dataset, then run the tribunal:
+
+```bash
+poetry run python code/events/post_generation_judge.py \
+  --input experiments/events/results/forensic_atomic_generated_clean.csv \
+  --output experiments/events/results/forensic_atomic_tribunal_validated_new.csv \
+  --judgement_log experiments/events/results/tribunal_judgments_new.csv \
+  --workers 3
 ```
 
-*Output*: `data/forensic_atomic_judged.csv`
+The current tribunal approves an unchanged annotation when at least two judges approve and the mean score across all three is at least 50. Transient API failures receive three total attempts for the affected judge, with waits of 2 and 4 seconds; after exhaustion that judge contributes score zero. Invalid verdicts are not retried.
 
----
+### 2. Human Evaluation and Phi-4-mini
 
-### 3. Phi-4-mini experiments and thesis statistics
+Form creation, response processing, human-LLM comparison notebooks, and the statistics helper are all in [`human_validation/events/`](human_validation/events/README.md), together with form data and reports. The resulting human-filtered event dataset remains in `experiments/events/results/`.
 
-The classification notebooks are in `models/phi4_mini/classification/`. The generation notebooks are in `models/phi4_mini/generation/`; they compare base and fine-tuned Phi-4-mini with DeepSeek on 35 unseen events. Training and inference require the separate Poetry environment in `models/phi4_mini/`, and full training requires a compatible CUDA GPU. Adapter weights are not included.
+Classification and generation notebooks are in [`experiments/events/training/phi4_mini/`](experiments/events/training/phi4_mini/README.md), with saved predictions and figures under `experiments/events/results/phi4_mini/`. The generation comparison uses 35 selected unseen events. Adapter weights are not included.
 
-To regenerate saved statistics without a GPU, run these notebooks from their first cell:
+### 3. Plan Reconstruction
 
-1. `models/phi4_mini/classification/03_results_summary.ipynb` — display saved classification comparisons.
-2. `models/phi4_mini/generation/04_clean_compare.ipynb` — regenerate generation comparison tables and figures.
-3. `models/phi4_mini/generation/05_audit_supplied_outputs.ipynb` — check additional prompt variants and DeepSeek judgments.
-4. `analysis/judgement_analysis_final.ipynb` — regenerate separate statistics for 550 historical and 671 unified human judgments in `results/human_llm/`.
-
-The supplied DeepSeek judge log covers 70 generated branches. An equivalent fine-tuned Phi-4 judge log and the exact prompts for the additional output variants are not available; see the [generation README](models/phi4_mini/generation/README.md) for details.
+[`plan_reconstruction.asp`](code/events/plan_reconstruction.asp) illustrates how temporal relations from an event interpretation can support reconstruction of a criminal plan from partial observations.

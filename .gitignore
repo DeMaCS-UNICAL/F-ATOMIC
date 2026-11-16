@@ -20,4 +20,4 @@ __pycache__/
 .ipynb_checkpoints/
 
 # Phi-4-mini adapter weights and checkpoints
-models/phi4_mini/**/adapters/
+experiments/events/training/phi4_mini/**/adapters/
