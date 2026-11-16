@@ -1,0 +1,1067 @@
+entity,n_mentions,n_events,n_tokens,example_events,top_verbs,source
+money,178,178,1,PersonX borrows some money | PersonX borrows the money | PersonX begs for money,"have:19,save:17,get:16",f_atomic_event
+car,62,62,1,PersonX buys a new car | PersonX buys PersonY a car | PersonX buys PersonX's first car,"get:14,buy:13,hit:9",f_atomic_event
+hand,49,49,1,PersonX breaks PersonY's hand | PersonX breaks PersonX's hand | PersonX burns PersonX's hand,"take:12,get:7,give:5",f_atomic_event
+fire,45,44,1,PersonX builds a fire | PersonX adds fuel to the fire | PersonX adds ___ to the fire,"set:11,fight:4,catch:3",f_atomic_event
+dog,29,29,1,PersonX buys a new dog | PersonX buys a dog | PersonX buys PersonY a dog,"get:9,give:7,take:7",f_atomic_event
+head,25,25,1,PersonX drops PersonY's head | PersonX cuts off PersonY's head | PersonX gets ___ in the head,"hit:9,give:3,pull:3",f_atomic_event
+door,24,24,1,PersonX finds the door locked | PersonX closes the stable door after the horse has bolted | PersonX gets PersonX's foot in the door,"open:12,lock:4,get:2",f_atomic_event
+home,24,24,1,PersonX buys a home | PersonX buys PersonX's first home | PersonX buys a new home,"get:8,buy:3,take:3",f_atomic_event
+store,24,24,1,PersonX buys ___ from the store | PersonX buys ___ from the pet store | PersonX buys ___ in the store,"buy:7,take:5,go:4",f_atomic_event
+eye,23,23,1,PersonX gets a black eye | PersonX forces PersonY's eyes | PersonX gets PersonX's eyes checked,"open:6,keep:3,take:3",f_atomic_event
+gift,23,23,1,PersonX buys gifts for PersonX's family | PersonX buys gifts for PersonY's family | PersonX buys PersonY a gift,"give:8,buy:6,open:5",f_atomic_event
+job,23,23,1,PersonX decides to get a job | PersonX fires from PersonY's job | PersonX does n't get the job,"get:18,fire:2,give:2",f_atomic_event
+ticket,23,23,1,PersonX buys PersonX's ticket | PersonX buys PersonY's ticket | PersonX buys a ticket,"buy:9,get:6,give:6",f_atomic_event
+breakfast,22,22,1,PersonX decides to make PersonY's breakfast in bed | PersonX decides to make breakfast | PersonX cooks breakfast,"make:13,eat:5,scramble:2",f_atomic_event
+phone,22,22,1,PersonX buys PersonY's phone | PersonX breaks PersonY's phone | PersonX buys a new phone,"get:8,buy:4,drop:3",f_atomic_event
+work,22,22,1,PersonX buys ___ after work | PersonX gets ___ at work | PersonX gets ___ from work,"get:11,take:6,give:2",f_atomic_event
+account,21,21,1,PersonX calls to account | PersonX checks PersonY's account | PersonX checks PersonX's account,"give:4,take:3,check:2",f_atomic_event
+arm,21,21,1,PersonX burns PersonX's arm | PersonX breaks PersonY arm | PersonX breaks PersonY's arm,"take:5,break:3,pull:3",f_atomic_event
+house,21,21,1,PersonX buys a house | PersonX buys PersonX's first house | PersonX buys PersonX's own house,"buy:7,enter:4,take:3",f_atomic_event
+hair,20,20,1,PersonX cuts PersonY's hair very short | PersonX cuts PersonX's hair very short | PersonX cuts PersonX's own hair,"cut:13,get:2,grab:1",f_atomic_event
+face,18,18,1,PersonX cuts off PersonX's nose to spite PersonX's face | PersonX gets ___ in the face | PersonX gets ___ on PersonX's face,"hit:4,slap:3,get:2",f_atomic_event
+school,18,18,1,PersonX buys ___ for school | PersonX fights PersonY after school | PersonX enters ___ at school,"get:10,take:4,buy:1",f_atomic_event
+shoe,18,18,1,PersonX buys PersonX's new shoes | PersonX buys PersonX's own shoes | PersonX buys PersonY's own shoes,"buy:11,get:4,take:2",f_atomic_event
+food,17,17,1,PersonX burns the food | PersonX buys food | PersonX buys some food,"get:8,buy:2,give:2",f_atomic_event
+leg,17,17,1,PersonX breaks PersonY's leg | PersonX breaks both of PersonX's legs | PersonX breaks my leg,"break:4,pull:3,cut:2",f_atomic_event
+name,17,17,1,PersonX forgets PersonY's name | PersonX gets PersonY's name | PersonX gives PersonX's name,"give:14,forget:1,get:1",f_atomic_event
+bill,16,16,1,PersonX has trouble paying PersonX's bills | PersonX pays PersonY bill | PersonX pays PersonY bills,"pay:15,sell:1",f_atomic_event
+foot,16,16,1,PersonX breaks PersonY's foot | PersonX breaks my foot | PersonX beats feet,"get:5,break:2,drag:2",f_atomic_event
+ball,15,15,1,PersonX drops the ball | PersonX gets PersonY's ball | PersonX gets the ball rolling,"get:3,hit:3,kick:3",f_atomic_event
+gun,15,15,1,PersonX aims PersonX's gun | PersonX buys a new gun | PersonX buys a gun,"buy:2,grab:2,point:2",f_atomic_event
+opportunity,15,15,1,PersonX gets PersonY opportunity | PersonX gives PersonY opportunities | PersonX gives PersonY the opportunity,"give:9,take:5,get:1",f_atomic_event
+price,15,15,1,PersonX buys ___ at a price | PersonX buys a ___ at a price | PersonX buys ___ at prices,"sell:9,buy:5,pay:1",f_atomic_event
+key,13,13,1,PersonX drops PersonX's keys | PersonX drops PersonY's keys | PersonX forgets PersonX's keys,"lock:6,drop:2,forget:2",f_atomic_event
+lunch,13,13,1,PersonX buys lunch | PersonX buys PersonY's lunch | PersonX buys PersonX's lunch,"take:5,buy:3,get:3",f_atomic_event
+order,13,13,1,PersonX gets ___ in order | PersonX gets PersonY order | PersonX gets PersonX's ___ in order,"get:4,give:4,take:3",f_atomic_event
+wallet,13,13,1,PersonX buys a new wallet | PersonX drops PersonX's wallet | PersonX gets PersonY's wallet back,"forget:4,get:3,buy:1",f_atomic_event
+book,12,12,1,PersonX buys a book | PersonX buys a new book | PersonX buys books,"buy:4,get:4,give:1",f_atomic_event
+dinner,12,12,1,PersonX buys ___ for dinner | PersonX buys dinner | PersonX gets dinner,"take:8,buy:2,get:1",f_atomic_event
+ground,12,12,1,PersonX accidentally dropped ___ on the ground | PersonX breaks ground | PersonX drops to the ground,"drop:4,hit:2,push:2",f_atomic_event
+advice,11,11,1,PersonX follows PersonY advice | PersonX follows the doctor 's advice | PersonX follows PersonY's advice,"give:4,take:4,follow:3",f_atomic_event
+bed,11,11,1,PersonX decides to make PersonY's breakfast in bed | PersonX can barely get out of bed | PersonX drags ___ out of bed,"get:4,make:3,take:2",f_atomic_event
+call,11,11,1,PersonX gets a call from PersonY | PersonX gets a call ___ | PersonX gets a call back,"get:9,give:2",f_atomic_event
+force,11,11,1,PersonX comes into force on PersonY | PersonX forces PersonY's hand | PersonX forces upon PersonY,"seize:2,come:1,meet:1",f_atomic_event
+grade,11,11,1,PersonX gets PersonX's grades | PersonX gets a good grade | PersonX gets PersonX's grades up,get:11,f_atomic_event
+ice_cream,11,11,2,PersonX buys ice cream | PersonX buys PersonY ice cream | PersonX buys some ice cream,"get:5,buy:4,take:2",f_atomic_event
+mouth,11,11,1,PersonX burns PersonX's mouth | PersonX escapes PersonY's mouth | PersonX opens PersonY's mouth,"open:7,burn:1,escape:1",f_atomic_event
+night,11,11,1,PersonX gets ___ night | PersonX gets ___ last night | PersonX gets ___ that night,"get:7,spend:2,take:2",f_atomic_event
+word,11,11,1,PersonX breaks PersonX's word | PersonX breaks PersonY word | PersonX gives PersonX's word,"take:4,break:2,give:2",f_atomic_event
+bank,10,10,1,PersonX calls PersonX's bank | PersonX cries all the way to the bank | PersonX calls the bank,"rob:3,call:2,cry:1",f_atomic_event
+bike,10,10,1,PersonX buys PersonY a new bike | PersonX buys a bike | PersonX buys a new bike,"buy:4,get:4,steal:1",f_atomic_event
+candy,10,10,1,PersonX buys candy | PersonX bribes PersonY with candy | PersonX buys some candy,"get:4,give:3,buy:2",f_atomic_event
+doctor,10,10,1,PersonX follows the doctor 's ___ | PersonX follows the doctor 's advice | PersonX has to take PersonY to the doctor,"take:7,follow:2,see:1",f_atomic_event
+glass,10,10,1,PersonX buys new glasses | PersonX breaks PersonY's glasses | PersonX gets a glass,"get:4,take:2,buy:1",f_atomic_event
+movie,10,10,1,PersonX decides to watch a movie | PersonX is trying to watch a movie | PersonX is watching a scary movie,"watch:6,take:4",f_atomic_event
+shot,10,10,1,PersonX decides to give it a shot | PersonX gets shots | PersonX gets the shot,"give:5,get:3,take:2",f_atomic_event
+test,10,10,1,PersonX gets PersonX's test back | PersonX gets ___ on PersonX's test | PersonX gets ___ on the test,"get:7,take:3",f_atomic_event
+water,10,10,1,PersonX buys bottled water | PersonX gets a drink of water | PersonX gets a glass of water,"get:5,give:3,buy:1",f_atomic_event
+attack,9,9,1,PersonX expects PersonY attack | PersonX fears PersonY attack | PersonX mounts PersonY attack,"expect:1,fear:1,mount:1",f_atomic_event
+boat,9,9,1,PersonX buys a new boat | PersonX buys a boat | PersonX buys the boat,"take:5,buy:3,push:1",f_atomic_event
+break,9,9,1,PersonX falls and breaks | PersonX decides to take a break | PersonX gets a break,"take:2,make:2,fall:1",f_atomic_event
+cat,9,9,1,PersonX buys a cat | PersonX decides to get a cat | PersonX gets a cat,"get:4,take:3,buy:1",f_atomic_event
+look,9,9,1,PersonX gets a closer look | PersonX gets a good look | PersonX gets a better look,"give:4,get:3,take:2",f_atomic_event
+medicine,9,9,1,PersonX gets PersonX's medicine | PersonX gets medicine | PersonX gives PersonY some medicine,"give:6,get:2,take:1",f_atomic_event
+news,9,9,1,PersonX breaks the news | PersonX breaks the news to PersonY | PersonX gets some bad news,"watch:3,break:2,get:2",f_atomic_event
+number,9,9,1,PersonX files off the serial numbers | PersonX enters the ___ in numbers | PersonX gets PersonY's number,"give:5,file:1,enter:1",f_atomic_event
+pair,9,9,1,PersonX buys PersonY a pair | PersonX buys a new pair | PersonX buys a new pair of boots,"buy:8,get:1",f_atomic_event
+side,9,9,1,PersonX fights ___ by side | PersonX enters the ___ on the side | PersonX gets out of bed on the wrong side,"lie:3,get:2,pull:2",f_atomic_event
+track,9,9,1,PersonX covers PersonX's tracks | PersonX gets back on track | PersonX loses track of time,"stop:3,lose:2,keep:2",f_atomic_event
+use,9,9,1,PersonX borrows this thesis for use | PersonX borrows this ___ for use | PersonX develops ___ for use,"borrow:2,develop:1,limit:1",f_atomic_event
+battle,8,8,1,PersonX fights PersonX's battle | PersonX fights a losing battle | PersonX fights PersonX's battles,"fight:5,give:2,take:1",f_atomic_event
+fight,8,8,1,PersonX challenges ___ to a fight | PersonX has a huge fight | PersonX picks a fight,"pick:2,start:2,challenge:1",f_atomic_event
+game,8,8,1,PersonX buys a new game | PersonX buys a game | PersonX beats the game,"buy:4,take:2,beat:1",f_atomic_event
+ingredient,8,8,1,PersonX buys all the ingredients | PersonX buys all of the ingredients | PersonX buys the ingredients,"get:5,buy:3",f_atomic_event
+jail,8,8,1,PersonX puts PersonY in jail | PersonX sends to jail | PersonX spends ___ in jail,"spend:4,take:2,put:1",f_atomic_event
+lawn,8,8,1,PersonX mows lawns | PersonX mows the lawn | PersonX is mowing PersonX's lawn,"mow:6,water:2",f_atomic_event
+picture,8,8,1,PersonX gets PersonY picture | PersonX gets PersonX's picture taken | PersonX gets PersonY's picture taken,"get:5,give:2,take:1",f_atomic_event
+puppy,8,8,1,PersonX buys a new puppy | PersonX buys a puppy | PersonX gets a new puppy ___,"get:4,buy:2,give:2",f_atomic_event
+rent,8,8,1,PersonX has enough money to pay PersonY's rent | PersonX has enough money to pay PersonX's rent | PersonX pays PersonX's rent on time,pay:8,f_atomic_event
+room,8,8,1,PersonX enters the room | PersonX enters PersonY room | PersonX enters PersonY's room,"enter:3,hide:2,follow:1",f_atomic_event
+trick,8,8,1,PersonX does magic tricks | PersonX does the trick | PersonX goes trick or treating,"play:3,do:2,go:1",f_atomic_event
+walk,8,8,1,PersonX decides to take a walk | PersonX takes ___ on walks | PersonX takes ___ on a walk,take:8,f_atomic_event
+watch,8,8,1,PersonX buys a new watch | PersonX checks PersonY's watch | PersonX gets a new watch,"keep:2,buy:1,check:1",f_atomic_event
+answer,7,7,1,PersonX gets PersonY answer | PersonX gives PersonY answers | PersonX gives PersonY answer,"give:5,get:1,obtain:1",f_atomic_event
+baby,7,7,1,PersonX gives PersonY's baby ___ | PersonX gives PersonY's baby | PersonX gives PersonX's baby ___,"give:5,take:2",f_atomic_event
+bath,7,7,1,PersonX decides to take a bath | PersonX gets a bath | PersonX gives ___ a bath,"take:3,give:3,get:1",f_atomic_event
+birth,7,7,1,PersonX gives PersonY birth | PersonX gives birth to PersonY | PersonX gives birth,give:7,f_atomic_event
+class,7,7,1,PersonX drops the class | PersonX cuts class | PersonX gets ready for class,"give:2,drop:1,cut:1",f_atomic_event
+course,7,7,1,PersonX follows PersonX's course | PersonX follows PersonY course | PersonX follows PersonY's course,"take:4,follow:3",f_atomic_event
+date,7,7,1,PersonX gets a date with PersonY | PersonX gets a date | PersonX gets ready for a date,"take:4,get:3",f_atomic_event
+drink,7,7,1,PersonX buys PersonY a drink | PersonX buys PersonY drinks | PersonX buys a drink,"buy:3,get:2,give:1",f_atomic_event
+email,7,7,1,PersonX checks PersonY's email | PersonX finds an email | PersonX gets an email,"send:2,check:1,find:1",f_atomic_event
+haircut,7,7,1,PersonX decides to get a haircut | PersonX gets PersonX's haircut | PersonX gets a new haircut,"get:5,give:2",f_atomic_event
+hug,7,7,1,PersonX gives PersonY a hug | PersonX gives PersonY a huge hug | PersonX gives PersonY a big hug,"give:6,pull:1",f_atomic_event
+interview,7,7,1,PersonX gets a call for an interview | PersonX gets PersonY interview | PersonX gets ___ for an interview,"get:4,give:2,obtain:1",f_atomic_event
+letter,7,7,1,PersonX gets PersonY's letter | PersonX gets a letter | PersonX gets a letter in the mail,"get:4,give:2,open:1",f_atomic_event
+opinion,7,7,1,PersonX gets a second opinion | PersonX gives PersonX's opinions | PersonX gives PersonY PersonZ's opinion,"give:6,get:1",f_atomic_event
+present,7,7,1,PersonX gives PersonY presents | PersonX opens all PersonY's presents | PersonX opens all PersonX's presents,"open:6,give:1",f_atomic_event
+right,7,7,1,PersonX fights for PersonX's rights | PersonX fights for PersonY's rights | PersonX gives PersonY a right,"give:5,fight:2",f_atomic_event
+road,7,7,1,PersonX gets this ___ on the road | PersonX gets this show on the road | PersonX hits the road,"get:2,pull:2,hit:1",f_atomic_event
+seat,7,7,1,PersonX gets great seats | PersonX gives PersonY a seat | PersonX takes PersonY seat,"take:5,get:1,give:1",f_atomic_event
+spot,7,7,1,PersonX buys ___ on the spot | PersonX fires ___ on the spot | PersonX fires PersonY on the spot,"fire:3,buy:1,get:1",f_atomic_event
+supply,7,7,1,PersonX buys PersonY's supplies | PersonX buys PersonX's supplies | PersonX buys the supplies,"buy:5,get:2",f_atomic_event
+trouble,7,7,1,PersonX does n't get in trouble | PersonX gets PersonY in trouble | PersonX gets PersonY into trouble,"get:4,give:2,have:1",f_atomic_event
+birthday,6,6,1,PersonX buys ___ for PersonY's birthday | PersonX forgets PersonY's birthday | PersonX gets ___ on PersonX's birthday,"get:3,buy:1,forget:1",f_atomic_event
+bite,6,6,1,PersonX gets a bite | PersonX grabs a bite to eat | PersonX takes PersonX's first bite,"take:4,get:1,grab:1",f_atomic_event
+business,6,6,1,PersonX gets down to business | PersonX gives PersonY the business | PersonX opens a small business,"open:2,get:1,give:1",f_atomic_event
+coffee,6,6,1,PersonX buys coffee | PersonX buys a coffee | PersonX gets a coffee,"get:4,buy:2",f_atomic_event
+compliment,6,6,1,PersonX gets a lot of compliments | PersonX gets compliments | PersonX gets many compliments,"get:5,pay:1",f_atomic_event
+debt,6,6,1,PersonX pays PersonX's debt to society | PersonX pays PersonX's debts | PersonX pays PersonY debts,pay:6,f_atomic_event
+detail,6,6,1,PersonX follows in detail the ___ | PersonX gives PersonY the details | PersonX gives PersonY details,"pay:3,give:2,follow:1",f_atomic_event
+detention,6,6,1,PersonX gets detention | PersonX gives PersonY detention | PersonX gives detention,"give:5,get:1",f_atomic_event
+dress,6,6,1,PersonX buys PersonX's dress | PersonX buys a new dress | PersonX buys a dress,"buy:4,get:1",f_atomic_event
+feeling,6,6,1,PersonX conceals PersonX's feelings | PersonX gives PersonY the feeling | PersonX gives PersonY a feeling,"give:2,hurt:2,conceal:1",f_atomic_event
+finger,6,6,1,PersonX burns PersonX's fingers | PersonX cuts PersonY's finger | PersonX pushes PersonY's fingers,"pull:3,burn:1,cut:1",f_atomic_event
+grocery,6,6,1,PersonX buys groceries | PersonX buys PersonX's groceries | PersonX buys PersonY's groceries,"buy:5,get:1",f_atomic_event
+help,6,6,1,PersonX calls the police for help | PersonX gets some help | PersonX gets help,"get:4,call:1,give:1",f_atomic_event
+information,6,6,1,PersonX gets PersonY information | PersonX gives PersonY some information | PersonX gives PersonY the information,"give:3,get:1,obtain:1",f_atomic_event
+knee,6,6,1,PersonX drops to one knee | PersonX drops to PersonY's knees | PersonX gets down on one knee,"drop:2,get:1,hurt:1",f_atomic_event
+law,6,6,1,PersonX breaks a law | PersonX breaks the law | PersonX makes PersonX's laws,"break:2,make:2,lay:1",f_atomic_event
+milk,6,6,1,PersonX buys a gallon of milk | PersonX buys some milk | PersonX forgets the milk,"buy:2,get:2,forget:1",f_atomic_event
+nose,6,6,1,PersonX breaks PersonY's nose | PersonX cuts off PersonX's nose to spite PersonX's face | PersonX gets a bloody nose,"get:2,break:1,cut:1",f_atomic_event
+pet,6,6,1,PersonX buys a new pet | PersonX buys ___ at the pet store | PersonX buys ___ as a pet,"buy:3,get:3",f_atomic_event
+police,6,6,1,PersonX calls the police for help | PersonX catches by the police | PersonX calls the police,"call:3,report:2,catch:1",f_atomic_event
+prison,6,6,1,PersonX is sent to prison | PersonX puts PersonY in prison | PersonX sends PersonY to prison,"send:2,put:1,serve:1",f_atomic_event
+share,6,6,1,PersonX gets PersonY's share | PersonX gives PersonY a share | PersonX pays PersonY's share,"take:3,get:1,give:1",f_atomic_event
+shirt,6,6,1,PersonX buys a new shirt | PersonX buys a shirt | PersonX buys the shirt,"buy:3,get:1,pull:1",f_atomic_event
+taxis,6,6,1,PersonX files PersonY's taxes | PersonX files PersonX's taxes | PersonX files taxes,"file:3,pay:3",f_atomic_event
+view,6,6,1,PersonX gets PersonY view | PersonX gives PersonX's views | PersonX gives PersonY a view,"give:3,take:2,get:1",f_atomic_event
+window,6,6,1,PersonX breaks PersonX's window | PersonX breaks PersonY's window | PersonX breaks the window,"break:4,open:2",f_atomic_event
+year,6,6,1,PersonX gets ___ that year | PersonX gets ___ this year | PersonX gets married a year later,"get:3,take:2,pay:1",f_atomic_event
+access,5,5,1,PersonX allows PersonY access | PersonX denies PersonY access | PersonX gives PersonY access,"give:2,allow:1,deny:1",f_atomic_event
+bag,5,5,1,PersonX drops PersonY's bag | PersonX drops the bag | PersonX drops PersonY's bags,"drop:3,grab:1,open:1",f_atomic_event
+boss,5,5,1,PersonX gets a new boss | PersonX gets a call from PersonX's boss | PersonX gets a call from PersonY's boss,"get:4,sue:1",f_atomic_event
+bread,5,5,1,PersonX buys a loaf of bread | PersonX buys some bread | PersonX buys bread,"buy:3,give:1,save:1",f_atomic_event
+cell_phone,5,5,2,PersonX buys a new cell phone | PersonX drops PersonY's cell phone | PersonX drops PersonX's cell phone,"drop:2,buy:1,get:1",f_atomic_event
+clothe,5,5,1,PersonX buys PersonX's clothes | PersonX buys some new clothes | PersonX buys clothes,"buy:4,take:1",f_atomic_event
+computer,5,5,1,PersonX buys a computer | PersonX buys a new computer | PersonX buys the computer,"buy:3,get:2",f_atomic_event
+damage,5,5,1,PersonX assesses the damage | PersonX causes PersonY damage | PersonX protects the ___ from damage,"protect:2,assess:1,cause:1",f_atomic_event
+divorce,5,5,1,PersonX files for a divorce | PersonX files for divorce ___ | PersonX files for divorce,"get:2,file:1",f_atomic_event
+egg,5,5,1,PersonX buys eggs | PersonX hides eggs | PersonX makes scrambled eggs for breakfast,"buy:1,hide:1,make:1",f_atomic_event
+example,5,5,1,PersonX follows PersonY's example | PersonX follows PersonY example | PersonX gives PersonY example,"follow:2,give:2,take:1",f_atomic_event
+file,5,5,1,PersonX creates PersonY file | PersonX files for bankruptcy | PersonX files for unemployment,create:1,f_atomic_event
+flower,5,5,1,PersonX buys PersonY's flowers | PersonX buys flowers | PersonX gets flowers,"buy:2,give:2,get:1",f_atomic_event
+fridge,5,5,1,PersonX gets ___ from the fridge | PersonX grabs ___ from the fridge | PersonX opens PersonY's fridge,"open:3,get:1,grab:1",f_atomic_event
+good,5,5,1,PersonX gets the goods on ___ | PersonX pays ___ for goods | PersonX sells PersonX's goods,"sell:3,get:1,pay:1",f_atomic_event
+hospital,5,5,1,PersonX has to take PersonY to the hospital | PersonX has to be taken to the hospital | PersonX is taken to the hospital,take:5,f_atomic_event
+hour,5,5,1,PersonX takes PersonX's hours | PersonX takes PersonY's hours | PersonX takes PersonY two hours,take:5,f_atomic_event
+instruction,5,5,1,PersonX follows PersonX's instructions | PersonX follows the instructions | PersonX follows PersonY's instructions,"follow:3,give:2",f_atomic_event
+laptop,5,5,1,PersonX buys a laptop | PersonX buys a new laptop | PersonX drops PersonX's laptop,"buy:2,drop:2,take:1",f_atomic_event
+mail,5,5,1,PersonX gets ___ in the mail | PersonX gets PersonY's mail | PersonX gets a letter in the mail,get:5,f_atomic_event
+market,5,5,1,PersonX buys ___ in the market | PersonX markets and sell a product or service | PersonX sells PersonY's ___ in the market,"sell:2,buy:1,take:1",f_atomic_event
+pant,5,5,1,PersonX buys a new pair of pants | PersonX buys new pants | PersonX gets new pants,"buy:2,get:2,pull:1",f_atomic_event
+park,5,5,1,PersonX hits ___ out of the park | PersonX takes ___ in the park | PersonX takes PersonY to the park,"take:4,hit:1",f_atomic_event
+pleasure,5,5,1,PersonX gives PersonY's pleasure | PersonX gives PersonY the pleasure | PersonX gives PersonY pleasure,give:5,f_atomic_event
+position,5,5,1,PersonX gives PersonX's position | PersonX gives PersonY a position | PersonX gives PersonY's position,"give:3,take:2",f_atomic_event
+problem,5,5,1,PersonX forgets PersonX's problems | PersonX gives ___ to problems | PersonX pays ___ to the problems,"pay:3,forget:1,give:1",f_atomic_event
+promotion,5,5,1,PersonX gets the promotion | PersonX gets a promotion | PersonX gets a promotion at work,"get:3,give:2",f_atomic_event
+ride,5,5,1,PersonX gets a ride | PersonX gives PersonY a ride | PersonX gives ___ a ride,"give:2,take:2,get:1",f_atomic_event
+shelter,5,5,1,PersonX gives PersonY shelter | PersonX takes ___ to a shelter | PersonX takes PersonY to a shelter,"take:4,give:1",f_atomic_event
+smile,5,5,1,PersonX gives ___ a big smile | PersonX gives PersonY a small smile | PersonX gives PersonY a smile,give:5,f_atomic_event
+snack,5,5,1,PersonX buys a snack | PersonX buys snacks | PersonX buys some snacks,"buy:3,get:2",f_atomic_event
+stone,5,5,1,PersonX gets blood out of a stone | PersonX gets blood from a stone | PersonX kills ___ with stone,"kill:3,get:2",f_atomic_event
+tire,5,5,1,PersonX buys a new tire | PersonX gets new tires | PersonX gets a flat tire,"get:2,kick:2,buy:1",f_atomic_event
+today,5,5,1,PersonX buys ___ today | PersonX gets ___ today | PersonX gets done today,"get:2,buy:1,do:1",f_atomic_event
+tree,5,5,1,PersonX cuts the tree | PersonX cuts the tree down | PersonX gets ___ out of the tree,"cut:2,get:2,hit:1",f_atomic_event
+truck,5,5,1,PersonX buys a truck | PersonX buys a new truck | PersonX buys the truck,"buy:3,take:2",f_atomic_event
+vet,5,5,1,PersonX takes PersonY's cat to the vet | PersonX takes PersonX's cat to the vet | PersonX takes PersonY to the vet,take:5,f_atomic_event
+video,5,5,1,PersonX watches videos | PersonX watches videos online | PersonX watches youtube videos,"watch:4,youtube:1",f_atomic_event
+week,5,5,1,PersonX buys ___ every week | PersonX buys ___ last week | PersonX buys ___ this week,"buy:3,get:1,take:1",f_atomic_event
+weight,5,5,1,PersonX hits below PersonX's weight | PersonX hits above PersonX's weight | PersonX punches below PersonX's weight,"hit:2,punch:2,pull:1",f_atomic_event
+allowance,4,4,1,PersonX gives PersonY an allowance | PersonX gives ___ an allowance | PersonX takes PersonX's allowance,"give:2,take:2",f_atomic_event
+back,4,4,1,PersonX breaks the back of ___ | PersonX slaps PersonY on the back | PersonX stabs in the back,"break:1,slap:1",f_atomic_event
+bathroom,4,4,1,PersonX has to use the bathroom | PersonX hides in the bathroom | PersonX takes PersonY to the bathroom,"take:2,use:1,hide:1",f_atomic_event
+box,4,4,1,PersonX drops the box | PersonX gives PersonY a box | PersonX opens the box,"drop:1,give:1,open:1",f_atomic_event
+chest,4,4,1,PersonX gets ___ off PersonX's chest | PersonX gets the dirty water off PersonX's chest | PersonX grabs PersonY's chest,"get:2,grab:1,open:1",f_atomic_event
+contest,4,4,1,PersonX enters ___ into a contest | PersonX enters ___ eating contest | PersonX enters the contest,"enter:3,eat:1",f_atomic_event
+court,4,4,1,PersonX has to go to court | PersonX refers the ___ to the court | PersonX takes PersonY to court,"take:2,go:1,refer:1",f_atomic_event
+degree,4,4,1,PersonX gets a degree | PersonX gets PersonX's degree | PersonX takes PersonY degree,"get:2,take:2",f_atomic_event
+direction,4,4,1,PersonX follows the directions | PersonX gives PersonY direction | PersonX gives PersonY directions,"give:3,follow:1",f_atomic_event
+dog_park,4,4,2,PersonX takes PersonX's dog to the dog park | PersonX takes ___ to a dog park | PersonX takes PersonY's dog to the dog park,take:4,f_atomic_event
+education,4,4,1,PersonX gets PersonY education | PersonX gives PersonY education | PersonX gives PersonY a education,"give:2,get:1,obtain:1",f_atomic_event
+end,4,4,1,PersonX burns the candle at both ends | PersonX burns PersonX's candle at both ends | PersonX burns the ___ at both ends,"burn:3,take:1",f_atomic_event
+enemy,4,4,1,PersonX attacks the enemy 's ___ | PersonX breaks the enemy 's ___ | PersonX destroys the enemy 's ___,"attack:1,break:1,destroy:1",f_atomic_event
+escape,4,4,1,PersonX effects PersonY's escape | PersonX effects PersonX's escape | PersonX makes PersonX's escape,"effect:1,make:1,prevent:1",f_atomic_event
+fee,4,4,1,PersonX pays PersonX's fees | PersonX pays PersonY fee | PersonX pays PersonY's fees,pay:4,f_atomic_event
+form,4,4,1,PersonX gives PersonY form | PersonX opens ___ in the form | PersonX opens projects in the form,"open:2,give:1,take:1",f_atomic_event
+grab,4,4,1,PersonX grabs and go | PersonX grabs by the lapels | PersonX grabs PersonY hand,,f_atomic_event
+hat,4,4,1,PersonX buys a new hat | PersonX pulls a rabbit out of a hat | PersonX pulls out of the hat,"pull:2,buy:1,take:1",f_atomic_event
+hint,4,4,1,PersonX drops hints | PersonX drops a hint | PersonX gives PersonY a hint,"drop:2,give:2",f_atomic_event
+hole,4,4,1,PersonX burns a hole in PersonX's pocket | PersonX cuts a hole | PersonX gets a hole,"get:2,burn:1,cut:1",f_atomic_event
+horse,4,4,1,PersonX beats a dead horse | PersonX closes the stable door after the horse has bolted | PersonX gets back on the horse that bucked you,"get:2,beat:1,bolt:1",f_atomic_event
+kiss,4,4,1,PersonX breaks PersonY's kiss | PersonX gets PersonX's first kiss | PersonX gives PersonY a kiss,"give:2,break:1,get:1",f_atomic_event
+kitten,4,4,1,PersonX gets a new kitten | PersonX gets a kitten | PersonX gives the kitten,"get:2,give:2",f_atomic_event
+license,4,4,1,PersonX gets PersonX's pilot 's license | PersonX gets PersonY's license | PersonX gets PersonY's driver 's license,get:4,f_atomic_event
+lottery_ticket,4,4,2,PersonX buys a lottery ticket | PersonX buys a scratch lottery ticket | PersonX buys lottery tickets,buy:4,f_atomic_event
+message,4,4,1,PersonX gets a message | PersonX gets the message across | PersonX gives PersonY a message,"get:2,give:2",f_atomic_event
+minute,4,4,1,PersonX gives PersonY a minute | PersonX takes ___ 20 minutes | PersonX takes a few minutes,"take:3,give:1",f_atomic_event
+murder,4,4,1,PersonX gets away with murder | PersonX murders PersonY's wife | PersonX screams blue murder,"scream:2,get:1",f_atomic_event
+nail,4,4,1,PersonX cuts PersonX's nails | PersonX cuts PersonY's nails | PersonX gets PersonX's nails done,"cut:2,get:1,hit:1",f_atomic_event
+notice,4,4,1,PersonX gets a notice | PersonX gives PersonY notice | PersonX gives notice,"give:2,get:1,take:1",f_atomic_event
+office,4,4,1,PersonX enters PersonY's office | PersonX enters PersonX's office | PersonX takes PersonY to the doctor 's office,"enter:2,take:2",f_atomic_event
+paycheck,4,4,1,PersonX cashes PersonX's paycheck | PersonX gets PersonX's paycheck | PersonX lives paycheck to paycheck,"cash:1,get:1,live:1",f_atomic_event
+payment,4,4,1,PersonX accepts ___ in payment | PersonX draws PersonX's ___ upon the treasurer for the payment | PersonX makes PersonY payment,"accept:1,draw:1,make:1",f_atomic_event
+pill,4,4,1,PersonX gives PersonY some pills | PersonX gilds the pill | PersonX gives ___ some pills,"give:2,gild:1,swallow:1",f_atomic_event
+pillow,4,4,1,PersonX puts it under PersonY's pillow | PersonX puts ___ under PersonX's pillow | PersonX puts it under PersonX's pillow,put:4,f_atomic_event
+pizza,4,4,1,PersonX buys pizza | PersonX gets some pizza | PersonX gets pizza,"get:3,buy:1",f_atomic_event
+power,4,4,1,PersonX abuses PersonX's power | PersonX gives PersonY power | PersonX gives PersonY the power,"give:3,abuse:1",f_atomic_event
+purse,4,4,1,PersonX buys a new purse | PersonX grabs PersonY's purse | PersonX steals PersonY's purse,"buy:1,grab:1,steal:1",f_atomic_event
+raise,4,4,1,PersonX gets a raise | PersonX gives PersonY a raise | PersonX gives ___ a raise,"get:2,give:2",f_atomic_event
+reason,4,4,1,PersonX gives PersonX's reasons | PersonX gives PersonY a reason | PersonX gives PersonY reasons,give:4,f_atomic_event
+refund,4,4,1,PersonX gets a full refund | PersonX gets a refund | PersonX gives PersonY a refund,"get:2,give:2",f_atomic_event
+restaurant,4,4,1,PersonX opens a restaurant | PersonX takes ___ to PersonX's favorite restaurant | PersonX takes ___ to a restaurant,"take:3,open:1",f_atomic_event
+ring,4,4,1,PersonX buys a ring | PersonX buys the ring | PersonX gets the ring,"buy:2,get:1,give:1",f_atomic_event
+shop,4,4,1,PersonX opens PersonX's own shop | PersonX shops online | PersonX takes ___ to a shop,"take:2,open:1",f_atomic_event
+shoulder,4,4,1,PersonX gives PersonY the cold shoulder | PersonX grabs PersonY by the shoulders | PersonX grabs PersonY's shoulders,"grab:2,give:1",f_atomic_event
+sleep,4,4,1,PersonX gets PersonY sleep | PersonX gets much sleep | PersonX gets some sleep,get:4,f_atomic_event
+speech,4,4,1,PersonX gives PersonX's speech | PersonX gives a great speech | PersonX gives a speech,give:4,f_atomic_event
+television,4,4,1,PersonX buys a new television | PersonX buys a television | PersonX loves watching television,"buy:2,watch:2",f_atomic_event
+tooth,4,4,1,PersonX cuts PersonX's teeth | PersonX lies through PersonX's teeth | PersonX pulls teeth,"pull:2,cut:1,lie:1",f_atomic_event
+understanding,4,4,1,PersonX gets PersonY understanding | PersonX gives PersonY understanding | PersonX gives PersonY a understanding,"give:2,get:1,obtain:1",f_atomic_event
+visit,4,4,1,PersonX pays PersonY visit | PersonX pays PersonY's visit | PersonX pays PersonY a visit,pay:4,f_atomic_event
+warning,4,4,1,PersonX gets a warning | PersonX gives PersonY a warning | PersonX gives PersonY warning,"give:3,get:1",f_atomic_event
+wet,4,4,1,PersonX gets PersonX's feet wet | PersonX gets all wet | PersonX gets soaking wet,"get:3,soak:1",f_atomic_event
+air,3,3,1,PersonX gets some fresh air | PersonX gets some air | PersonX gives PersonY air,"get:2,give:1",f_atomic_event
+amazon,3,3,1,PersonX buys ___ on amazon | PersonX buys ___ from amazon | PersonX sells ___ on amazon,"buy:2,sell:1",f_atomic_event
+ankle,3,3,1,PersonX breaks PersonY's ankle | PersonX hurts my ankle | PersonX hurts PersonX's ankle,"hurt:2,break:1",f_atomic_event
+appearance,3,3,1,PersonX gives PersonY the appearance | PersonX gives PersonY appearance | PersonX gives the ___ a appearance,give:3,f_atomic_event
+autograph,3,3,1,PersonX gets PersonY's autograph | PersonX gets autographs | PersonX gets an autograph,get:3,f_atomic_event
+beach,3,3,1,PersonX takes PersonY to the beach | PersonX takes PersonY's family to the beach | PersonX takes ___ to the beach,take:3,f_atomic_event
+beat,3,3,1,PersonX marches to the beat of a different drum | PersonX pounds a beat | PersonX skips a beat,"march:1,pound:1,skip:1",f_atomic_event
+beer,3,3,1,PersonX buys beer | PersonX gets a beer | PersonX gets beer,"get:2,buy:1",f_atomic_event
+benefit,3,3,1,PersonX gives PersonY the benefit | PersonX gives PersonY the benefit of the doubt | PersonX gives ___ the benefit of the doubt,give:3,f_atomic_event
+bird,3,3,1,PersonX goes bird watching | PersonX kills birds with stone | PersonX kills two birds with PersonX stone,"kill:2,go:1",f_atomic_event
+blood,3,3,1,PersonX gets PersonX's blood drawn | PersonX gets blood out of a stone | PersonX gets blood from a stone,get:3,f_atomic_event
+body,3,3,1,PersonX breaks every ___ in PersonX's body | PersonX breaks every ___ in PersonY's body | PersonX sells PersonX's body,"break:2,sell:1",f_atomic_event
+brand,3,3,1,PersonX buys a brand ___ | PersonX buys a brand new car | PersonX buys a brand,buy:3,f_atomic_event
+bushel,3,3,1,PersonX hides PersonY's ___ under a bushel | PersonX hides PersonX's light under a bushel | PersonX hides PersonX's ___ under a bushel,hide:3,f_atomic_event
+cage,3,3,1,PersonX escapes PersonY's cage | PersonX escapes PersonX's cage | PersonX escapes from PersonX's cage,escape:3,f_atomic_event
+camera,3,3,1,PersonX buys a new camera | PersonX buys a camera | PersonX gets a new camera,"buy:2,get:1",f_atomic_event
+care,3,3,1,PersonX has to take care of PersonY | PersonX is taken care of | PersonX would take care of it,take:3,f_atomic_event
+chair,3,3,1,PersonX buys a new chair | PersonX gives PersonY the chair | PersonX pushes PersonY's chair,"buy:1,give:1,push:1",f_atomic_event
+chicken,3,3,1,PersonX chokes the chicken | PersonX gets up with the chickens | PersonX runs around like a chicken with its head cut off,"choke:1,get:1,run:1",f_atomic_event
+city,3,3,1,PersonX hits PersonY's city | PersonX hits PersonX's city | PersonX takes ___ to the city,"hit:2,take:1",f_atomic_event
+college,3,3,1,PersonX gets ___ to college | PersonX gets a scholarship to college | PersonX takes ___ in college,"get:2,take:1",f_atomic_event
+control,3,3,1,PersonX gets PersonX's ___ under control | PersonX gets ___ under control | PersonX gives PersonY control,"get:2,give:1",f_atomic_event
+cooky,3,3,1,PersonX buys cookies | PersonX is selling cookies | PersonX sells cookies,"sell:2,buy:1",f_atomic_event
+cop,3,3,1,PersonX calls the cops | PersonX calls the cops on PersonY | PersonX is pulled over by a cop,"call:2,pull:1",f_atomic_event
+copy,3,3,1,PersonX gives PersonY a copy | PersonX makes copies | PersonX sends PersonY a copy,"give:1,make:1,send:1",f_atomic_event
+country,3,3,1,PersonX fights for PersonX's country | PersonX fights for PersonY's country | PersonX takes ___ across the country,"fight:2,take:1",f_atomic_event
+credit_card,3,3,2,PersonX applies for a credit card | PersonX gets a credit card | PersonX gets PersonY's credit card,"get:2,apply:1",f_atomic_event
+datum,3,3,1,PersonX bases upon data | PersonX draws ___ from the data | PersonX draws ___ from data,"draw:2,base:1",f_atomic_event
+deal,3,3,1,PersonX gets a great deal | PersonX gets a good deal | PersonX gives PersonY a deal,"get:2,give:1",f_atomic_event
+deer,3,3,1,PersonX hits a deer | PersonX hits the deer | PersonX shoots a deer,"hit:2,shoot:1",f_atomic_event
+discount,3,3,1,PersonX gets a discount | PersonX gives ___ a discount | PersonX gives PersonY a discount,"give:2,get:1",f_atomic_event
+floor,3,3,1,PersonX drops ___ on the floor | PersonX drops it on the floor | PersonX hits the floor,"drop:2,hit:1",f_atomic_event
+gas,3,3,1,PersonX buys gas | PersonX gets gas | PersonX hits the gas,"buy:1,get:1,hit:1",f_atomic_event
+gift_card,3,3,2,PersonX buys a gift card | PersonX gives ___ a gift card | PersonX gives PersonY a gift card,"give:2,buy:1",f_atomic_event
+grocery_store,3,3,2,PersonX buys ___ from the grocery store | PersonX buys ___ at the grocery store | PersonX takes ___ to the grocery store,"buy:2,take:1",f_atomic_event
+guitar,3,3,1,PersonX buys a new guitar | PersonX buys a guitar | PersonX buys the guitar,buy:3,f_atomic_event
+headache,3,3,1,PersonX gets headaches | PersonX gives PersonY a headache | PersonX gives ___ a headache,"give:2,get:1",f_atomic_event
+hike,3,3,1,PersonX takes PersonY on a hike | PersonX takes a hike | PersonX takes a hike in the woods,take:3,f_atomic_event
+hip,3,3,1,PersonX breaks PersonX's hip | PersonX grabs PersonY's hips | PersonX pushes PersonY's hips,"break:1,grab:1,push:1",f_atomic_event
+hit,3,3,1,PersonX gets a hit | PersonX is a big hit | PersonX is a huge hit,get:1,f_atomic_event
+hope,3,3,1,PersonX gets PersonX's hopes up | PersonX gives PersonY hopes | PersonX gives PersonY hope,"give:2,get:1",f_atomic_event
+ice,3,3,1,PersonX breaks the ice | PersonX hits a patch of black ice | PersonX sells ice to eskimos,"break:1,hit:1,sell:1",f_atomic_event
+impression,3,3,1,PersonX gets PersonY impression | PersonX gives PersonY impression | PersonX gives PersonY the impression,"give:2,get:1",f_atomic_event
+king,3,3,1,PersonX enters the king 's ___ | PersonX pays PersonX's ___ to the king | PersonX pays ___ to the king,"pay:2,enter:1",f_atomic_event
+knife,3,3,1,PersonX brings a knife to a gunfight | PersonX grabs a knife | PersonX sticks the knife in ___,"bring:1,grab:1,stick:1",f_atomic_event
+land,3,3,1,PersonX sells PersonY's land | PersonX sees how the land lies | PersonX sells PersonX's land,"sell:2,lie:1",f_atomic_event
+lesson,3,3,1,PersonX gets lessons | PersonX gives PersonY a lesson | PersonX gives PersonY lessons,"give:2,get:1",f_atomic_event
+library,3,3,1,PersonX gets ___ from the library | PersonX takes PersonY to the library | PersonX takes ___ to the library,"take:2,get:1",f_atomic_event
+light,3,3,1,PersonX gives PersonY light | PersonX hides PersonX's light under a bushel | PersonX punches PersonY's lights out,"give:1,hide:1,punch:1",f_atomic_event
+line,3,3,1,PersonX drops PersonY a line | PersonX forgets PersonX's lines | PersonX gets to the front of the line,"drop:1,forget:1,get:1",f_atomic_event
+mall,3,3,1,PersonX buys ___ at the mall | PersonX takes PersonY to the mall | PersonX takes ___ to the mall,"take:2,buy:1",f_atomic_event
+massage,3,3,1,PersonX gets a massage | PersonX gives PersonY a massage | PersonX gives ___ a massage,"give:2,get:1",f_atomic_event
+motorcycle,3,3,1,PersonX buys a motorcycle | PersonX buys a new motorcycle | PersonX sells PersonX's motorcycle,"buy:2,sell:1",f_atomic_event
+need,3,3,1,PersonX is in dire need of money | PersonX pays ___ to the needs | PersonX takes ___ of the needs,"pay:1,take:1",f_atomic_event
+nighter,3,3,1,PersonX decides to pull an all-nighter | PersonX pulls an all-nighter to study | PersonX pulls an all-nighter,pull:3,f_atomic_event
+note,3,3,1,PersonX gets a note | PersonX gives PersonY a note | PersonX hits the high notes,"get:1,give:1,hit:1",f_atomic_event
+oven,3,3,1,PersonX opens the oven | PersonX pulls ___ out of the oven | PersonX takes ___ out of the oven,"open:1,pull:1,take:1",f_atomic_event
+party,3,3,1,PersonX buys ___ for the party | PersonX decides to throw a party | PersonX is throwing a party,"throw:2,buy:1",f_atomic_event
+piece,3,3,1,PersonX breaketh the ___ in pieces | PersonX gives PersonY a piece | PersonX gives PersonY a piece of PersonX's mind,give:2,f_atomic_event
+pocket,3,3,1,PersonX burns a hole in PersonX's pocket | PersonX pulls ___ out of PersonY's pocket | PersonX pulls ___ from PersonY's pocket,"pull:2,burn:1",f_atomic_event
+police_officer,3,3,2,PersonX becomes a police officer | PersonX is a police officer | PersonX is pulled over by a police officer,"become:1,pull:1",f_atomic_event
+prank,3,3,1,PersonX pulls a prank | PersonX pulls a prank on PersonY | PersonX pulls pranks,pull:3,f_atomic_event
+product,3,3,1,PersonX markets and sell a product or service | PersonX sells PersonX's products | PersonX sells PersonY's products,sell:3,f_atomic_event
+punch,3,3,1,PersonX beats to the punch | PersonX pulls punches | PersonX pulls PersonX's punches,"pull:2,beat:1",f_atomic_event
+reader,3,3,1,PersonX gives the reader some ___ | PersonX gives the reader PersonY idea | PersonX gives the reader a ___,give:3,f_atomic_event
+recipe,3,3,1,PersonX follows a recipe | PersonX follows the recipe exactly | PersonX follows the recipe,follow:3,f_atomic_event
+record,3,3,1,PersonX beats PersonY's personal record | PersonX beats PersonX's personal record | PersonX breaks the record,"beat:2,break:1",f_atomic_event
+respect,3,3,1,PersonX pays PersonY respects | PersonX pays PersonX's respects | PersonX pays PersonY's respects,pay:3,f_atomic_event
+result,3,3,1,PersonX gets ___ as a result | PersonX gets the results | PersonX takes ___ as a result,"get:2,take:1",f_atomic_event
+revenge,3,3,1,PersonX gets revenge | PersonX takes PersonY's revenge | PersonX takes PersonX's revenge,"take:2,get:1",f_atomic_event
+ride_home,3,3,2,PersonX gets a ride home | PersonX gives PersonY a ride home | PersonX gives ___ a ride home,"give:2,get:1",f_atomic_event
+role,3,3,1,PersonX gets the role | PersonX gets the lead role | PersonX takes PersonY role,"get:2,take:1",f_atomic_event
+shape,3,3,1,PersonX gets in better shape | PersonX gets bent out of shape | PersonX wants to get in shape,get:3,f_atomic_event
+sign,3,3,1,PersonX gives PersonY sign | PersonX gives PersonY a sign | PersonX takes ___ as a sign,"give:2,take:1",f_atomic_event
+soda,3,3,1,PersonX buys a soda | PersonX gets a soda from the vending machine | PersonX gets a soda,"get:2,buy:1",f_atomic_event
+stain,3,3,1,PersonX gets the stain | PersonX gets a stain | PersonX gets the stain out,get:3,f_atomic_event
+stand,3,3,1,PersonX takes PersonX's stand | PersonX takes PersonY's stand | PersonX takes PersonY stand,take:3,f_atomic_event
+stride,3,3,1,PersonX gets into PersonX's stride | PersonX takes ___ in PersonX's stride | PersonX takes ___ in stride,"take:2,get:1",f_atomic_event
+stuff,3,3,1,PersonX gets PersonY's stuff | PersonX gets my stuff together | PersonX grabs PersonY's stuff,"get:2,grab:1",f_atomic_event
+suit,3,3,1,PersonX buys a suit | PersonX buys a new suit | PersonX follows suit,"buy:2,follow:1",f_atomic_event
+sunscreen,3,3,1,PersonX forgets PersonX's sunscreen | PersonX forgets PersonY's sunscreen | PersonX forgets to put on sunscreen,"forget:2,put:1",f_atomic_event
+support,3,3,1,PersonX gives PersonY support | PersonX gives PersonY's support | PersonX gives PersonY the support,give:3,f_atomic_event
+sweater,3,3,1,PersonX buys a sweater | PersonX buys a new sweater | PersonX buys the sweater,buy:3,f_atomic_event
+taxi,3,3,1,PersonX calls a taxi | PersonX gets a taxi | PersonX hails a taxi,"call:1,get:1,hail:1",f_atomic_event
+team,3,3,1,PersonX cuts from the team | PersonX gets a team together | PersonX takes PersonX for the team,"cut:1,get:1,take:1",f_atomic_event
+throat,3,3,1,PersonX cuts PersonX's throat | PersonX cuts PersonY throat | PersonX cuts PersonY's throat,cut:3,f_atomic_event
+tip,3,3,1,PersonX gives PersonY some tips | PersonX gives PersonY tips | PersonX gives ___ tips,give:3,f_atomic_event
+towel,3,3,1,PersonX gets PersonY's towel | PersonX gets PersonX's towel | PersonX grabs a towel,"get:2,grab:1",f_atomic_event
+track_team,3,3,2,PersonX makes the track team | PersonX is on the track team | PersonX joins the track team,"make:1,join:1",f_atomic_event
+treat,3,3,1,PersonX gets a treat | PersonX gives PersonY a treat | PersonX gives ___ a treat,"give:2,get:1",f_atomic_event
+treatment,3,3,1,PersonX gives PersonY treatment | PersonX gets treatment | PersonX gives the royal treatment,"give:2,get:1",f_atomic_event
+try,3,3,1,PersonX decides to give it a try | PersonX gives it a try | PersonX gives ___ a try,give:3,f_atomic_event
+veterinarian,3,3,1,PersonX takes PersonY to the veterinarian | PersonX takes ___ to a veterinarian | PersonX takes ___ to the veterinarian,take:3,f_atomic_event
+video_game,3,3,2,PersonX buys a video game | PersonX buys a new video game | PersonX gets a new video game,"buy:2,get:1",f_atomic_event
+wall,3,3,1,PersonX breaks the fourth wall | PersonX hits a wall | PersonX pisses money up the wall,"break:1,hit:1,piss:1",f_atomic_event
+wood,3,3,1,PersonX buys some wood | PersonX gets lost in the woods | PersonX takes a hike in the woods,"buy:1,lose:1,take:1",f_atomic_event
+wound,3,3,1,PersonX licks PersonX's wounds | PersonX rubs salt in the wound | PersonX rubs salt in PersonY's wounds,"salt:2,lick:1",f_atomic_event
+wrist,3,3,1,PersonX breaks PersonX's wrist | PersonX breaks PersonY's wrist | PersonX grabs PersonY's wrist,"break:2,grab:1",f_atomic_event
+accident,2,2,1,PersonX drops ___ by accident | PersonX kills in PersonY accident,"drop:1,kill:1",f_atomic_event
+act,2,2,1,PersonX gets PersonX's act together | PersonX gets in on the act,get:2,f_atomic_event
+advance,2,2,1,PersonX buys ___ in advance | PersonX pays ___ in advance,"buy:1,pay:1",f_atomic_event
+airport,2,2,1,PersonX takes PersonY to the airport | PersonX takes ___ to the airport,take:2,f_atomic_event
+alarm,2,2,1,PersonX forgets to set PersonY's alarm | PersonX forgets to set PersonX's alarm,set:2,f_atomic_event
+alliance,2,2,1,PersonX enters into PersonY alliance | PersonX forges PersonY alliance,"enter:1,forge:1",f_atomic_event
+allnighter,2,2,1,PersonX decides to pull an allnighter | PersonX pulls an allnighter,pull:2,f_atomic_event
+analysis,2,2,1,PersonX gives PersonY analysis | PersonX obtains ___ for analysis,"give:1,obtain:1",f_atomic_event
+anger,2,2,1,PersonX fires in anger | PersonX takes PersonY's anger,take:1,f_atomic_event
+animal_shelter,2,2,2,PersonX takes PersonY to the animal shelter | PersonX takes ___ to the animal shelter,take:2,f_atomic_event
+apartment,2,2,1,PersonX gets PersonX's own apartment | PersonX gets an apartment,get:2,f_atomic_event
+apple,2,2,1,PersonX buys an apple | PersonX buys apples,buy:2,f_atomic_event
+assault,2,2,1,PersonX carries the ___ by assault | PersonX makes PersonY assault,"carry:1,make:1",f_atomic_event
+bait,2,2,1,PersonX cuts bait | PersonX fish or cut bait,cut:2,f_atomic_event
+bank_account,2,2,2,PersonX checks PersonX's bank account | PersonX opens a new bank account,"check:1,open:1",f_atomic_event
+bankruptcy,2,2,1,PersonX files for bankruptcy | PersonX declares bankruptcy,declare:1,f_atomic_event
+bar,2,2,1,PersonX takes ___ to a bar | PersonX takes PersonY to a bar,take:2,f_atomic_event
+bearing,2,2,1,PersonX gets PersonX's bearings | PersonX gets PersonY bearings,get:2,f_atomic_event
+bidder,2,2,1,PersonX sells PersonX's ___ to the bidder | PersonX sells PersonY's ___ to the bidder,sell:2,f_atomic_event
+bonus,2,2,1,PersonX gives PersonY a bonus | PersonX gives ___ a bonus,give:2,f_atomic_event
+boot,2,2,1,PersonX buys a new pair of boots | PersonX gets the boot,"buy:1,get:1",f_atomic_event
+bottle,2,2,1,PersonX hits the bottle | PersonX opens a bottle of wine,"hit:1,open:1",f_atomic_event
+breath,2,2,1,PersonX takes PersonY breath away | PersonX takes PersonY's breath away,take:2,f_atomic_event
+brick,2,2,1,PersonX drops a brick | PersonX hits the bricks,"drop:1,hit:1",f_atomic_event
+burger,2,2,1,PersonX buys a burger | PersonX gets a burger,"buy:1,get:1",f_atomic_event
+cable_bill,2,2,2,PersonX pays PersonY's cable bill | PersonX pays PersonX's cable bill,pay:2,f_atomic_event
+cake,2,2,1,PersonX buys a cake | PersonX cuts the cake,"buy:1,cut:1",f_atomic_event
+camel,2,2,1,PersonX breaks the camel 's back | PersonX breaks the camel 's ___,break:2,f_atomic_event
+can,2,2,1,PersonX kicks at the can | PersonX kicks the can down the road,kick:2,f_atomic_event
+candle,2,2,1,PersonX burns the candle at both ends | PersonX burns PersonX's candle at both ends,burn:2,f_atomic_event
+cash,2,2,1,PersonX gets cash | PersonX pays cash,"get:1,pay:1",f_atomic_event
+cast,2,2,1,PersonX gets a cast | PersonX has to get a cast,get:2,f_atomic_event
+change,2,2,1,PersonX gets change | PersonX takes ___ of changes,"get:1,take:1",f_atomic_event
+chase,2,2,1,PersonX cuts to the chase | PersonX gives chase,"cut:1,give:1",f_atomic_event
+church,2,2,1,PersonX takes PersonY to church | PersonX takes ___ to church,take:2,f_atomic_event
+circus,2,2,1,PersonX takes PersonY to the circus | PersonX takes ___ to the circus,take:2,f_atomic_event
+closet,2,2,1,PersonX hides in PersonX's closet | PersonX hides in PersonY's closet,hide:2,f_atomic_event
+collection,2,2,1,PersonX sells PersonX's collection | PersonX sells PersonY's collection,sell:2,f_atomic_event
+command,2,2,1,PersonX gives PersonY the command | PersonX gives PersonY command,give:2,f_atomic_event
+company,2,2,1,PersonX buys ___ in the company | PersonX sues the company,"buy:1,sue:1",f_atomic_event
+competition,2,2,1,PersonX enters a competition | PersonX enters the competition,enter:2,f_atomic_event
+concert,2,2,1,PersonX buys ___ to a concert | PersonX buys tickets to a concert,buy:2,f_atomic_event
+cord,2,2,1,PersonX cuts the umbilical cord | PersonX cuts the cord,cut:2,f_atomic_event
+corner,2,2,1,PersonX cuts corners | PersonX fights PersonX's corner,"cut:1,fight:1",f_atomic_event
+courage,2,2,1,PersonX gives PersonY the courage | PersonX gives PersonY courage,give:2,f_atomic_event
+crowd,2,2,1,PersonX pushes PersonX's ___ through the crowd | PersonX pushes PersonY's ___ through the crowd,push:2,f_atomic_event
+cup,2,2,1,PersonX gets a cup of coffee | PersonX gives PersonY a cup,"get:1,give:1",f_atomic_event
+curtain,2,2,1,PersonX opens PersonX's curtains | PersonX opens PersonY's curtains,open:2,f_atomic_event
+cut,2,2,1,PersonX does n't make the cut | PersonX makes the cut,make:2,f_atomic_event
+death,2,2,1,PersonX beats PersonY to death | PersonX gives PersonY death,"beat:1,give:1",f_atomic_event
+dentist,2,2,1,PersonX takes PersonY to the dentist | PersonX takes ___ to the dentist,take:2,f_atomic_event
+description,2,2,1,PersonX gives PersonY description | PersonX gives PersonY a description,give:2,f_atomic_event
+devil,2,2,1,PersonX gives the devil his due | PersonX sells PersonX's ___ to the devil,"give:1,sell:1",f_atomic_event
+disney_world,2,2,2,PersonX takes PersonY to disney world | PersonX takes ___ to disney world,take:2,f_atomic_event
+dollar,2,2,1,PersonX gives PersonY dollars | PersonX pays PersonY dollars,"give:1,pay:1",f_atomic_event
+doubt,2,2,1,PersonX gives PersonY the benefit of the doubt | PersonX gives ___ the benefit of the doubt,give:2,f_atomic_event
+drive,2,2,1,PersonX takes ___ for a drive | PersonX takes a drive,take:2,f_atomic_event
+driver,2,2,1,PersonX gets PersonY's driver 's license | PersonX takes PersonX's driver 's test,"get:1,take:1",f_atomic_event
+ear,2,2,1,PersonX buys some ear plugs | PersonX gets PersonY's ears pierced,"buy:1,get:1",f_atomic_event
+emergency_room,2,2,2,PersonX takes PersonY to the emergency room | PersonX takes ___ to the emergency room,take:2,f_atomic_event
+estimate,2,2,1,PersonX gets PersonY estimate | PersonX gives PersonY estimate,"get:1,give:1",f_atomic_event
+exam,2,2,1,PersonX gets PersonX's exam back | PersonX takes PersonX's exam,"get:1,take:1",f_atomic_event
+expense,2,2,1,PersonX pays PersonY's expenses | PersonX pays PersonX's expenses,pay:2,f_atomic_event
+fact,2,2,1,PersonX pays ___ to the fact | PersonX takes ___ of the fact,"pay:1,take:1",f_atomic_event
+fall,2,2,1,PersonX breaks PersonX's fall | PersonX breaks PersonY's fall,break:2,f_atomic_event
+fan,2,2,1,PersonX buys a new fan | PersonX buys a fan,buy:2,f_atomic_event
+farm,2,2,1,PersonX buys a farm | PersonX buys the farm,buy:2,f_atomic_event
+field_trip,2,2,2,PersonX takes ___ on a field trip | PersonX takes a field trip,take:2,f_atomic_event
+fire_department,2,2,2,PersonX calls the fire department | PersonX has to call the fire department,call:2,f_atomic_event
+fish,2,2,1,PersonX buys a new fish | PersonX fish or cut bait,buy:1,f_atomic_event
+flight,2,2,1,PersonX gets another flight | PersonX takes a flight,"get:1,take:1",f_atomic_event
+food_poisoning,2,2,2,PersonX gets food poisoning | PersonX has food poisoning,"get:1,have:1",f_atomic_event
+forgiveness,2,2,1,PersonX asks PersonY's forgiveness | PersonX begs PersonY's forgiveness,"ask:1,beg:1",f_atomic_event
+fuel,2,2,1,PersonX adds fuel to the fire | PersonX pours fuel on the fire,"add:1,pour:1",f_atomic_event
+gate,2,2,1,PersonX opens the gate | PersonX leaves the gate open,"open:1,leave:1",f_atomic_event
+gaze,2,2,1,PersonX drops PersonY's gaze | PersonX follows PersonY's gaze,"drop:1,follow:1",f_atomic_event
+glance,2,2,1,PersonX gives PersonY a glance | PersonX steals a glance,"give:1,steal:1",f_atomic_event
+government,2,2,1,PersonX obtains ___ from the government | PersonX pays ___ to the government,"obtain:1,pay:1",f_atomic_event
+grandmother,2,2,1,PersonX gives ___ to PersonX's grandmother | PersonX gives ___ to PersonY's grandmother,give:2,f_atomic_event
+grass,2,2,1,PersonX cuts PersonY's grass | PersonX cuts the grass,cut:2,f_atomic_event
+grip,2,2,1,PersonX gets a grip | PersonX gets to grips with ___,get:2,f_atomic_event
+half,2,2,1,PersonX breaks ___ in half | PersonX cuts ___ in half,"break:1,cut:1",f_atomic_event
+hearing,2,2,1,PersonX gets PersonX's hearing checked | PersonX gives PersonY a hearing,"get:1,give:1",f_atomic_event
+heart_attack,2,2,2,PersonX dies of a heart attack | PersonX has a heart attack,"die:1,have:1",f_atomic_event
+heave,2,2,1,PersonX gives PersonY the old heave-ho | PersonX gives PersonY the heave-ho,give:2,f_atomic_event
+hell,2,2,1,PersonX destroys ___ in hell | PersonX hurts like hell,"destroy:1,hurt:1",f_atomic_event
+hide,2,2,1,PersonX has PersonY's hide | PersonX is playing hide and seek,"have:1,play:1",f_atomic_event
+history,2,2,1,PersonX gives PersonY's history | PersonX gives PersonX's history,give:2,f_atomic_event
+hold,2,2,1,PersonX gets a hold of PersonY | PersonX gets hold of PersonY,get:2,f_atomic_event
+homework,2,2,1,PersonX forgets PersonX's homework | PersonX forgets to do PersonX's homework,"forget:1,do:1",f_atomic_event
+identity,2,2,1,PersonX conceals PersonY's identity | PersonX conceals PersonX's identity,conceal:2,f_atomic_event
+ipad,2,2,1,PersonX gets a new ipad | PersonX gets an ipad,get:2,f_atomic_event
+iphone,2,2,1,PersonX buys a new iphone | PersonX gets a new iphone,"buy:1,get:1",f_atomic_event
+jacket,2,2,1,PersonX buys a new jacket | PersonX buys the jacket,buy:2,f_atomic_event
+kick,2,2,1,PersonX gets a kick out of ___ | PersonX gives PersonY a kick,"get:1,give:1",f_atomic_event
+knowledge,2,2,1,PersonX gives PersonY a knowledge | PersonX gives PersonY knowledge,give:2,f_atomic_event
+ladder,2,2,1,PersonX gets a ladder | PersonX grabs a ladder,"get:1,grab:1",f_atomic_event
+lake,2,2,1,PersonX takes ___ out on the lake | PersonX takes ___ to the lake,take:2,f_atomic_event
+lawyer,2,2,1,PersonX becomes a lawyer | PersonX hires a lawyer,"become:1,hire:1",f_atomic_event
+lead,2,2,1,PersonX follows PersonY's lead | PersonX gets the lead out,"follow:1,get:1",f_atomic_event
+lemonade,2,2,1,PersonX is selling lemonade | PersonX sells lemonade,sell:2,f_atomic_event
+lift,2,2,1,PersonX gives PersonY a lift | PersonX gives ___ a lift,give:2,f_atomic_event
+list,2,2,1,PersonX forgets PersonY's list | PersonX forgets PersonX's list,forget:2,f_atomic_event
+loan,2,2,1,PersonX gets a loan | PersonX gets a small loan,get:2,f_atomic_event
+machine,2,2,1,PersonX gets ___ from the vending machine | PersonX gets a soda from the vending machine,get:2,f_atomic_event
+makeover,2,2,1,PersonX gives ___ a makeover | PersonX gives PersonY a makeover,give:2,f_atomic_event
+mean,2,2,1,PersonX gives PersonY the means | PersonX obtains ___ by means,"give:1,obtain:1",f_atomic_event
+mechanic,2,2,1,PersonX takes ___ to a mechanic | PersonX takes ___ to the mechanic,take:2,f_atomic_event
+morning,2,2,1,PersonX gets ready in the morning | PersonX takes ___ in the morning,"get:1,take:1",f_atomic_event
+neck,2,2,1,PersonX breaks PersonY neck | PersonX breaks PersonY's neck,break:2,f_atomic_event
+offer,2,2,1,PersonX takes PersonY up on the offer | PersonX takes ___ up on the offer,take:2,f_atomic_event
+opening,2,2,1,PersonX finds PersonY opening | PersonX sees an opening,"find:1,see:1",f_atomic_event
+other,2,2,1,PersonX gets along with others | PersonX gives ___ to others,"get:1,give:1",f_atomic_event
+ovation,2,2,1,PersonX gets a standing ovation | PersonX gives ___ a standing ovation,"get:1,give:1",f_atomic_event
+permission,2,2,1,PersonX gives PersonY's permission | PersonX gives PersonY permission,give:2,f_atomic_event
+pound,2,2,1,PersonX takes PersonY to the pound | PersonX takes ___ to the pound,take:2,f_atomic_event
+prescription,2,2,1,PersonX buys ___ without prescription | PersonX gives ___ a prescription,"buy:1,give:1",f_atomic_event
+presentation,2,2,1,PersonX gives PersonX's presentation | PersonX gives a presentation,give:2,f_atomic_event
+privilege,2,2,1,PersonX pays ___ for the privilege | PersonX pays a ___ for the privilege,pay:2,f_atomic_event
+process,2,2,1,PersonX breaks ___ in the process | PersonX takes ___ in the process,"break:1,take:1",f_atomic_event
+project,2,2,1,PersonX gives a hint on PersonY's project | PersonX opens projects in the form,"give:1,open:1",f_atomic_event
+rate,2,2,1,PersonX pays ___ at the rate | PersonX pays ___ at a rate,pay:2,f_atomic_event
+replacement,2,2,1,PersonX buys a replacement | PersonX gets a replacement,"buy:1,get:1",f_atomic_event
+report,2,2,1,PersonX files a report | PersonX gives PersonY a report,"file:1,give:1",f_atomic_event
+retreat,2,2,1,PersonX beats a retreat | PersonX cuts off PersonY's retreat,"beat:1,cut:1",f_atomic_event
+reward,2,2,1,PersonX gives PersonY a reward | PersonX gives ___ a reward,give:2,f_atomic_event
+rifle,2,2,1,PersonX fires PersonX's rifle | PersonX fires PersonY's rifle,fire:2,f_atomic_event
+rock,2,2,1,PersonX hits a rock | PersonX hits the rocks,hit:2,f_atomic_event
+rub,2,2,1,PersonX rubs salt in the wound | PersonX rubs salt in PersonY's wounds,salt:2,f_atomic_event
+rug,2,2,1,PersonX cuts a rug | PersonX pulls the rug out from under PersonY,"cut:1,pull:1",f_atomic_event
+sack,2,2,1,PersonX gets the sack | PersonX hits the sack,"get:1,hit:1",f_atomic_event
+safety,2,2,1,PersonX pulls ___ to safety | PersonX pulls PersonY to safety,pull:2,f_atomic_event
+satisfaction,2,2,1,PersonX gives PersonY the satisfaction | PersonX gives PersonY satisfaction,give:2,f_atomic_event
+scholarship,2,2,1,PersonX gets a scholarship | PersonX gets a scholarship to college,get:2,f_atomic_event
+scope,2,2,1,PersonX lies outside the scope | PersonX lies beyond the scope,lie:2,f_atomic_event
+service,2,2,1,PersonX markets and sell a product or service | PersonX pays for PersonY's services,"sell:1,pay:1",f_atomic_event
+shake,2,2,1,PersonX gives PersonX's head a shake | PersonX gives PersonY a shake,give:2,f_atomic_event
+sheep,2,2,1,PersonX giveth PersonX's ___ for the sheep | PersonX giveth PersonY's ___ for the sheep,,f_atomic_event
+shock,2,2,1,PersonX gets a shock | PersonX gives PersonY a shock,"get:1,give:1",f_atomic_event
+shopping,2,2,1,PersonX takes PersonY's shopping | PersonX takes PersonY shopping,take:2,f_atomic_event
+show,2,2,1,PersonX gets this show on the road | PersonX watches the show,"get:1,watch:1",f_atomic_event
+society,2,2,1,PersonX follows ___ through society | PersonX pays PersonX's debt to society,"follow:1,pay:1",f_atomic_event
+sock,2,2,1,PersonX buys new socks | PersonX pulls PersonX's socks up,"buy:1,pull:1",f_atomic_event
+stab,2,2,1,PersonX has a stab | PersonX stabs in the back,have:1,f_atomic_event
+strength,2,2,1,PersonX gives PersonY strength | PersonX gives PersonY the strength,give:2,f_atomic_event
+student,2,2,1,PersonX takes PersonY's students | PersonX takes PersonX's students,take:2,f_atomic_event
+sunburn,2,2,1,PersonX gets a bad sunburn | PersonX gets a sunburn,get:2,f_atomic_event
+surgery,2,2,1,PersonX gets plastic surgery | PersonX gets surgery,get:2,f_atomic_event
+surprise,2,2,1,PersonX gets a surprise | PersonX takes PersonY by surprise,"get:1,take:1",f_atomic_event
+swath,2,2,1,PersonX cuts a swath | PersonX cuts a wide swath,cut:2,f_atomic_event
+swing,2,2,1,PersonX swings open the ___ | PersonX swings open,open:2,f_atomic_event
+target,2,2,1,PersonX buys ___ at target | PersonX hits the target,"buy:1,hit:1",f_atomic_event
+thank,2,2,1,PersonX gives PersonY thanks | PersonX gives thanks to god,give:2,f_atomic_event
+threat,2,2,1,PersonX carries out PersonX's threat | PersonX poses PersonY threat,"carry:1,pose:1",f_atomic_event
+toddler,2,2,1,PersonX takes PersonX's toddler | PersonX takes PersonY's toddler,take:2,f_atomic_event
+tongue,2,2,1,PersonX burns PersonX's tongue | PersonX pushes PersonY's tongue,"burn:1,push:1",f_atomic_event
+tool,2,2,1,PersonX grabs PersonY's tools | PersonX grabs PersonX's tools,grab:1,f_atomic_event
+touch,2,2,1,PersonX gets in touch with PersonY | PersonX kicks into touch,"get:1,kick:1",f_atomic_event
+toy,2,2,1,PersonX buys a toy | PersonX buys a new toy,buy:2,f_atomic_event
+trip,2,2,1,PersonX takes ___ on a trip | PersonX takes PersonY on a trip,take:2,f_atomic_event
+ultimatum,2,2,1,PersonX gives PersonY an ultimatum | PersonX gives ___ an ultimatum,give:2,f_atomic_event
+umbrella,2,2,1,PersonX forgets PersonX's umbrella | PersonX forgets PersonY's umbrella,forget:2,f_atomic_event
+usefulness,2,2,1,PersonX outlives PersonX's usefulness | PersonX outlives PersonY's usefulness,outlive:2,f_atomic_event
+user,2,2,1,PersonX meets the user 's ___ | PersonX provides ___ to users,"meet:1,provide:1",f_atomic_event
+vacation,2,2,1,PersonX takes ___ on a vacation | PersonX takes ___ on vacation,take:2,f_atomic_event
+vase,2,2,1,PersonX breaks PersonY's mother 's favorite vase | PersonX breaks PersonX's mother 's favorite vase,break:2,f_atomic_event
+ware,2,2,1,PersonX sells PersonX's wares | PersonX sells PersonY's wares,sell:2,f_atomic_event
+water_bill,2,2,2,PersonX pays PersonX's water bill | PersonX pays PersonY's water bill,pay:2,f_atomic_event
+world,2,2,1,PersonX gives ___ to the world | PersonX sets the world on fire,"give:1,set:1",f_atomic_event
+yesterday,2,2,1,PersonX buys ___ yesterday | PersonX gets ___ yesterday,"buy:1,get:1",f_atomic_event
+zoo,2,2,1,PersonX takes PersonY to the zoo | PersonX takes ___ to the zoo,take:2,f_atomic_event
+ability,1,1,1,PersonX gives PersonY the ability,give:1,f_atomic_event
+abortion,1,1,1,PersonX gets PersonY abortion,get:1,f_atomic_event
+abuse,1,1,1,PersonX protects ___ from abuse,protect:1,f_atomic_event
+accountant,1,1,1,PersonX works as an accountant,work:1,f_atomic_event
+action,1,1,1,PersonX takes PersonY action,take:1,f_atomic_event
+activity,1,1,1,PersonX takes ___ in activities,take:1,f_atomic_event
+address,1,1,1,PersonX gives PersonY address,give:1,f_atomic_event
+adoption,1,1,1,PersonX gives ___ up for adoption,give:1,f_atomic_event
+afford,1,1,1,PersonX affords to buy one,,f_atomic_event
+agreement,1,1,1,PersonX enters into PersonY agreement,enter:1,f_atomic_event
+aid,1,1,1,PersonX gives PersonY aid,give:1,f_atomic_event
+air_conditioner,1,1,2,PersonX buys an air conditioner,buy:1,f_atomic_event
+air_purifier,1,1,2,PersonX buys an air purifier,buy:1,f_atomic_event
+anchor,1,1,1,PersonX drops anchor,drop:1,f_atomic_event
+animal,1,1,1,PersonX kills PersonY animal,kill:1,f_atomic_event
+antsy,1,1,1,PersonX gets antsy,get:1,f_atomic_event
+app,1,1,1,PersonX downloads the app,download:1,f_atomic_event
+application,1,1,1,PersonX files PersonY application,file:1,f_atomic_event
+appointment,1,1,1,PersonX gets PersonY appointment,get:1,f_atomic_event
+approach,1,1,1,PersonX takes PersonY approach,take:1,f_atomic_event
+aquarium,1,1,1,PersonX takes ___ to the aquarium,take:1,f_atomic_event
+arrest,1,1,1,PersonX makes PersonY arrest,make:1,f_atomic_event
+arse,1,1,1,PersonX gives a rats arse,give:1,f_atomic_event
+art_contest,1,1,2,PersonX enters an art contest,enter:1,f_atomic_event
+assistance,1,1,1,PersonX gives PersonY assistance,give:1,f_atomic_event
+assurance,1,1,1,PersonX gives PersonY assurance,give:1,f_atomic_event
+attitude,1,1,1,PersonX takes PersonY attitude,take:1,f_atomic_event
+audience,1,1,1,PersonX obtains PersonY audience,obtain:1,f_atomic_event
+authority,1,1,1,PersonX gives PersonY authority,give:1,f_atomic_event
+average,1,1,1,PersonX takes PersonY average,take:1,f_atomic_event
+award,1,1,1,PersonX gets an award,get:1,f_atomic_event
+backpack,1,1,1,PersonX grabs PersonY's backpack,grab:1,f_atomic_event
+bacon,1,1,1,PersonX pulls PersonY's bacon out of the fire,pull:1,f_atomic_event
+baking_competition,1,1,2,PersonX enters a baking competition,enter:1,f_atomic_event
+balloon,1,1,1,PersonX gets a balloon,get:1,f_atomic_event
+banana,1,1,1,PersonX buys bananas,buy:1,f_atomic_event
+band_aid,1,1,2,PersonX gets a band aid,get:1,f_atomic_event
+baseball_game,1,1,2,PersonX takes ___ to a baseball game,take:1,f_atomic_event
+basket,1,1,1,PersonX gets a basket,get:1,f_atomic_event
+battery,1,1,1,PersonX buys a new battery,buy:1,f_atomic_event
+beating,1,1,1,PersonX gives PersonY a beating,give:1,f_atomic_event
+belly_button,1,1,2,PersonX gets PersonX's belly button pierced,get:1,f_atomic_event
+belonging,1,1,1,PersonX takes PersonY's belongings,take:1,f_atomic_event
+berth,1,1,1,PersonX gives PersonY a berth,give:1,f_atomic_event
+bicycle,1,1,1,PersonX buys a bicycle,buy:1,f_atomic_event
+birthday_cake,1,1,2,PersonX buys a birthday cake,buy:1,f_atomic_event
+bishop,1,1,1,PersonX beats the bishop,beat:1,f_atomic_event
+blanket,1,1,1,PersonX gives PersonY a blanket,give:1,f_atomic_event
+blow,1,1,1,PersonX gives PersonY a blow,give:1,f_atomic_event
+board,1,1,1,PersonX takes PersonY on board,take:1,f_atomic_event
+bob,1,1,1,PersonX gives bob ___,give:1,f_atomic_event
+bolt,1,1,1,PersonX shoots PersonX's bolt,shoot:1,f_atomic_event
+bomb,1,1,1,PersonX drops a bomb,drop:1,f_atomic_event
+bombshell,1,1,1,PersonX drops a bombshell,drop:1,f_atomic_event
+bone,1,1,1,PersonX breaks a bone,break:1,f_atomic_event
+bootstrap,1,1,1,PersonX pulls oneself up by PersonX's bootstraps,pull:1,f_atomic_event
+bottom,1,1,1,PersonX gets to the bottom of ___,get:1,f_atomic_event
+bow,1,1,1,PersonX takes a bow,take:1,f_atomic_event
+brace,1,1,1,PersonX gets braces,get:1,f_atomic_event
+brain,1,1,1,PersonX beats PersonY's brains out,beat:1,f_atomic_event
+brake,1,1,1,PersonX hits the brakes,hit:1,f_atomic_event
+breather,1,1,1,PersonX takes a breather,take:1,f_atomic_event
+bridge,1,1,1,PersonX burns PersonX's bridges,burn:1,f_atomic_event
+browser,1,1,1,PersonX downloads a new browser,download:1,f_atomic_event
+brush,1,1,1,PersonX buys a new brush,buy:1,f_atomic_event
+bubble_bath,1,1,2,PersonX takes a bubble bath,take:1,f_atomic_event
+bucket,1,1,1,PersonX kicks the bucket,kick:1,f_atomic_event
+buffer,1,1,1,PersonX hits the buffers,hit:1,f_atomic_event
+building,1,1,1,PersonX enters the building,enter:1,f_atomic_event
+bull,1,1,1,PersonX shoots the bull,shoot:1,f_atomic_event
+bullet,1,1,1,PersonX takes a bullet,take:1,f_atomic_event
+bump,1,1,1,PersonX hits a bump,hit:1,f_atomic_event
+bus_tour,1,1,2,PersonX takes a bus tour,take:1,f_atomic_event
+bush,1,1,1,PersonX beats around the bush,beat:1,f_atomic_event
+cab,1,1,1,PersonX takes a cab,take:1,f_atomic_event
+cab_home,1,1,2,PersonX takes a cab home,take:1,f_atomic_event
+calf,1,1,1,PersonX kills the fatted calf,kill:1,f_atomic_event
+campaign,1,1,1,PersonX takes ___ in the campaign,take:1,f_atomic_event
+cancer,1,1,1,PersonX beats the cancer,beat:1,f_atomic_event
+candy_bar,1,1,2,PersonX sells candy bars,sell:1,f_atomic_event
+capital_city,1,1,2,PersonX takes ___ to the capital city of,take:1,f_atomic_event
+car_accident,1,1,2,PersonX gets into a car accident,get:1,f_atomic_event
+car_door,1,1,2,PersonX opens the car door,open:1,f_atomic_event
+car_wash,1,1,2,PersonX takes ___ to the car wash,take:1,f_atomic_event
+card,1,1,1,PersonX gets a card,get:1,f_atomic_event
+career,1,1,1,PersonX enters upon a career,enter:1,f_atomic_event
+carnival,1,1,1,PersonX takes ___ to the carnival,take:1,f_atomic_event
+cashier,1,1,1,PersonX pays the cashier,pay:1,f_atomic_event
+catch,1,1,1,PersonX catches and arrested,,f_atomic_event
+century,1,1,1,PersonX takes ___ in the century,take:1,f_atomic_event
+character,1,1,1,PersonX gives PersonY a character,give:1,f_atomic_event
+charge,1,1,1,PersonX gets a charge out of ___,get:1,f_atomic_event
+charger,1,1,1,PersonX buys a new charger,buy:1,f_atomic_event
+charity,1,1,1,PersonX gives ___ to charity,give:1,f_atomic_event
+check,1,1,1,PersonX gets PersonX's check,get:1,f_atomic_event
+checkup,1,1,1,PersonX gets a checkup,get:1,f_atomic_event
+cheese,1,1,1,PersonX cuts the cheese,cut:1,f_atomic_event
+chess,1,1,1,PersonX plays ___ chess online,play:1,f_atomic_event
+chip,1,1,1,PersonX buys some chips,buy:1,f_atomic_event
+choice,1,1,1,PersonX takes PersonY's choice,take:1,f_atomic_event
+christmas_tree,1,1,2,PersonX buys a christmas tree,buy:1,f_atomic_event
+claim,1,1,1,PersonX files a claim,file:1,f_atomic_event
+classroom,1,1,1,PersonX enters the classroom,enter:1,f_atomic_event
+claws,1,1,1,PersonX gets PersonX's claws out,get:1,f_atomic_event
+cleaner,1,1,1,PersonX takes ___ to the dry cleaners,take:1,f_atomic_event
+clock,1,1,1,PersonX beats the clock,beat:1,f_atomic_event
+closet_door,1,1,2,PersonX opens the closet door,open:1,f_atomic_event
+cloth,1,1,1,PersonX cuts PersonX's coat according to PersonX's cloth,accord:1,f_atomic_event
+clue,1,1,1,PersonX gives PersonY a clue,give:1,f_atomic_event
+coat,1,1,1,PersonX cuts PersonX's coat according to PersonX's cloth,cut:1,f_atomic_event
+comfort,1,1,1,PersonX gives PersonY comfort,give:1,f_atomic_event
+community_college,1,1,2,PersonX takes ___ at PersonX's local community college,take:1,f_atomic_event
+complaint,1,1,1,PersonX files a complaint,file:1,f_atomic_event
+confidence,1,1,1,PersonX gives PersonY confidence,give:1,f_atomic_event
+consent,1,1,1,PersonX gives PersonX's consent,give:1,f_atomic_event
+contact_lens,1,1,2,PersonX gets contact lenses,get:1,f_atomic_event
+cooking_class,1,1,2,PersonX takes a cooking class,take:1,f_atomic_event
+copy_book,1,1,2,PersonX blots PersonX's copy book,,f_atomic_event
+costume_contest,1,1,2,PersonX enters a costume contest,enter:1,f_atomic_event
+couch,1,1,1,PersonX buys a new couch,buy:1,f_atomic_event
+counsel,1,1,1,PersonX gives PersonY counsel,give:1,f_atomic_event
+counseling,1,1,1,PersonX gets counseling,get:1,f_atomic_event
+counter,1,1,1,PersonX takes ___ to the counter,take:1,f_atomic_event
+couple,1,1,1,PersonX gives PersonY a couple,give:1,f_atomic_event
+cover,1,1,1,PersonX hides under the covers,hide:1,f_atomic_event
+crack,1,1,1,PersonX takes a crack at ___,take:1,f_atomic_event
+cradle,1,1,1,PersonX robs the cradle,rob:1,f_atomic_event
+craigslist,1,1,1,PersonX sells ___ on craigslist,sell:1,f_atomic_event
+crap,1,1,1,PersonX cuts the crap,cut:1,f_atomic_event
+cream_cone,1,1,2,PersonX buys an ice cream cone,buy:1,f_atomic_event
+cruise,1,1,1,PersonX takes a cruise,take:1,f_atomic_event
+curveball,1,1,1,PersonX learns how to throw a curveball,throw:1,f_atomic_event
+custody,1,1,1,PersonX takes PersonY into custody,take:1,f_atomic_event
+cycle,1,1,1,PersonX breaks the cycle,break:1,f_atomic_event
+cylinder,1,1,1,PersonX fires on all cylinders,,f_atomic_event
+daisy,1,1,1,PersonX pushes up daisies,push:1,f_atomic_event
+dancing_class,1,1,2,PersonX takes a dancing class,take:1,f_atomic_event
+darling,1,1,1,PersonX kills PersonX's darlings,kill:1,f_atomic_event
+dash,1,1,1,PersonX cuts a dash,cut:1,f_atomic_event
+day_trip,1,1,2,PersonX takes a day trip,take:1,f_atomic_event
+deadlock,1,1,1,PersonX breaks the deadlock,break:1,f_atomic_event
+decision,1,1,1,PersonX takes PersonY decision,take:1,f_atomic_event
+demand,1,1,1,PersonX pays ___ on demand,pay:1,f_atomic_event
+detour,1,1,1,PersonX takes a detour,take:1,f_atomic_event
+dime,1,1,1,PersonX drops a dime,drop:1,f_atomic_event
+diploma,1,1,1,PersonX gets PersonX's diploma,get:1,f_atomic_event
+discussion,1,1,1,PersonX takes ___ in the discussion,take:1,f_atomic_event
+disney,1,1,1,PersonX takes ___ to disney,take:1,f_atomic_event
+dividend,1,1,1,PersonX pays dividends,pay:1,f_atomic_event
+dodge,1,1,1,PersonX gets out of dodge,get:1,f_atomic_event
+dog_food,1,1,2,PersonX buys dog food,buy:1,f_atomic_event
+dream,1,1,1,PersonX follows PersonX's dream,follow:1,f_atomic_event
+dream_car,1,1,2,PersonX buys PersonX's dream car,buy:1,f_atomic_event
+dream_job,1,1,2,PersonX gets PersonX's dream job,get:1,f_atomic_event
+drift,1,1,1,PersonX gets the drift,get:1,f_atomic_event
+driving,1,1,1,PersonX takes PersonX's driving test,take:1,f_atomic_event
+drug,1,1,1,PersonX does drugs,do:1,f_atomic_event
+drum,1,1,1,PersonX marches to the beat of a different drum,march:1,f_atomic_event
+due,1,1,1,PersonX pays PersonX's dues,pay:1,f_atomic_event
+duty,1,1,1,PersonX enters upon the duties,enter:1,f_atomic_event
+easter,1,1,1,PersonX gets ___ for easter,get:1,f_atomic_event
+edge,1,1,1,PersonX pushes PersonY over the edge,push:1,f_atomic_event
+edgeway,1,1,1,PersonX not is able to get a word in edgeways,get:1,f_atomic_event
+effect,1,1,1,PersonX effects PersonY's escape,,f_atomic_event
+email_button,1,1,2,PersonX clicks on the email button,click:1,f_atomic_event
+emperor,1,1,1,PersonX pays ___ to the emperor,pay:1,f_atomic_event
+employee,1,1,1,PersonX fires the employee,fire:1,f_atomic_event
+employment,1,1,1,PersonX gives PersonY employment,give:1,f_atomic_event
+encouragement,1,1,1,PersonX gives PersonY encouragement,give:1,f_atomic_event
+entrance,1,1,1,PersonX forces PersonY entrance,force:1,f_atomic_event
+envelope,1,1,1,PersonX opens the envelope,open:1,f_atomic_event
+eskimo,1,1,1,PersonX sells ice to eskimos,sell:1,f_atomic_event
+evening,1,1,1,PersonX gets ___ that evening,get:1,f_atomic_event
+everyday,1,1,1,PersonX takes ___ everyday,take:1,f_atomic_event
+evidence,1,1,1,PersonX gives PersonY evidence,give:1,f_atomic_event
+examination,1,1,1,PersonX takes PersonY examination,take:1,f_atomic_event
+excuse,1,1,1,PersonX gives PersonY excuse,give:1,f_atomic_event
+exercise,1,1,1,PersonX gets some exercise,get:1,f_atomic_event
+experience,1,1,1,PersonX gives PersonY experience,give:1,f_atomic_event
+explanation,1,1,1,PersonX gives PersonY explanation,give:1,f_atomic_event
+expression,1,1,1,PersonX gives PersonY expression,give:1,f_atomic_event
+eye_doctor,1,1,2,PersonX takes ___ to the eye doctor,take:1,f_atomic_event
+f_bomb,1,1,2,PersonX drops the f-bomb,drop:1,f_atomic_event
+fabric,1,1,1,PersonX buys fabric,buy:1,f_atomic_event
+ferry,1,1,1,PersonX takes a ferry,take:1,f_atomic_event
+fiddle,1,1,1,PersonX fiddles while rome burns,,f_atomic_event
+fiddler,1,1,1,PersonX pays the fiddler,pay:1,f_atomic_event
+figure,1,1,1,PersonX cuts a figure,cut:1,f_atomic_event
+fill,1,1,1,PersonX gets PersonX's fill,get:1,f_atomic_event
+film,1,1,1,PersonX watches the film,watch:1,f_atomic_event
+fine,1,1,1,PersonX pays a big fine,pay:1,f_atomic_event
+fire_alarm,1,1,2,PersonX hears the fire alarm,hear:1,f_atomic_event
+firehose,1,1,1,PersonX drinks from a firehose,drink:1,f_atomic_event
+fishing,1,1,1,PersonX takes PersonY fishing,take:1,f_atomic_event
+fix,1,1,1,PersonX gets a fix,get:1,f_atomic_event
+floodgate,1,1,1,PersonX opens the floodgates,open:1,f_atomic_event
+flu,1,1,1,PersonX gets the flu,get:1,f_atomic_event
+fly,1,1,1,PersonX wouldnt hurts a fly,hurt:1,f_atomic_event
+flyer,1,1,1,PersonX takes a flyer,take:1,f_atomic_event
+food_fight,1,1,2,PersonX starts a food fight,start:1,f_atomic_event
+football_game,1,1,2,PersonX watches the football game,watch:1,f_atomic_event
+footstep,1,1,1,PersonX follows in PersonY's footsteps,follow:1,f_atomic_event
+fortune,1,1,1,PersonX gives hostage to fortune,give:1,f_atomic_event
+freak,1,1,1,PersonX gets PersonX's freak on,get:1,f_atomic_event
+freedom,1,1,1,PersonX gives PersonY freedom,give:1,f_atomic_event
+freezer,1,1,1,PersonX takes ___ out of the freezer,take:1,f_atomic_event
+freight,1,1,1,PersonX pays the freight,pay:1,f_atomic_event
+front,1,1,1,PersonX gets to the front of the line,get:1,f_atomic_event
+furniture,1,1,1,PersonX buys new furniture,buy:1,f_atomic_event
+fuss,1,1,1,PersonX kicks up a fuss,kick:1,f_atomic_event
+future,1,1,1,PersonX takes ___ in the future,take:1,f_atomic_event
+gallon,1,1,1,PersonX buys a gallon of milk,buy:1,f_atomic_event
+gamble,1,1,1,PersonX takes a gamble,take:1,f_atomic_event
+gander,1,1,1,PersonX takes a gander,take:1,f_atomic_event
+garage,1,1,1,PersonX gets ___ out of the garage,get:1,f_atomic_event
+garage_sale,1,1,2,PersonX buys ___ at a garage sale,buy:1,f_atomic_event
+gas_station,1,1,2,PersonX buys ___ at the gas station,buy:1,f_atomic_event
+gasoline,1,1,1,PersonX pours gasoline on the fire,pour:1,f_atomic_event
+getting,1,1,1,PersonX gets out while the gettings good,get:1,f_atomic_event
+glimpse,1,1,1,PersonX gives PersonY a glimpse,give:1,f_atomic_event
+glory,1,1,1,PersonX gives glory to god,give:1,f_atomic_event
+glove,1,1,1,PersonX drops the gloves,drop:1,f_atomic_event
+gold_medal,1,1,2,PersonX gets the gold medal,get:1,f_atomic_event
+goose,1,1,1,PersonX kills the goose that lays the golden eggs,kill:1,f_atomic_event
+grave,1,1,1,PersonX takes ___ to the grave,take:1,f_atomic_event
+grief,1,1,1,PersonX gives PersonY grief,give:1,f_atomic_event
+grin,1,1,1,PersonX gives PersonY a grin,give:1,f_atomic_event
+groomer,1,1,1,PersonX takes ___ to the groomer,take:1,f_atomic_event
+guidance,1,1,1,PersonX gives PersonY guidance,give:1,f_atomic_event
+gulp,1,1,1,PersonX takes a big gulp,take:1,f_atomic_event
+gunfight,1,1,1,PersonX brings a knife to a gunfight,bring:1,f_atomic_event
+gunner,1,1,1,PersonX kisses the gunners daughter,kiss:1,f_atomic_event
+gym_membership,1,1,2,PersonX buys a gym membership,buy:1,f_atomic_event
+hackle,1,1,1,PersonX raises PersonY's hackles,raise:1,f_atomic_event
+handle,1,1,1,PersonX gets a handle on ___,get:1,f_atomic_event
+hang,1,1,1,PersonX gets the hang of it,get:1,f_atomic_event
+hay,1,1,1,PersonX hits the hay,hit:1,f_atomic_event
+headline,1,1,1,PersonX hits the headlines,hit:1,f_atomic_event
+headphone,1,1,1,PersonX buys new headphones,buy:1,f_atomic_event
+heel,1,1,1,PersonX kicks up PersonX's heels,kick:1,f_atomic_event
+hither,1,1,1,PersonX encourages PersonY's ___ hither,encourage:1,f_atomic_event
+homage,1,1,1,PersonX pays PersonY homage,pay:1,f_atomic_event
+home_fire,1,1,2,PersonX keeps the home fires burning,keep:1,f_atomic_event
+homerun,1,1,1,PersonX hits a homerun,hit:1,f_atomic_event
+horn,1,1,1,PersonX locks horns,lock:1,f_atomic_event
+horror_movie,1,1,2,PersonX watches a horror movie,watch:1,f_atomic_event
+hostage,1,1,1,PersonX gives hostage to fortune,give:1,f_atomic_event
+hotel,1,1,1,PersonX gets back to the hotel,get:1,f_atomic_event
+hotel_room,1,1,2,PersonX gets a hotel room,get:1,f_atomic_event
+hurry,1,1,1,PersonX is in a hurry to get to work,,f_atomic_event
+illustration,1,1,1,PersonX gives PersonY illustration,give:1,f_atomic_event
+inch,1,1,1,PersonX gives PersonY inch,give:1,f_atomic_event
+increase,1,1,1,PersonX gives PersonY increase,give:1,f_atomic_event
+indemnity,1,1,1,PersonX pays PersonY indemnity,pay:1,f_atomic_event
+indication,1,1,1,PersonX gives PersonY indication,give:1,f_atomic_event
+infection,1,1,1,PersonX gets an infection,get:1,f_atomic_event
+interest,1,1,1,PersonX takes PersonY interest,take:1,f_atomic_event
+interpretation,1,1,1,PersonX gives PersonY interpretation,give:1,f_atomic_event
+inventory,1,1,1,PersonX takes PersonY inventory,take:1,f_atomic_event
+invitation,1,1,1,PersonX gets an invitation,get:1,f_atomic_event
+issue,1,1,1,PersonX pays ___ to issues,pay:1,f_atomic_event
+jackpot,1,1,1,PersonX hits the jackpot,hit:1,f_atomic_event
+jaw_drop,1,1,2,PersonX makes PersonY's jaw drop,make:1,f_atomic_event
+jewelry,1,1,1,PersonX sells PersonX's jewelry,sell:1,f_atomic_event
+job_offer,1,1,2,PersonX gets a job offer,get:1,f_atomic_event
+juice,1,1,1,PersonX gets PersonX's juices flowing,flow:1,f_atomic_event
+keyboard,1,1,1,PersonX buys a new keyboard,buy:1,f_atomic_event
+kickball,1,1,1,PersonX plays kickball,play:1,f_atomic_event
+killing,1,1,1,PersonX makes a killing,make:1,f_atomic_event
+kit,1,1,1,PersonX buys a kit,buy:1,f_atomic_event
+kite,1,1,1,PersonX takes PersonY's kite,take:1,f_atomic_event
+knot,1,1,1,PersonX gets PersonX's shorts in a knot,get:1,f_atomic_event
+lapel,1,1,1,PersonX grabs by the lapels,,f_atomic_event
+laugh,1,1,1,PersonX gets the last laugh,get:1,f_atomic_event
+leather,1,1,1,PersonX slaps leather,slap:1,f_atomic_event
+lecture,1,1,1,PersonX gives PersonY a lecture,give:1,f_atomic_event
+lemonade_stand,1,1,2,PersonX opens a lemonade stand,open:1,f_atomic_event
+lid,1,1,1,PersonX opens the lid,open:1,f_atomic_event
+lie,1,1,1,PersonX lives a lie,live:1,f_atomic_event
+lightning,1,1,1,PersonX hits by lightning,hit:1,f_atomic_event
+lip,1,1,1,PersonX opens PersonX's lips,open:1,f_atomic_event
+load,1,1,1,PersonX shoots PersonX's load,shoot:1,f_atomic_event
+loaf,1,1,1,PersonX buys a loaf of bread,buy:1,f_atomic_event
+locksmith,1,1,1,PersonX calls a locksmith,call:1,f_atomic_event
+log,1,1,1,PersonX drops a log,drop:1,f_atomic_event
+lollipop,1,1,1,PersonX gives ___ a lollipop,give:1,f_atomic_event
+loss,1,1,1,PersonX cuts PersonX's losses,cut:1,f_atomic_event
+luck,1,1,1,PersonX pushes PersonX's luck,push:1,f_atomic_event
+lump,1,1,1,PersonX takes PersonX's lumps,take:1,f_atomic_event
+lunch_break,1,1,2,PersonX takes PersonX's lunch break,take:1,f_atomic_event
+makeup,1,1,1,PersonX gets PersonX's makeup done,get:1,f_atomic_event
+manicure,1,1,1,PersonX gets a manicure,get:1,f_atomic_event
+manufacturer,1,1,1,PersonX follows the manufacturer 's ___,follow:1,f_atomic_event
+marathon,1,1,1,PersonX enters a marathon,enter:1,f_atomic_event
+marching_order,1,1,2,PersonX gets PersonX's marching orders,get:1,f_atomic_event
+mattress,1,1,1,PersonX buys a new mattress,buy:1,f_atomic_event
+measure,1,1,1,PersonX takes PersonY measures,take:1,f_atomic_event
+meat,1,1,1,PersonX beats the meat,beat:1,f_atomic_event
+medal,1,1,1,PersonX gets a medal,get:1,f_atomic_event
+mess,1,1,1,PersonX sells PersonY's ___ for a mess,sell:1,f_atomic_event
+messenger,1,1,1,PersonX shoots the messenger,shoot:1,f_atomic_event
+messy,1,1,1,PersonX gets messy,get:1,f_atomic_event
+metal_detector,1,1,2,PersonX buys a metal detector,buy:1,f_atomic_event
+mic,1,1,1,PersonX drops the mic,drop:1,f_atomic_event
+microwave,1,1,1,PersonX buys a new microwave,buy:1,f_atomic_event
+midnight_oil,1,1,2,PersonX burns the midnight oil,burn:1,f_atomic_event
+miss,1,1,1,PersonX gives ___ a miss,give:1,f_atomic_event
+mold,1,1,1,PersonX breaks the mold,break:1,f_atomic_event
+monkey,1,1,1,PersonX not gives a monkeys,give:1,f_atomic_event
+month,1,1,1,PersonX gets ___ last month,get:1,f_atomic_event
+mountain,1,1,1,PersonX takes ___ to the mountains,take:1,f_atomic_event
+mud,1,1,1,PersonX drags through the mud,drag:1,f_atomic_event
+muscle,1,1,1,PersonX pulls a muscle,pull:1,f_atomic_event
+museum,1,1,1,PersonX takes ___ to the museum,take:1,f_atomic_event
+mustard,1,1,1,PersonX cuts the mustard,cut:1,f_atomic_event
+nap,1,1,1,PersonX decides to take a nap,take:1,f_atomic_event
+nature,1,1,1,PersonX lets nature take its course,take:1,f_atomic_event
+neighborhood,1,1,1,PersonX takes ___ around the neighborhood,take:1,f_atomic_event
+nerve,1,1,1,PersonX gets on PersonY's nerves,get:1,f_atomic_event
+newspaper,1,1,1,PersonX gets the newspaper,get:1,f_atomic_event
+nod,1,1,1,PersonX gives PersonY a nod,give:1,f_atomic_event
+oath,1,1,1,PersonX takes PersonY oath,take:1,f_atomic_event
+occasion,1,1,1,PersonX buys ___ for the occasion,buy:1,f_atomic_event
+ocean,1,1,1,PersonX takes ___ to the ocean,take:1,f_atomic_event
+oil_change,1,1,2,PersonX gets an oil change,get:1,f_atomic_event
+olympic,1,1,1,PersonX watches the olympics,watch:1,f_atomic_event
+online,1,1,1,PersonX finds one online,find:1,f_atomic_event
+option,1,1,1,PersonX keeps PersonX's options open,keep:1,f_atomic_event
+outline,1,1,1,PersonX gives PersonY outline,give:1,f_atomic_event
+outside,1,1,1,PersonX takes PersonX's outside,take:1,f_atomic_event
+overview,1,1,1,PersonX gives PersonY overview,give:1,f_atomic_event
+package,1,1,1,PersonX opens the package,open:1,f_atomic_event
+pain,1,1,1,PersonX gives PersonY pain,give:1,f_atomic_event
+paint,1,1,1,PersonX gets paint,get:1,f_atomic_event
+pancake,1,1,1,PersonX makes pancakes for breakfast,make:1,f_atomic_event
+panic_attack,1,1,2,PersonX has a panic attack,have:1,f_atomic_event
+paper,1,1,1,PersonX gets ___ on the paper,get:1,f_atomic_event
+paper_towel,1,1,2,PersonX buys paper towels,buy:1,f_atomic_event
+parade,1,1,1,PersonX watches the parade,watch:1,f_atomic_event
+parking_ticket,1,1,2,PersonX gets a parking ticket,get:1,f_atomic_event
+parrot,1,1,1,PersonX buys a parrot,buy:1,f_atomic_event
+passport,1,1,1,PersonX gets PersonX's passport,get:1,f_atomic_event
+past,1,1,1,PersonX takes ___ in the past,take:1,f_atomic_event
+pat,1,1,1,PersonX gives PersonY a pat,give:1,f_atomic_event
+patch,1,1,1,PersonX hits a patch of black ice,hit:1,f_atomic_event
+pavement,1,1,1,PersonX hits the pavement,hit:1,f_atomic_event
+pawn_shop,1,1,2,PersonX takes ___ to a pawn shop,take:1,f_atomic_event
+pay,1,1,1,PersonX serves without pay,serve:1,f_atomic_event
+pay_phone,1,1,2,PersonX finds a pay phone,find:1,f_atomic_event
+payday_loan,1,1,2,PersonX gets a payday loan,get:1,f_atomic_event
+paydirt,1,1,1,PersonX hits paydirt,hit:1,f_atomic_event
+peace,1,1,1,PersonX gives PersonY peace,give:1,f_atomic_event
+peck,1,1,1,PersonX gives PersonY a peck,give:1,f_atomic_event
+pedicure,1,1,1,PersonX gets a pedicure,get:1,f_atomic_event
+pep_talk,1,1,2,PersonX gives PersonY a pep talk,give:1,f_atomic_event
+performance,1,1,1,PersonX gives a great performance,give:1,f_atomic_event
+period,1,1,1,PersonX takes ___ during the period,take:1,f_atomic_event
+permit,1,1,1,PersonX gets PersonX's permit,get:1,f_atomic_event
+phone_call,1,1,2,PersonX gets a phone call,get:1,f_atomic_event
+phone_number,1,1,2,PersonX gets PersonY's phone number,get:1,f_atomic_event
+photo,1,1,1,PersonX takes PersonY's photo,take:1,f_atomic_event
+pick,1,1,1,PersonX takes PersonX's pick,take:1,f_atomic_event
+pilot,1,1,1,PersonX gets PersonX's pilot 's license,get:1,f_atomic_event
+piper,1,1,1,PersonX pays the piper,pay:1,f_atomic_event
+plane_ride,1,1,2,PersonX takes PersonX's first plane ride,take:1,f_atomic_event
+plane_ticket,1,1,2,PersonX buys a plane ticket,buy:1,f_atomic_event
+plant,1,1,1,PersonX buys a new plant,buy:1,f_atomic_event
+plenty,1,1,1,PersonX gives PersonY plenty,give:1,f_atomic_event
+ploughshare,1,1,1,PersonX beats PersonX's swords into ploughshares,beat:1,f_atomic_event
+plug,1,1,1,PersonX buys some ear plugs,buy:1,f_atomic_event
+pointer,1,1,1,PersonX shoots a three pointer,shoot:1,f_atomic_event
+poison,1,1,1,PersonX names your poison,name:1,f_atomic_event
+poker_tournament,1,1,2,PersonX enters a poker tournament,enter:1,f_atomic_event
+pole,1,1,1,PersonX hits a pole,hit:1,f_atomic_event
+police_car,1,1,2,PersonX sees a police car,see:1,f_atomic_event
+politic,1,1,1,PersonX takes ___ in politics,take:1,f_atomic_event
+pool,1,1,1,PersonX pushes ___ into the pool,push:1,f_atomic_event
+pop_quiz,1,1,2,PersonX gives a pop quiz,give:1,f_atomic_event
+popcorn,1,1,1,PersonX buys some popcorn,buy:1,f_atomic_event
+pregnancy_test,1,1,2,PersonX buys a pregnancy test,buy:1,f_atomic_event
+prick,1,1,1,PersonX kicks against the pricks,kick:1,f_atomic_event
+prisoner,1,1,1,PersonX takes PersonY prisoner,take:1,f_atomic_event
+program,1,1,1,PersonX gets with the program,get:1,f_atomic_event
+proof,1,1,1,PersonX gives PersonY proof,give:1,f_atomic_event
+property,1,1,1,PersonX sells PersonX's property,sell:1,f_atomic_event
+protection,1,1,1,PersonX gives PersonY protection,give:1,f_atomic_event
+public,1,1,1,PersonX sells ___ to the public,sell:1,f_atomic_event
+puddle,1,1,1,PersonX drops ___ in a puddle,drop:1,f_atomic_event
+push,1,1,1,PersonX gives PersonY a push,give:1,f_atomic_event
+question,1,1,1,PersonX shoots first and ask questions later,ask:1,f_atomic_event
+rabbit,1,1,1,PersonX pulls a rabbit out of a hat,pull:1,f_atomic_event
+race,1,1,1,PersonX enters a race,enter:1,f_atomic_event
+racquet,1,1,1,PersonX buys a new racquet,buy:1,f_atomic_event
+radar,1,1,1,PersonX drops off the radar,drop:1,f_atomic_event
+raffle,1,1,1,PersonX enters a raffle,enter:1,f_atomic_event
+rank,1,1,1,PersonX pulls rank,pull:1,f_atomic_event
+rash,1,1,1,PersonX gets a rash,get:1,f_atomic_event
+rat,1,1,1,PersonX gives a rats arse,give:1,f_atomic_event
+reception,1,1,1,PersonX gives PersonY a reception,give:1,f_atomic_event
+rediscover_fire,1,1,2,PersonX rediscovers fire,,f_atomic_event
+refrigerator,1,1,1,PersonX takes ___ out of the refrigerator,take:1,f_atomic_event
+release,1,1,1,PersonX obtains PersonY's release,obtain:1,f_atomic_event
+relief,1,1,1,PersonX gives PersonY relief,give:1,f_atomic_event
+repair_shop,1,1,2,PersonX takes ___ to a repair shop,take:1,f_atomic_event
+reply,1,1,1,PersonX gets a reply,get:1,f_atomic_event
+response,1,1,1,PersonX gets no response,get:1,f_atomic_event
+responsibility,1,1,1,PersonX takes PersonY responsibility,take:1,f_atomic_event
+rest,1,1,1,PersonX takes PersonX's rest,take:1,f_atomic_event
+restraining_order,1,1,2,PersonX gets a restraining order,get:1,f_atomic_event
+restroom,1,1,1,PersonX needs to use the restroom,use:1,f_atomic_event
+return,1,1,1,PersonX gets ___ in return,get:1,f_atomic_event
+ribbon,1,1,1,PersonX cuts the ribbon,cut:1,f_atomic_event
+rip,1,1,1,PersonX rips open ___,open:1,f_atomic_event
+rise,1,1,1,PersonX gives rise to PersonY,give:1,f_atomic_event
+risk,1,1,1,PersonX takes PersonY risk,take:1,f_atomic_event
+road_test,1,1,2,PersonX takes PersonX's road test,take:1,f_atomic_event
+rock_bottom,1,1,2,PersonX hits rock bottom,hit:1,f_atomic_event
+rome_burn,1,1,2,PersonX fiddles while rome burns,,f_atomic_event
+roof,1,1,1,PersonX hits the roof,hit:1,f_atomic_event
+rope,1,1,1,PersonX gives PersonX enough rope,give:1,f_atomic_event
+route,1,1,1,PersonX takes a different route,take:1,f_atomic_event
+sale,1,1,1,PersonX buys ___ on sale,buy:1,f_atomic_event
+sand,1,1,1,PersonX gets sand,get:1,f_atomic_event
+sandwich,1,1,1,PersonX buys a sandwich,buy:1,f_atomic_event
+sausage,1,1,1,PersonX hides the sausage,hide:1,f_atomic_event
+saving_account,1,1,2,PersonX opens a savings account,open:1,f_atomic_event
+scene,1,1,1,PersonX flees the scene,flee:1,f_atomic_event
+school_supply,1,1,2,PersonX buys school supplies,buy:1,f_atomic_event
+school_year,1,1,2,PersonX buys ___ for the new school year,buy:1,f_atomic_event
+science,1,1,1,PersonX enters the science fair,enter:1,f_atomic_event
+score,1,1,1,PersonX gets a perfect score,get:1,f_atomic_event
+scratch,1,1,1,PersonX buys a scratch,buy:1,f_atomic_event
+screen,1,1,1,PersonX breaks the screen,break:1,f_atomic_event
+seal,1,1,1,PersonX breaks the seal,break:1,f_atomic_event
+security,1,1,1,PersonX gives PersonY security,give:1,f_atomic_event
+seller,1,1,1,PersonX contacts the seller,contact:1,f_atomic_event
+sentence,1,1,1,PersonX sentences to prison,,f_atomic_event
+set,1,1,1,PersonX buys a set,buy:1,f_atomic_event
+sheet,1,1,1,PersonX buys new sheets,buy:1,f_atomic_event
+shine_box,1,1,2,PersonX gets PersonX's shine box,get:1,f_atomic_event
+shoe_store,1,1,2,PersonX takes ___ to the shoe store,take:1,f_atomic_event
+short,1,1,1,PersonX gets PersonX's shorts in a knot,get:1,f_atomic_event
+should,1,1,1,PersonX shoulds break up,break:1,f_atomic_event
+shove,1,1,1,PersonX gives PersonY a shove,give:1,f_atomic_event
+shovel,1,1,1,PersonX grabs a shovel,grab:1,f_atomic_event
+shower,1,1,1,PersonX takes a cold shower,take:1,f_atomic_event
+sicker,1,1,1,PersonX gets sicker,get:1,f_atomic_event
+sidewalk,1,1,1,PersonX lies on the sidewalk,lie:1,f_atomic_event
+sight,1,1,1,PersonX hides in plain sight,hide:1,f_atomic_event
+silence,1,1,1,PersonX breaks the silence,break:1,f_atomic_event
+sink,1,1,1,PersonX takes ___ to the sink,take:1,f_atomic_event
+situation,1,1,1,PersonX takes ___ of the situation,take:1,f_atomic_event
+skate,1,1,1,PersonX gets PersonX's skates on,get:1,f_atomic_event
+skateboard,1,1,1,PersonX buys a skateboard,buy:1,f_atomic_event
+skin,1,1,1,PersonX gets under PersonY's skin,get:1,f_atomic_event
+slap,1,1,1,PersonX gives PersonY a slap,give:1,f_atomic_event
+slavery,1,1,1,PersonX sells PersonY into slavery,sell:1,f_atomic_event
+slice,1,1,1,PersonX eats a slice,eat:1,f_atomic_event
+slip,1,1,1,PersonX gives PersonY the slip,give:1,f_atomic_event
+smartphone,1,1,1,PersonX buys a smartphone,buy:1,f_atomic_event
+snag,1,1,1,PersonX hits a snag,hit:1,f_atomic_event
+snake,1,1,1,PersonX kills the snake,kill:1,f_atomic_event
+snooze_button,1,1,2,PersonX hits the snooze button,hit:1,f_atomic_event
+snowball_fight,1,1,2,PersonX has a snowball fight,have:1,f_atomic_event
+sofa,1,1,1,PersonX buys a new sofa,buy:1,f_atomic_event
+solution,1,1,1,PersonX obtains PersonY solution,obtain:1,f_atomic_event
+soul,1,1,1,PersonX sells PersonX's soul,sell:1,f_atomic_event
+sound,1,1,1,PersonX follows the sound,follow:1,f_atomic_event
+source,1,1,1,PersonX obtains ___ from sources,obtain:1,f_atomic_event
+souvenir,1,1,1,PersonX buys souvenirs,buy:1,f_atomic_event
+space,1,1,1,PersonX gives PersonY space,give:1,f_atomic_event
+spider,1,1,1,PersonX kills the spider,kill:1,f_atomic_event
+squeeze,1,1,1,PersonX gives PersonY a squeeze,give:1,f_atomic_event
+stake,1,1,1,PersonX pulls up stakes,pull:1,f_atomic_event
+stance,1,1,1,PersonX takes PersonY's stance,take:1,f_atomic_event
+standing,1,1,1,PersonX gets a standing ovation,get:1,f_atomic_event
+stare,1,1,1,PersonX gives PersonY a stare,give:1,f_atomic_event
+start,1,1,1,PersonX gives PersonY a start,give:1,f_atomic_event
+state,1,1,1,PersonX pays ___ to the state,pay:1,f_atomic_event
+static,1,1,1,PersonX gives PersonY static,give:1,f_atomic_event
+station,1,1,1,PersonX takes PersonY to the station,take:1,f_atomic_event
+stick,1,1,1,PersonX gets on the stick,get:1,f_atomic_event
+still,1,1,1,PersonX stills hurt,hurt:1,f_atomic_event
+stitch,1,1,1,PersonX gets stitches,get:1,f_atomic_event
+stock,1,1,1,PersonX buys some stock,buy:1,f_atomic_event
+stomach,1,1,1,PersonX gets sick to PersonX's stomach,get:1,f_atomic_event
+stop,1,1,1,PersonX pulls out all the stops,pull:1,f_atomic_event
+storm,1,1,1,PersonX watches the storm,watch:1,f_atomic_event
+story,1,1,1,PersonX cuts a long story short,cut:1,f_atomic_event
+straight,1,1,1,PersonX gets straight 's,get:1,f_atomic_event
+straw_hat,1,1,2,PersonX buys straw hats in winter,buy:1,f_atomic_event
+street,1,1,1,PersonX sells ___ on the street,sell:1,f_atomic_event
+strike,1,1,1,PersonX gets a strike,get:1,f_atomic_event
+struggle,1,1,1,PersonX takes ___ in the struggle,take:1,f_atomic_event
+stuffing,1,1,1,PersonX beats the stuffing out of ___,beat:1,f_atomic_event
+stump,1,1,1,PersonX pulls up stumps,pull:1,f_atomic_event
+subject,1,1,1,PersonX pays ___ to the subject,pay:1,f_atomic_event
+sugar,1,1,1,PersonX forgets the sugar,forget:1,f_atomic_event
+summer_job,1,1,2,PersonX gets a summer job,get:1,f_atomic_event
+sun_rise,1,1,2,PersonX watches the sun rise,watch:1,f_atomic_event
+supermarket,1,1,1,PersonX buys ___ at the supermarket,buy:1,f_atomic_event
+surface,1,1,1,PersonX lies beneath the surface,lie:1,f_atomic_event
+swathe,1,1,1,PersonX cuts swathes,cut:1,f_atomic_event
+sweat,1,1,1,PersonX breaks a sweat,break:1,f_atomic_event
+sword,1,1,1,PersonX beats PersonX's swords into ploughshares,beat:1,f_atomic_event
+table,1,1,1,PersonX gets a table,get:1,f_atomic_event
+taco,1,1,1,PersonX gets tacos,get:1,f_atomic_event
+tan,1,1,1,PersonX gets a tan,get:1,f_atomic_event
+tape,1,1,1,PersonX cuts red tape,cut:1,f_atomic_event
+tax,1,1,1,PersonX pays PersonY tax,pay:1,f_atomic_event
+taxation,1,1,1,PersonX raises ___ by taxation,raise:1,f_atomic_event
+tear,1,1,1,PersonX fights back tears,fight:1,f_atomic_event
+telephone_pole,1,1,2,PersonX hits a telephone pole,hit:1,f_atomic_event
+temperature,1,1,1,PersonX takes PersonY's temperature,take:1,f_atomic_event
+tent,1,1,1,PersonX buys a new tent,buy:1,f_atomic_event
+term,1,1,1,PersonX distinguishes ___ from terms by following,distinguish:1,f_atomic_event
+testimony,1,1,1,PersonX gives PersonX's testimony,give:1,f_atomic_event
+tetanus_shot,1,1,2,PersonX gets a tetanus shot,get:1,f_atomic_event
+text,1,1,1,PersonX gets a text,get:1,f_atomic_event
+thame,1,1,1,PersonX sets the thames on fire,set:1,f_atomic_event
+thesis,1,1,1,PersonX borrows this thesis for use,borrow:1,f_atomic_event
+thief,1,1,1,PersonX catches the thief,catch:1,f_atomic_event
+thinking,1,1,1,PersonX gets PersonY thinking,get:1,f_atomic_event
+thunder,1,1,1,PersonX steals PersonY's thunder,steal:1,f_atomic_event
+time_job,1,1,2,PersonX gets a part time job,get:1,f_atomic_event
+title,1,1,1,PersonX gives PersonY the title,give:1,f_atomic_event
+toaster,1,1,1,PersonX buys a new toaster,buy:1,f_atomic_event
+toilet,1,1,1,PersonX drops ___ in the toilet,drop:1,f_atomic_event
+toll,1,1,1,PersonX takes PersonY's toll,take:1,f_atomic_event
+tom,1,1,1,PersonX gives tom,give:1,f_atomic_event
+topic,1,1,1,PersonX drops the topic,drop:1,f_atomic_event
+tour,1,1,1,PersonX gives PersonY a tour,give:1,f_atomic_event
+tracking,1,1,1,PersonX eases tracking by adjusting,ease:1,f_atomic_event
+trademark,1,1,1,PersonX gets PersonY in PersonZ's trademark,get:1,f_atomic_event
+training,1,1,1,PersonX gives PersonY training,give:1,f_atomic_event
+treasurer,1,1,1,PersonX draws PersonX's ___ upon the treasurer for the payment,draw:1,f_atomic_event
+trespass,1,1,1,PersonX forgives ___ PersonY's trespasses,forgive:1,f_atomic_event
+trial,1,1,1,PersonX gives PersonY a trial,give:1,f_atomic_event
+tribute,1,1,1,PersonX pays PersonY tribute,pay:1,f_atomic_event
+trigger,1,1,1,PersonX pulls the trigger,pull:1,f_atomic_event
+turkey,1,1,1,PersonX burns the turkey,burn:1,f_atomic_event
+tutor,1,1,1,PersonX gets a tutor,get:1,f_atomic_event
+tutorial,1,1,1,PersonX watches tutorials,watch:1,f_atomic_event
+tyre,1,1,1,PersonX kicks the tyres,kick:1,f_atomic_event
+uneasiness,1,1,1,PersonX gives PersonY uneasiness,give:1,f_atomic_event
+unemployment,1,1,1,PersonX files for unemployment,,f_atomic_event
+utterance,1,1,1,PersonX gives PersonY utterance,give:1,f_atomic_event
+value,1,1,1,PersonX gives PersonY value,give:1,f_atomic_event
+vegas,1,1,1,PersonX takes ___ to vegas,take:1,f_atomic_event
+voice,1,1,1,PersonX hides the ___ in PersonX's voice,hide:1,f_atomic_event
+wage,1,1,1,PersonX pays PersonY wages,pay:1,f_atomic_event
+wake,1,1,1,PersonX follows in PersonY's wake,follow:1,f_atomic_event
+war,1,1,1,PersonX takes ___ in the war,take:1,f_atomic_event
+wardrobe,1,1,1,PersonX buys a new wardrobe,buy:1,f_atomic_event
+waste,1,1,1,PersonX is a waste of money,,f_atomic_event
+wave,1,1,1,PersonX watches the waves,watch:1,f_atomic_event
+weed,1,1,1,PersonX pulls weeds,pull:1,f_atomic_event
+welcome,1,1,1,PersonX gives PersonY a welcome,give:1,f_atomic_event
+wheel,1,1,1,PersonX gets behind the wheel,get:1,f_atomic_event
+whirl,1,1,1,PersonX gives ___ a whirl,give:1,f_atomic_event
+wiggle,1,1,1,PersonX gets a wiggle on,get:1,f_atomic_event
+wind,1,1,1,PersonX breaks wind,break:1,f_atomic_event
+wine,1,1,1,PersonX opens a bottle of wine,open:1,f_atomic_event
+wink,1,1,1,PersonX gives PersonY a wink,give:1,f_atomic_event
+winter,1,1,1,PersonX buys straw hats in winter,buy:1,f_atomic_event
+wisdom_tooth,1,1,2,PersonX gets PersonX's wisdom teeth removed,get:1,f_atomic_event
+wish,1,1,1,PersonX gets PersonX's wish,get:1,f_atomic_event
+witness,1,1,1,PersonX bears witness to the PersonY,bear:1,f_atomic_event
+wool,1,1,1,PersonX pulls the wool over PersonY's eyes,pull:1,f_atomic_event
+writ,1,1,1,PersonX drops the writ,drop:1,f_atomic_event
+yacht,1,1,1,PersonX buys a yacht,buy:1,f_atomic_event
+yard_sale,1,1,2,PersonX buys ___ at a yard sale,buy:1,f_atomic_event
+yeast,1,1,1,PersonX forgets the yeast,forget:1,f_atomic_event
+youtube,1,1,1,PersonX watches videos on youtube,watch:1,f_atomic_event

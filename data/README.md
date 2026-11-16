@@ -1,27 +1,13 @@
-# Data Folder
-Contains all input and output files produced across the pipeline stages.
+# Source Data
 
----
+This folder contains source knowledge and reference inputs for the two workflows.
 
-### Input
-- **`filtered_events.csv`** — Filtered subset of the original ATOMIC dataset. Contains only the events selected for forensic generation, based on verb and context relevance.
-- **`atomic_dataset/`** — Folder containing the original ATOMIC dataset.
+| Folder | Description |
+|:---|:---|
+| **atomic_dataset/** | Original ATOMIC CSVs. |
+| [**events/**](events/README.md) | Selected event inputs used by the generation pipeline and the 35 selected generation inputs for Phi4-mini. |
+| [**objects/**](objects/README.md) | The supplied ConceptNet reference resource. |
 
----
+Generated, cleaned, and validated event datasets belong under [`experiments/events/results/`](../experiments/events/results/README.md). Entity extraction/classification tables and object contexts belong under [`experiments/objects/results/`](../experiments/objects/results/README.md).
 
-### Generation Output
-- **`raw_forensic_atomic.csv`** — Raw output of the generation phase. Contains all instances produced by the LLM before any data understanding pass.
-- **`pre-judged_forensic_atomic.csv`** — Cleaned version of the generation output after the Data Understanding phase: non-ASCII sanitization, taxonomy normalization, and removal of malformed or low-quality rows. This is the file used as input for the Multi-Judge Tribunal. Contains **9,414 instances** across 6 forensic macro-categories.
-
----
-
-### Judgment Output
-- **`forensic_atomic.csv`** — Final validated dataset. Contains only the instances approved by the Multi-Judge Tribunal (majority vote ≥ 2/3, average score ≥ 50). This is the main output of the F-Atomic project.
-- **`forensic_atomic_human_validated.csv`** — Subset of `forensic_atomic.csv` after excluding the 75 events not approved in the unified human–LLM analysis. Human approval requires both a mean human score ≥ 50 and an approval percentage ≥ 50%. The file retains 9,100 rows, including the 596 human-approved events in the 671-event evaluation cohort.
-- **`judged_log.csv`** — Per-row audit log produced by the Tribunal. Records the individual verdict, score, and provider for each of the three judges, the final decision, and whether a rewrite was attempted.
-- **`judgement_summary.csv`** — Aggregated statistics over the full judgment run, produced by `tools/judgement_analysis.ipynb`. Includes total counts of approved, rejected and rewritten events, approval rate, agreement rate, and average scores.
-
----
-
-### Validation
-- **`form_results/`** — Raw CSV exports from the Google Forms human annotation experiment. Used in `form_creation/event_validation.ipynb` for the comparative Human vs. LLM analysis.
+The [human validation area](../human_validation/events/README.md) contains form creation, human-analysis code, form data, and comparison reports. The human-filtered event dataset remains an Events result and is read directly by Objects.

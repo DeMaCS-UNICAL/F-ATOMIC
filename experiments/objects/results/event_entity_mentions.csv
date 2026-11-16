@@ -1,0 +1,3319 @@
+event,entity,head,dep,verb
+PersonX buys a house,house,house,dobj,buy
+PersonX buys a toy,toy,toy,dobj,buy
+PersonX buys a lottery ticket,lottery_ticket,ticket,dobj,buy
+PersonX buys a suit,suit,suit,dobj,buy
+PersonX accidentally dropped ___ on the ground,ground,ground,pobj,drop
+PersonX burns PersonX's arm,arm,arm,dobj,burn
+PersonX attacks the enemy 's ___,enemy,enemy,poss,attack
+PersonX buys coffee,coffee,coffee,dobj,buy
+PersonX burns PersonX's tongue,tongue,tongue,dobj,burn
+PersonX buys a loaf of bread,loaf,loaf,dobj,buy
+PersonX buys a loaf of bread,bread,bread,pobj,buy
+PersonX buys a scratch lottery ticket,lottery_ticket,ticket,dobj,buy
+PersonX buys ___ after work,work,work,pobj,buy
+PersonX asks PersonY's forgiveness,forgiveness,forgiveness,dobj,ask
+PersonX buys PersonX's first house,house,house,dobj,buy
+PersonX buys ___ at a price,price,price,pobj,buy
+PersonX buys a home,home,home,dobj,buy
+PersonX blots PersonX's copy book,copy_book,book,ROOT,
+PersonX buys PersonX's clothes,clothe,clothe,dobj,buy
+PersonX buys a new car,car,car,dobj,buy
+PersonX buys gas,gas,gas,dobj,buy
+PersonX borrows some money,money,money,dobj,borrow
+PersonX buys PersonX's dress,dress,dress,dobj,buy
+PersonX buys gifts for PersonX's family,gift,gift,dobj,buy
+PersonX buys a new battery,battery,battery,dobj,buy
+PersonX buys new furniture,furniture,furniture,dobj,buy
+PersonX buys a motorcycle,motorcycle,motorcycle,dobj,buy
+PersonX borrows the money,money,money,dobj,borrow
+PersonX buys PersonX's first home,home,home,dobj,buy
+PersonX buys a new dress,dress,dress,dobj,buy
+PersonX buys groceries,grocery,grocery,dobj,buy
+PersonX begs for money,money,money,pobj,beg
+PersonX buys new sheets,sheet,sheet,dobj,buy
+PersonX buys ___ with PersonX's own money,money,money,pobj,buy
+PersonX buys PersonX's new shoes,shoe,shoe,dobj,buy
+PersonX buys ___ for the new school year,school_year,year,pobj,buy
+PersonX buys a new brush,brush,brush,dobj,buy
+PersonX buys lottery tickets,lottery_ticket,ticket,dobj,buy
+PersonX buys ___ on sale,sale,sale,pobj,buy
+PersonX buys PersonX's ticket,ticket,ticket,dobj,buy
+PersonX buys a new chair,chair,chair,dobj,buy
+PersonX buys PersonY a car,car,car,dobj,buy
+PersonX beats PersonY's brains out,brain,brain,dobj,beat
+PersonX buys a new camera,camera,camera,dobj,buy
+PersonX buys gifts for PersonY's family,gift,gift,dobj,buy
+PersonX buys ___ every week,week,week,npadvmod,buy
+PersonX abuses PersonX's power,power,power,dobj,abuse
+PersonX burns the food,food,food,dobj,burn
+PersonX beats the stuffing out of ___,stuffing,stuffing,dobj,beat
+PersonX buys ___ in the market,market,market,pobj,buy
+PersonX buys a new guitar,guitar,guitar,dobj,buy
+PersonX buys PersonX's own shoes,shoe,shoe,dobj,buy
+PersonX buys a metal detector,metal_detector,detector,dobj,buy
+PersonX buys new glasses,glass,glass,dobj,buy
+PersonX buys PersonX's dream car,dream_car,car,dobj,buy
+PersonX breaketh the ___ in pieces,piece,piece,pobj,
+PersonX buys a new couch,couch,couch,dobj,buy
+PersonX buys ice cream,ice_cream,cream,dobj,buy
+PersonX borrows this thesis for use,thesis,thesis,dobj,borrow
+PersonX borrows this thesis for use,use,use,pobj,borrow
+PersonX burns PersonX's mouth,mouth,mouth,dobj,burn
+PersonX buys ___ in the company,company,company,pobj,buy
+PersonX buys a new game,game,game,dobj,buy
+PersonX buys PersonX's own house,house,house,dobj,buy
+PersonX breaks PersonX's fall,fall,fall,dobj,break
+PersonX buys a new dog,dog,dog,dobj,buy
+PersonX buys lunch,lunch,lunch,dobj,buy
+PersonX buys PersonY a drink,drink,drink,dobj,buy
+PersonX affords to buy one,afford,afford,ROOT,
+PersonX beats PersonX's swords into ploughshares,sword,sword,dobj,beat
+PersonX beats PersonX's swords into ploughshares,ploughshare,ploughshare,pobj,beat
+PersonX buys a new racquet,racquet,racquet,dobj,buy
+PersonX buys new headphones,headphone,headphone,dobj,buy
+PersonX breaks the silence,silence,silence,dobj,break
+PersonX buys ___ from the store,store,store,pobj,buy
+PersonX borrows this ___ for use,use,use,pobj,borrow
+PersonX buys a new cell phone,cell_phone,phone,dobj,buy
+PersonX buys an ice cream cone,cream_cone,cone,dobj,buy
+PersonX buys PersonY a gift,gift,gift,dobj,buy
+PersonX buys a new hat,hat,hat,dobj,buy
+PersonX burns the candle at both ends,candle,candle,dobj,burn
+PersonX burns the candle at both ends,end,end,dobj,burn
+PersonX beats the cancer,cancer,cancer,dobj,beat
+PersonX buys PersonY a pair,pair,pair,dobj,buy
+PersonX buys school supplies,school_supply,supply,dobj,buy
+PersonX buys a new home,home,home,dobj,buy
+PersonX breaks PersonY arm,arm,arm,dobj,break
+PersonX buys ___ from the grocery store,grocery_store,store,pobj,buy
+PersonX buys a new house,house,house,dobj,buy
+PersonX aims PersonX's gun,gun,gun,dobj,aim
+PersonX buys fabric,fabric,fabric,dobj,buy
+PersonX buys ___ from the pet store,store,store,pobj,buy
+PersonX buys a new microwave,microwave,microwave,dobj,buy
+PersonX breaks PersonX's hip,hip,hip,dobj,break
+PersonX buys a pregnancy test,pregnancy_test,test,dobj,buy
+PersonX beats a retreat,retreat,retreat,dobj,beat
+PersonX buys ___ on the spot,spot,spot,pobj,buy
+PersonX buys a sweater,sweater,sweater,dobj,buy
+PersonX buys a game,game,game,dobj,buy
+PersonX builds a fire,fire,fire,dobj,build
+PersonX breaks PersonX's wrist,wrist,wrist,dobj,break
+PersonX buys a new mattress,mattress,mattress,dobj,buy
+PersonX buys ___ for the party,party,party,pobj,buy
+PersonX buys candy,candy,candy,dobj,buy
+PersonX bribes PersonY with candy,candy,candy,pobj,bribe
+PersonX breaks PersonX's word,word,word,dobj,break
+PersonX breaks PersonY's hand,hand,hand,dobj,break
+PersonX buys PersonY's flowers,flower,flower,dobj,buy
+PersonX buys a new keyboard,keyboard,keyboard,dobj,buy
+PersonX buys ___ for the occasion,occasion,occasion,pobj,buy
+PersonX buys ___ in the store,store,store,pobj,buy
+PersonX breaks the fourth wall,wall,wall,dobj,break
+PersonX breaks PersonY neck,neck,neck,dobj,break
+PersonX buys ___ last week,week,week,npadvmod,buy
+PersonX buys a gift card,gift_card,card,dobj,buy
+PersonX buys pizza,pizza,pizza,dobj,buy
+PersonX beats the game,game,game,dobj,beat
+PersonX buys ___ on amazon,amazon,amazon,pobj,buy
+PersonX buys a new fish,fish,fish,dobj,buy
+PersonX buys some new clothes,clothe,clothe,dobj,buy
+PersonX breaks PersonX's window,window,window,dobj,break
+PersonX buys some candy,candy,candy,dobj,buy
+PersonX buys a new pet,pet,pet,dobj,buy
+PersonX becomes a lawyer,lawyer,lawyer,attr,become
+PersonX buys PersonY drinks,drink,drink,dobj,buy
+PersonX buys ___ in advance,advance,advance,pobj,buy
+PersonX buys a new pair,pair,pair,dobj,buy
+PersonX buys some bread,bread,bread,dobj,buy
+PersonX beats around the bush,bush,bush,pobj,beat
+PersonX buys PersonY's lunch,lunch,lunch,dobj,buy
+PersonX applies for a credit card,credit_card,card,pobj,apply
+PersonX buys a new pair of boots,pair,pair,dobj,buy
+PersonX buys a new pair of boots,boot,boot,pobj,buy
+PersonX buys ___ from a store,store,store,pobj,buy
+PersonX breaks PersonY's arm,arm,arm,dobj,break
+PersonX buys PersonY's phone,phone,phone,dobj,buy
+PersonX buys a kit,kit,kit,dobj,buy
+PersonX breaks PersonY's leg,leg,leg,dobj,break
+PersonX buys a new sofa,sofa,sofa,dobj,buy
+PersonX buys ___ for school,school,school,pobj,buy
+PersonX breaks PersonY's glasses,glass,glass,dobj,break
+PersonX buys PersonY's ticket,ticket,ticket,dobj,buy
+PersonX adds fuel to the fire,fuel,fuel,dobj,add
+PersonX adds fuel to the fire,fire,fire,pobj,add
+PersonX buys ___ with the money,money,money,pobj,buy
+PersonX buys a new puppy,puppy,puppy,dobj,buy
+PersonX accepts ___ in payment,payment,payment,pobj,accept
+PersonX breaks PersonY's foot,foot,foot,dobj,break
+PersonX buys PersonX's groceries,grocery,grocery,dobj,buy
+PersonX buys a new boat,boat,boat,dobj,buy
+PersonX buys PersonY's supplies,supply,supply,dobj,buy
+PersonX breaks PersonY's mother 's favorite vase,vase,vase,dobj,break
+PersonX buys a new purse,purse,purse,dobj,buy
+PersonX breaks PersonY's fall,fall,fall,dobj,break
+PersonX buys PersonY a new bike,bike,bike,dobj,buy
+PersonX buys a new plant,plant,plant,dobj,buy
+PersonX breaks PersonY's phone,phone,phone,dobj,break
+PersonX buys a new television,television,television,dobj,buy
+PersonX buys ___ for PersonY's birthday,birthday,birthday,pobj,buy
+PersonX breaks PersonY's kiss,kiss,kiss,dobj,break
+PersonX buys all the ingredients,ingredient,ingredient,dobj,buy
+PersonX buys a laptop,laptop,laptop,dobj,buy
+PersonX buys ___ from amazon,amazon,amazon,pobj,buy
+PersonX buys a video game,video_game,game,dobj,buy
+PersonX buys PersonX's lunch,lunch,lunch,dobj,buy
+PersonX breaks PersonY's window,window,window,dobj,break
+PersonX breaks every ___ in PersonX's body,body,body,pobj,break
+PersonX buys a new shirt,shirt,shirt,dobj,buy
+PersonX asks ___ for money,money,money,pobj,ask
+PersonX breaks the ice,ice,ice,dobj,break
+PersonX buys PersonY's groceries,grocery,grocery,dobj,buy
+PersonX buys a ticket,ticket,ticket,dobj,buy
+PersonX breaks PersonX's mother 's favorite vase,vase,vase,dobj,break
+PersonX buys a new sweater,sweater,sweater,dobj,buy
+PersonX breaks ___ in half,half,half,pobj,break
+PersonX breaks a law,law,law,dobj,break
+PersonX buys PersonX's first car,car,car,dobj,buy
+PersonX buys an air conditioner,air_conditioner,conditioner,dobj,buy
+PersonX buys a ___ at a price,price,price,pobj,buy
+PersonX buys a new fan,fan,fan,dobj,buy
+PersonX borrows money,money,money,dobj,borrow
+PersonX breaks PersonY's ankle,ankle,ankle,dobj,break
+PersonX buys ___ for PersonX's house,house,house,pobj,buy
+PersonX buys ___ to a concert,concert,concert,pobj,buy
+PersonX adds ___ to the fire,fire,fire,pobj,add
+PersonX buys a bike,bike,bike,dobj,buy
+PersonX buys a truck,truck,truck,dobj,buy
+PersonX breaks my foot,foot,foot,dobj,break
+PersonX buys a brand ___,brand,brand,dobj,buy
+PersonX buys a new phone,phone,phone,dobj,buy
+PersonX buys a used car,car,car,dobj,buy
+PersonX buys a car,car,car,dobj,buy
+PersonX buys a gift,gift,gift,dobj,buy
+PersonX breaks the news,news,news,dobj,break
+PersonX buys an apple,apple,apple,dobj,buy
+PersonX buys a birthday cake,birthday_cake,cake,dobj,buy
+PersonX breaks the camel 's back,camel,camel,dobj,break
+PersonX buys a new tire,tire,tire,dobj,buy
+PersonX buys ___ at the supermarket,supermarket,supermarket,pobj,buy
+PersonX buys ___ without prescription,prescription,prescription,pobj,buy
+PersonX buys a new wallet,wallet,wallet,dobj,buy
+PersonX buys a new suit,suit,suit,dobj,buy
+PersonX breaks PersonX's phone,phone,phone,dobj,break
+PersonX breaks the window,window,window,dobj,break
+PersonX buys ___ at the pet store,pet,pet,amod,buy
+PersonX buys ___ at the pet store,store,store,pobj,buy
+PersonX buys a brand new car,brand,brand,nmod,buy
+PersonX buys a brand new car,car,car,dobj,buy
+PersonX buys a yacht,yacht,yacht,dobj,buy
+PersonX beats PersonY to death,death,death,pobj,beat
+PersonX begs PersonY's forgiveness,forgiveness,forgiveness,dobj,beg
+PersonX breaks the law,law,law,dobj,break
+PersonX buys a new wardrobe,wardrobe,wardrobe,dobj,buy
+PersonX buys a coffee,coffee,coffee,dobj,buy
+PersonX burns the turkey,turkey,turkey,dobj,burn
+PersonX buys an air purifier,air_purifier,purifier,dobj,buy
+PersonX breaks PersonY's wrist,wrist,wrist,dobj,break
+PersonX breaks a window,window,window,dobj,break
+PersonX buys PersonY ice cream,ice_cream,cream,dobj,buy
+PersonX buys a new gun,gun,gun,dobj,buy
+PersonX buys ___ yesterday,yesterday,yesterday,npadvmod,buy
+PersonX buys a new jacket,jacket,jacket,dobj,buy
+PersonX breaks a bone,bone,bone,dobj,break
+PersonX buys ___ today,today,today,npadvmod,buy
+PersonX buys a cat,cat,cat,dobj,buy
+PersonX breaks the cycle,cycle,cycle,dobj,break
+PersonX buys all of the ingredients,ingredient,ingredient,pobj,buy
+PersonX bears witness to the PersonY,witness,witness,dobj,bear
+PersonX buys PersonY a new car,car,car,dobj,buy
+PersonX buys a bicycle,bicycle,bicycle,dobj,buy
+PersonX buys a new toy,toy,toy,dobj,buy
+PersonX buys apples,apple,apple,dobj,buy
+PersonX buys ___ at the gas station,gas_station,station,pobj,buy
+PersonX buys a book,book,book,dobj,buy
+PersonX buys a new truck,truck,truck,dobj,buy
+PersonX buys bananas,banana,banana,dobj,buy
+PersonX breaks PersonY word,word,word,dobj,break
+PersonX breaks ___ in the process,process,process,pobj,break
+PersonX buys PersonY's own shoes,shoe,shoe,dobj,buy
+PersonX buys a television,television,television,dobj,buy
+PersonX beats PersonY's personal record,record,record,dobj,beat
+PersonX breaks the seal,seal,seal,dobj,break
+PersonX buys a camera,camera,camera,dobj,buy
+PersonX buys a new video game,video_game,game,dobj,buy
+PersonX breaks both of PersonX's legs,leg,leg,pobj,break
+PersonX buys ___ at the store,store,store,pobj,buy
+PersonX buys ___ for dinner,dinner,dinner,pobj,buy
+PersonX beats a dead horse,horse,horse,dobj,beat
+PersonX buys a parrot,parrot,parrot,dobj,buy
+PersonX buys ___ a gift,gift,gift,dobj,buy
+PersonX buys a ring,ring,ring,dobj,buy
+PersonX buys a brand,brand,brand,dobj,buy
+PersonX breaks ground,ground,ground,dobj,break
+PersonX buys an expensive car,car,car,dobj,buy
+PersonX burns PersonX's candle at both ends,candle,candle,dobj,burn
+PersonX burns PersonX's candle at both ends,end,end,dobj,burn
+PersonX buys ___ at target,target,target,pobj,buy
+PersonX buys an old house,house,house,dobj,buy
+PersonX buys a drink,drink,drink,dobj,buy
+PersonX buys a new book,book,book,dobj,buy
+PersonX breaks a sweat,sweat,sweat,dobj,break
+PersonX burns PersonX's bridges,bridge,bridge,dobj,burn
+PersonX buys ___ at a store,store,store,pobj,buy
+PersonX buys a computer,computer,computer,dobj,buy
+PersonX buys a skateboard,skateboard,skateboard,dobj,buy
+PersonX brings a knife to a gunfight,knife,knife,dobj,bring
+PersonX brings a knife to a gunfight,gunfight,gunfight,pobj,bring
+PersonX buys ___ at prices,price,price,pobj,buy
+PersonX buys a burger,burger,burger,dobj,buy
+PersonX breaks PersonX's hand,hand,hand,dobj,break
+PersonX buys a set,set,set,dobj,buy
+PersonX burns PersonX's hand,hand,hand,dobj,burn
+PersonX buys another car,car,car,dobj,buy
+PersonX buys ___ at a yard sale,yard_sale,sale,pobj,buy
+PersonX buys a new pair of pants,pair,pair,dobj,buy
+PersonX buys a new pair of pants,pant,pant,pobj,buy
+PersonX buys a farm,farm,farm,dobj,buy
+PersonX buys a new laptop,laptop,laptop,dobj,buy
+PersonX burns PersonY's hand,hand,hand,dobj,burn
+PersonX buys a new iphone,iphone,iphone,dobj,buy
+PersonX buys a new toaster,toaster,toaster,dobj,buy
+PersonX buys a dog,dog,dog,dobj,buy
+PersonX buys ___ at the mall,mall,mall,pobj,buy
+PersonX buys a gun,gun,gun,dobj,buy
+PersonX breaks wind,wind,wind,dobj,break
+PersonX buys a plane ticket,plane_ticket,ticket,dobj,buy
+PersonX buys eggs,egg,egg,dobj,buy
+PersonX breaks the news to PersonY,news,news,dobj,break
+PersonX buys beer,beer,beer,dobj,buy
+PersonX buys ___ at the grocery store,grocery_store,store,pobj,buy
+PersonX buys a fan,fan,fan,dobj,buy
+PersonX buys a pair,pair,pair,dobj,buy
+PersonX breaks my arm,arm,arm,dobj,break
+PersonX burns PersonX's fingers,finger,finger,dobj,burn
+PersonX buys a smartphone,smartphone,smartphone,dobj,buy
+PersonX buys dinner,dinner,dinner,dobj,buy
+PersonX beats PersonX's personal record,record,record,dobj,beat
+PersonX buys a dress,dress,dress,dobj,buy
+PersonX buys a puppy,puppy,puppy,dobj,buy
+PersonX buys bottled water,water,water,dobj,buy
+PersonX breaks my leg,leg,leg,dobj,break
+PersonX buys ___ as a pet,pet,pet,pobj,buy
+PersonX breaks the screen,screen,screen,dobj,break
+PersonX buys a cake,cake,cake,dobj,buy
+PersonX buys a new motorcycle,motorcycle,motorcycle,dobj,buy
+PersonX beats the clock,clock,clock,dobj,beat
+PersonX buys a gallon of milk,gallon,gallon,dobj,buy
+PersonX buys a gallon of milk,milk,milk,pobj,buy
+PersonX buys a sandwich,sandwich,sandwich,dobj,buy
+PersonX buys PersonY new shoes,shoe,shoe,dobj,buy
+PersonX beats the bishop,bishop,bishop,dobj,beat
+PersonX breaks the record,record,record,dobj,break
+PersonX breaks PersonY's neck,neck,neck,dobj,break
+PersonX buys ___ at a garage sale,garage_sale,sale,pobj,buy
+PersonX buys a new computer,computer,computer,dobj,buy
+PersonX buys a new tent,tent,tent,dobj,buy
+PersonX buys clothes,clothe,clothe,dobj,buy
+PersonX allows PersonY access,access,access,dobj,allow
+PersonX burns a hole in PersonX's pocket,hole,hole,dobj,burn
+PersonX burns a hole in PersonX's pocket,pocket,pocket,pobj,burn
+PersonX buys PersonX's supplies,supply,supply,dobj,buy
+PersonX buys a new pair of shoes,pair,pair,dobj,buy
+PersonX buys a new pair of shoes,shoe,shoe,pobj,buy
+PersonX buys bread,bread,bread,dobj,buy
+PersonX asks PersonY for money,money,money,pobj,ask
+PersonX breaks the mold,mold,mold,dobj,break
+PersonX breaks both of PersonY's legs,leg,leg,pobj,break
+PersonX buys PersonY a dog,dog,dog,dobj,buy
+PersonX buys a guitar,guitar,guitar,dobj,buy
+PersonX buys a scratch,scratch,scratch,dobj,buy
+PersonX becomes a police officer,police_officer,officer,attr,become
+PersonX breaks every ___ in PersonY's body,body,body,pobj,break
+PersonX buys cookies,cooky,cooky,dobj,buy
+PersonX buys a christmas tree,christmas_tree,tree,dobj,buy
+PersonX buys PersonY's tickets,ticket,ticket,dobj,buy
+PersonX buys a replacement,replacement,replacement,dobj,buy
+PersonX buys dog food,dog_food,food,dobj,buy
+PersonX beats to the punch,punch,punch,pobj,beat
+PersonX buys ___ this week,week,week,npadvmod,buy
+PersonX buys a snack,snack,snack,dobj,buy
+PersonX buys food,food,food,dobj,buy
+PersonX beats feet,foot,foot,dobj,beat
+PersonX breaks PersonY's nose,nose,nose,dobj,break
+PersonX buys a boat,boat,boat,dobj,buy
+PersonX buys a shirt,shirt,shirt,dobj,buy
+PersonX buys gifts,gift,gift,dobj,buy
+PersonX bases upon data,datum,datum,pobj,base
+PersonX breaks the back of ___,back,back,dobj,break
+PersonX buys a gym membership,gym_membership,membership,dobj,buy
+PersonX buys a new watch,watch,watch,dobj,buy
+PersonX assesses the damage,damage,damage,dobj,assess
+PersonX breaks the camel 's ___,camel,camel,poss,break
+PersonX burns the ___ at both ends,end,end,conj,burn
+PersonX buys ___ at the price,price,price,pobj,buy
+PersonX buys a new charger,charger,charger,dobj,buy
+PersonX buys a phone,phone,phone,dobj,buy
+PersonX breaks the deadlock,deadlock,deadlock,dobj,break
+PersonX beats the meat,meat,meat,dobj,beat
+PersonX burns the midnight oil,midnight_oil,oil,dobj,burn
+PersonX buys a new bike,bike,bike,dobj,buy
+PersonX buys PersonY a new pair,pair,pair,dobj,buy
+PersonX buys flowers,flower,flower,dobj,buy
+PersonX buys a soda,soda,soda,dobj,buy
+PersonX breaks the enemy 's ___,enemy,enemy,poss,break
+PersonX buys the supplies,supply,supply,dobj,buy
+PersonX drops the writ,writ,writ,dobj,drop
+PersonX decides to get a cat,cat,cat,dobj,get
+PersonX expects PersonY attack,attack,attack,dobj,expect
+PersonX buys the tickets,ticket,ticket,dobj,buy
+PersonX costs a lot of money,money,money,pobj,cost
+PersonX drops PersonX's keys,key,key,dobj,drop
+PersonX fires PersonX's rifle,rifle,rifle,dobj,fire
+PersonX buys the shoes,shoe,shoe,dobj,buy
+PersonX drops the mic,mic,mic,dobj,drop
+PersonX enters the building,building,building,dobj,enter
+PersonX finds the door locked,door,door,nsubj,lock
+PersonX buys the ring,ring,ring,dobj,buy
+PersonX creates PersonY file,file,file,dobj,create
+PersonX decides to give it a shot,shot,shot,dobj,give
+PersonX buys paper towels,paper_towel,towel,dobj,buy
+PersonX drops PersonY a line,line,line,dobj,drop
+PersonX fiddles while rome burns,fiddle,fiddle,ROOT,
+PersonX fiddles while rome burns,rome_burn,burn,advcl,
+PersonX decides to buy a new pair,pair,pair,dobj,buy
+PersonX drops to one knee,knee,knee,pobj,drop
+PersonX fires ___ on the spot,spot,spot,pobj,fire
+PersonX enters a competition,competition,competition,dobj,enter
+PersonX cuts PersonX's foot,foot,foot,dobj,cut
+PersonX buys the ticket,ticket,ticket,dobj,buy
+PersonX drops to PersonY's knees,knee,knee,pobj,drop
+PersonX enters the room,room,room,dobj,enter
+PersonX fires PersonY's rifle,rifle,rifle,nsubj,fire
+PersonX cuts PersonX's coat according to PersonX's cloth,coat,coat,dobj,cut
+PersonX cuts PersonX's coat according to PersonX's cloth,cloth,cloth,pobj,accord
+PersonX decides to get a job,job,job,dobj,get
+PersonX calls a locksmith,locksmith,locksmith,dobj,call
+PersonX drops the class,class,class,dobj,drop
+PersonX enters a baking competition,baking_competition,competition,dobj,enter
+PersonX decides to pull an allnighter,allnighter,allnighter,dobj,pull
+PersonX buys the truck,truck,truck,dobj,buy
+PersonX earns extra money,money,money,dobj,earn
+PersonX falls and breaks,break,break,conj,fall
+PersonX finds the money,money,money,dobj,find
+PersonX cuts PersonY's hair very short,hair,hair,dobj,cut
+PersonX calls PersonX's bank,bank,bank,dobj,call
+PersonX catches ___ on fire,fire,fire,pobj,catch
+PersonX drops to the ground,ground,ground,pobj,drop
+PersonX decides to pull an all-nighter,nighter,nighter,dobj,pull
+PersonX calls a taxi,taxi,taxi,dobj,call
+PersonX decides to get a haircut,haircut,haircut,dobj,get
+PersonX buys tickets to a concert,ticket,ticket,dobj,buy
+PersonX buys tickets to a concert,concert,concert,pobj,buy
+PersonX drops the phone,phone,phone,dobj,drop
+PersonX fires PersonY on the spot,spot,spot,pobj,fire
+PersonX cuts PersonX's hair very short,hair,hair,dobj,cut
+PersonX decides to make PersonY's breakfast in bed,breakfast,breakfast,dobj,make
+PersonX decides to make PersonY's breakfast in bed,bed,bed,pobj,make
+PersonX buys new socks,sock,sock,dobj,buy
+PersonX cuts PersonX's arm,arm,arm,dobj,cut
+PersonX enters the store,store,store,dobj,enter
+PersonX fires in anger,fire,fire,ROOT,
+PersonX fires in anger,anger,anger,pobj,
+PersonX drops PersonY's keys,key,key,dobj,drop
+PersonX decides to make breakfast,breakfast,breakfast,dobj,make
+PersonX calls the cops,cop,cop,dobj,call
+PersonX cuts PersonX's throat,throat,throat,dobj,cut
+PersonX earns a lot of money,money,money,pobj,earn
+PersonX enters PersonX's house,house,house,dobj,enter
+PersonX fires from PersonY's job,fire,fire,ROOT,
+PersonX fires from PersonY's job,job,job,pobj,
+PersonX cuts a hole,hole,hole,dobj,cut
+PersonX cuts PersonX's leg,leg,leg,dobj,cut
+PersonX earns more money,money,money,dobj,earn
+PersonX buys the ingredients,ingredient,ingredient,dobj,buy
+PersonX cries all the way to the bank,bank,bank,pobj,cry
+PersonX fires on all cylinders,fire,fire,ROOT,
+PersonX fires on all cylinders,cylinder,cylinder,pobj,
+PersonX buys tickets,ticket,ticket,dobj,buy
+PersonX cuts PersonX's nails,nail,nail,dobj,cut
+PersonX drops PersonY's bag,bag,bag,dobj,drop
+PersonX fires on the spot,fire,fire,ROOT,
+PersonX fires on the spot,spot,spot,pobj,
+PersonX decides to give it a try,try,try,dobj,give
+PersonX buys some ice cream,ice_cream,cream,dobj,buy
+PersonX cuts PersonX's losses,loss,loss,dobj,cut
+PersonX earns the money,money,money,dobj,earn
+PersonX fires upon PersonY,fire,fire,ROOT,
+PersonX buys some stock,stock,stock,dobj,buy
+PersonX cooks breakfast,breakfast,breakfast,dobj,cook
+PersonX eats ___ for breakfast,breakfast,breakfast,pobj,eat
+PersonX follows PersonX's dream,dream,dream,dobj,follow
+PersonX fights PersonX's battle,battle,battle,dobj,fight
+PersonX calls the bank,bank,bank,dobj,call
+PersonX cuts PersonX's own hair,hair,hair,dobj,cut
+PersonX earns enough money,money,money,dobj,earn
+PersonX flees the scene,scene,scene,dobj,flee
+PersonX cuts my hair,hair,hair,dobj,cut
+PersonX covers PersonX's tracks,track,track,dobj,cover
+PersonX earns some money,money,money,dobj,earn
+PersonX can barely get out of bed,bed,bed,pobj,get
+PersonX fights ___ by side,side,side,pobj,fight
+PersonX decides to rob a bank,bank,bank,dobj,rob
+PersonX calls the cops on PersonY,cop,cop,dobj,call
+PersonX cuts PersonY's finger,finger,finger,dobj,cut
+PersonX drops the f-bomb,f_bomb,bomb,dobj,drop
+PersonX fights a losing battle,battle,battle,dobj,fight
+PersonX cuts bait,bait,bait,dobj,cut
+PersonX eats a slice,slice,slice,dobj,eat
+PersonX fights PersonX's battles,battle,battle,dobj,fight
+PersonX fires the employee,employee,employee,dobj,fire
+PersonX decides to save PersonX's money,money,money,dobj,save
+PersonX earns PersonX's own money,money,money,dobj,earn
+PersonX fears PersonY attack,attack,attack,dobj,fear
+PersonX cuts PersonY hair,hair,hair,dobj,cut
+PersonX follows PersonX's course,course,course,dobj,follow
+PersonX fights PersonY battle,battle,battle,dobj,fight
+PersonX drops a bombshell,bombshell,bombshell,dobj,drop
+PersonX decides to take a walk,walk,walk,dobj,take
+PersonX cuts PersonY throat,throat,throat,dobj,cut
+PersonX eases tracking by adjusting,tracking,tracking,dobj,ease
+PersonX follows PersonX's instructions,instruction,instruction,dobj,follow
+PersonX decides to throw a party,party,party,dobj,throw
+PersonX catches and arrested,catch,catch,ROOT,
+PersonX effects PersonY's escape,effect,effect,ROOT,
+PersonX effects PersonY's escape,escape,escape,appos,
+PersonX enters an art contest,art_contest,contest,dobj,enter
+PersonX finds ___ on fire,fire,fire,pobj,find
+PersonX decides to watch a movie,movie,movie,dobj,watch
+PersonX buys the ___ at a price,price,price,pobj,buy
+PersonX cuts PersonY 's hair,hair,hair,dobj,cut
+PersonX fights back tears,tear,tear,dobj,fight
+PersonX eats PersonX's gun,gun,gun,dobj,eat
+PersonX cuts the mustard,mustard,mustard,dobj,cut
+PersonX calls the fire department,fire_department,department,dobj,call
+PersonX drops PersonY's phone,phone,phone,dobj,drop
+PersonX fights for PersonX's rights,right,right,pobj,fight
+PersonX cuts from the team,team,team,pobj,cut
+PersonX drops PersonY's head,head,head,dobj,drop
+PersonX enters the competition,competition,competition,dobj,enter
+PersonX follows PersonY advice,advice,advice,dobj,follow
+PersonX cuts PersonY's arm,arm,arm,dobj,cut
+PersonX enters PersonY house,house,house,dobj,enter
+PersonX fights for PersonX's country,country,country,pobj,fight
+PersonX denies PersonY access,access,access,dobj,deny
+PersonX fish or cut bait,fish,fish,ROOT,
+PersonX fish or cut bait,bait,bait,dobj,cut
+PersonX calls the police for help,police,police,dobj,call
+PersonX calls the police for help,help,help,pobj,call
+PersonX cuts PersonY's hair,hair,hair,dobj,cut
+PersonX fights for PersonY's country,country,country,pobj,fight
+PersonX eats for breakfast,breakfast,breakfast,pobj,eat
+PersonX cuts the umbilical cord,cord,cord,dobj,cut
+PersonX fights ___ with fire,fire,fire,pobj,fight
+PersonX effects PersonX's escape,escape,escape,dobj,effect
+PersonX destroys the enemy 's ___,enemy,enemy,poss,destroy
+PersonX cuts PersonY's hair herself,hair,hair,dobj,cut
+PersonX buys the bike,bike,bike,dobj,buy
+PersonX enters the science fair,science,science,dobj,enter
+PersonX drops on the ground,ground,ground,pobj,drop
+PersonX cuts the tree,tree,tree,dobj,cut
+PersonX calls to account,account,account,xcomp,call
+PersonX cuts a swath,swath,swath,dobj,cut
+PersonX encourages PersonY's ___ hither,hither,hither,advmod,encourage
+PersonX decides to buy a new car,car,car,dobj,buy
+PersonX carries out PersonX's threat,threat,threat,dobj,carry
+PersonX enters PersonX's car,car,car,dobj,enter
+PersonX cuts PersonY's hair short,hair,hair,dobj,cut
+PersonX cashes PersonX's paycheck,paycheck,paycheck,dobj,cash
+PersonX enters the ___ on the side,side,side,pobj,enter
+PersonX cuts PersonY's hand,hand,hand,dobj,cut
+PersonX dies in the fire,fire,fire,pobj,die
+PersonX catches the thief,thief,thief,dobj,catch
+PersonX enters PersonY's home,home,home,dobj,enter
+PersonX cuts PersonY's leg,leg,leg,dobj,cut
+PersonX decides to take a break,break,break,dobj,take
+PersonX catches fire,fire,fire,dobj,catch
+PersonX fights fires,fire,fire,dobj,fight
+PersonX cuts PersonY's grass,grass,grass,dobj,cut
+PersonX does n't have a lot of money,money,money,pobj,have
+PersonX does drugs,drug,drug,dobj,do
+PersonX causes PersonY damage,damage,damage,dobj,cause
+PersonX donates the money,money,money,dobj,donate
+PersonX drops the box,box,box,dobj,drop
+PersonX buys some ear plugs,ear,ear,dobj,buy
+PersonX buys some ear plugs,plug,plug,dobj,buy
+PersonX buys the farm,farm,farm,dobj,buy
+PersonX drops PersonX's laptop,laptop,laptop,dobj,drop
+PersonX fights fire with fire,fire,fire,dobj,fight
+PersonX fights fire with fire,fire,fire,pobj,fight
+PersonX does magic tricks,trick,trick,dobj,do
+PersonX enters PersonX's home,home,home,dobj,enter
+PersonX buys snacks,snack,snack,dobj,buy
+PersonX catches by the police,police,police,pobj,catch
+PersonX drops ___ on the ground,ground,ground,pobj,drop
+PersonX fights for PersonY's rights,right,right,pobj,fight
+PersonX enters PersonY room,room,room,dobj,enter
+PersonX cuts a figure,figure,figure,dobj,cut
+PersonX develops ___ for use,use,use,pobj,develop
+PersonX buys shoes,shoe,shoe,dobj,buy
+PersonX checks PersonY's account,account,account,dobj,check
+PersonX eats PersonY breakfast,breakfast,breakfast,dobj,eat
+PersonX files PersonY application,application,application,dobj,file
+PersonX cuts PersonY's nails,nail,nail,dobj,cut
+PersonX distinguishes ___ from terms by following,term,term,pobj,distinguish
+PersonX checks PersonY's watch,watch,watch,dobj,check
+PersonX fights PersonY after school,school,school,pobj,fight
+PersonX enters ___ at school,school,school,pobj,enter
+PersonX buys some wood,wood,wood,dobj,buy
+PersonX cuts PersonY's throat,throat,throat,dobj,cut
+PersonX buys books,book,book,dobj,buy
+PersonX challenges ___ to a fight,fight,fight,pobj,challenge
+PersonX drops PersonY's arms,arm,arm,dobj,drop
+PersonX enters PersonY's office,office,office,dobj,enter
+PersonX files a complaint,complaint,complaint,dobj,file
+PersonX cuts a long story short,story,story,dobj,cut
+PersonX cuts the crap,crap,crap,dobj,cut
+PersonX checks PersonX's account,account,account,dobj,check
+PersonX destroys ___ in hell,hell,hell,pobj,destroy
+PersonX enters PersonY's car,car,car,dobj,enter
+PersonX cuts hair,hair,hair,dobj,cut
+PersonX demands all the money,money,money,dobj,demand
+PersonX buys some milk,milk,milk,dobj,buy
+PersonX checks PersonY's email,email,email,dobj,check
+PersonX drops PersonY off at home,home,home,pobj,drop
+PersonX escapes PersonY's mouth,mouth,mouth,dobj,escape
+PersonX dies of a heart attack,heart_attack,attack,pobj,die
+PersonX cuts a rug,rug,rug,dobj,cut
+PersonX buys some food,food,food,dobj,buy
+PersonX claims the money,money,money,dobj,claim
+PersonX does n't get the job,job,job,dobj,get
+PersonX fights hand to hand,hand,hand,dobj,fight
+PersonX enters PersonY's house,house,house,dobj,enter
+PersonX cuts ___ in half,half,half,pobj,cut
+PersonX does n't have enough money,money,money,dobj,have
+PersonX drops PersonY's gaze,gaze,gaze,dobj,drop
+PersonX enters PersonX's office,office,office,dobj,enter
+PersonX files PersonY's taxes,taxis,taxis,dobj,file
+PersonX cuts off PersonY's head,head,head,dobj,cut
+PersonX carries the ___ by assault,assault,assault,pobj,carry
+PersonX does n't get in trouble,trouble,trouble,pobj,get
+PersonX drops ___ by accident,accident,accident,pobj,drop
+PersonX enters PersonY's room,room,room,dobj,enter
+PersonX files PersonX's taxes,taxis,taxis,dobj,file
+PersonX buys some groceries,grocery,grocery,dobj,buy
+PersonX drops PersonY's hand,hand,hand,dobj,drop
+PersonX drops the gloves,glove,glove,dobj,drop
+PersonX files a claim,claim,claim,dobj,file
+PersonX buys the guitar,guitar,guitar,dobj,buy
+PersonX cuts a wide swath,swath,swath,dobj,cut
+PersonX buys my ticket,ticket,ticket,dobj,buy
+PersonX comes into force on PersonY,force,force,pobj,come
+PersonX drops PersonY's cell phone,cell_phone,phone,dobj,drop
+PersonX files off the serial numbers,number,number,pobj,file
+PersonX buys some popcorn,popcorn,popcorn,dobj,buy
+PersonX cuts off PersonX's nose to spite PersonX's face,nose,nose,dobj,cut
+PersonX cuts off PersonX's nose to spite PersonX's face,face,face,dobj,spite
+PersonX decides to get a dog,dog,dog,dobj,get
+PersonX enters ___ into a contest,contest,contest,pobj,enter
+PersonX decides to take a bath,bath,bath,dobj,take
+PersonX cuts corners,corner,corner,dobj,cut
+PersonX buys some new shoes,shoe,shoe,dobj,buy
+PersonX checks PersonX's bank account,bank_account,account,dobj,check
+PersonX drops ___ in the toilet,toilet,toilet,pobj,drop
+PersonX enters a poker tournament,poker_tournament,tournament,dobj,enter
+PersonX escapes PersonY's cage,cage,cage,dobj,escape
+PersonX buys some snacks,snack,snack,dobj,buy
+PersonX enters a marathon,marathon,marathon,dobj,enter
+PersonX does n't have much money,money,money,dobj,have
+PersonX fights PersonX's corner,corner,corner,dobj,fight
+PersonX buys some shoes,shoe,shoe,dobj,buy
+PersonX does not get the job,job,job,dobj,get
+PersonX chokes the chicken,chicken,chicken,dobj,choke
+PersonX decides to take a nap,nap,nap,dobj,take
+PersonX enters a costume contest,costume_contest,contest,dobj,enter
+PersonX files for bankruptcy,file,file,ROOT,
+PersonX files for bankruptcy,bankruptcy,bankruptcy,pobj,
+PersonX cuts off PersonY's retreat,retreat,retreat,dobj,cut
+PersonX chokes on PersonX's food,food,food,pobj,choke
+PersonX does not have enough money,money,money,dobj,have
+PersonX enters a race,race,race,dobj,enter
+PersonX drops a brick,brick,brick,dobj,drop
+PersonX files for a divorce,divorce,divorce,pobj,file
+PersonX cuts class,class,class,dobj,cut
+PersonX calls the police,police,police,dobj,call
+PersonX does not have a lot of money,money,money,pobj,have
+PersonX drops a bomb,bomb,bomb,dobj,drop
+PersonX enters a raffle,raffle,raffle,dobj,enter
+PersonX cuts red tape,tape,tape,dobj,cut
+PersonX calls the police on PersonY,police,police,dobj,call
+PersonX buys new shoes,shoe,shoe,dobj,buy
+PersonX downloads a new browser,browser,browser,dobj,download
+PersonX files for unemployment,file,file,ROOT,
+PersonX files for unemployment,unemployment,unemployment,pobj,
+PersonX drops PersonY's laptop,laptop,laptop,dobj,drop
+PersonX earns money,money,money,dobj,earn
+PersonX buys souvenirs,souvenir,souvenir,dobj,buy
+PersonX does not have much money,money,money,dobj,have
+PersonX demands money,money,money,dobj,demand
+PersonX files for divorce ___,file,file,ROOT,
+PersonX files for divorce ___,divorce,divorce,pobj,
+PersonX cuts a dash,dash,dash,dobj,cut
+PersonX clicks on the email button,email_button,button,pobj,click
+PersonX buys the computer,computer,computer,dobj,buy
+PersonX downloads the app,app,app,dobj,download
+PersonX drops ___ off at home,home,home,pobj,drop
+PersonX enters into PersonY agreement,agreement,agreement,pobj,enter
+PersonX files taxes,taxis,taxis,dobj,file
+PersonX buys the book,book,book,dobj,buy
+PersonX donates money,money,money,dobj,donate
+PersonX deletes PersonX's account,account,account,dobj,delete
+PersonX files for divorce,file,file,ROOT,
+PersonX files for divorce,divorce,divorce,pobj,
+PersonX enters the classroom,classroom,classroom,dobj,enter
+PersonX cuts the cord,cord,cord,dobj,cut
+PersonX buys new pants,pant,pant,dobj,buy
+PersonX draws ___ from the data,datum,datum,pobj,draw
+PersonX drops hints,hint,hint,dobj,drop
+PersonX enters ___ eating contest,contest,contest,dobj,eat
+PersonX enters upon the duties,duty,duty,pobj,enter
+PersonX cuts swathes,swathe,swathe,dobj,cut
+PersonX buys straw hats in winter,straw_hat,hat,dobj,buy
+PersonX buys straw hats in winter,winter,winter,pobj,buy
+PersonX drags PersonX's feet,foot,foot,dobj,drag
+PersonX drops ___ on the floor,floor,floor,pobj,drop
+PersonX closes the stable door after the horse has bolted,door,door,dobj,close
+PersonX closes the stable door after the horse has bolted,horse,horse,nsubj,bolt
+PersonX files a report,report,report,dobj,file
+PersonX enters the ___ in numbers,number,number,pobj,enter
+PersonX buys supplies,supply,supply,dobj,buy
+PersonX conceals PersonX's feelings,feeling,feeling,dobj,conceal
+PersonX cuts the cake,cake,cake,dobj,cut
+PersonX drops the topic,topic,topic,dobj,drop
+PersonX does the trick,trick,trick,dobj,do
+PersonX enters into PersonY alliance,alliance,alliance,pobj,enter
+PersonX cuts the tree down,tree,tree,dobj,cut
+PersonX finds PersonY opening,opening,opening,dobj,find
+PersonX buys the game,game,game,dobj,buy
+PersonX buys some chips,chip,chip,dobj,buy
+PersonX draws PersonX's ___ upon the treasurer for the payment,treasurer,treasurer,pobj,draw
+PersonX draws PersonX's ___ upon the treasurer for the payment,payment,payment,pobj,draw
+PersonX drops a hint,hint,hint,dobj,drop
+PersonX conceals PersonY's identity,identity,identity,dobj,conceal
+PersonX buys new clothes,clothe,clothe,dobj,buy
+PersonX contacts the seller,seller,seller,dobj,contact
+PersonX drops a log,log,log,dobj,drop
+PersonX drags PersonY's feet,foot,foot,dobj,drag
+PersonX enters the house,house,house,dobj,enter
+PersonX cuts the ribbon,ribbon,ribbon,dobj,cut
+PersonX buys the house,house,house,dobj,buy
+PersonX conceals PersonX's identity,identity,identity,dobj,conceal
+PersonX does n't make the cut,cut,cut,dobj,make
+PersonX enters the king 's ___,king,king,poss,enter
+PersonX drops off the radar,radar,radar,pobj,drop
+PersonX buys the car,car,car,dobj,buy
+PersonX buys the sweater,sweater,sweater,dobj,buy
+PersonX drops anchor,anchor,anchor,dobj,drop
+PersonX drinks from a firehose,firehose,firehose,pobj,drink
+PersonX enters the contest,contest,contest,dobj,enter
+PersonX finally saved up enough money,money,money,dobj,save
+PersonX cuts the grass,grass,grass,dobj,cut
+PersonX buys the boat,boat,boat,dobj,buy
+PersonX drags through the mud,mud,mud,pobj,drag
+PersonX drops a dime,dime,dime,dobj,drop
+PersonX eats PersonY's breakfast,breakfast,breakfast,dobj,eat
+PersonX cuts PersonX's teeth,tooth,tooth,dobj,cut
+PersonX buys the dress,dress,dress,dobj,buy
+PersonX buys the phone,phone,phone,dobj,buy
+PersonX declares bankruptcy,bankruptcy,bankruptcy,dobj,declare
+PersonX drops it on the floor,floor,floor,pobj,drop
+PersonX earns some extra money,money,money,dobj,earn
+PersonX cuts PersonX's hand,hand,hand,dobj,cut
+PersonX buys the shirt,shirt,shirt,dobj,buy
+PersonX enters a contest,contest,contest,dobj,enter
+PersonX decides to buy a lottery ticket,lottery_ticket,ticket,dobj,buy
+PersonX drops my phone,phone,phone,dobj,drop
+PersonX drops ___ in a puddle,puddle,puddle,pobj,drop
+PersonX draws ___ from data,datum,datum,pobj,draw
+PersonX enters upon a career,career,career,pobj,enter
+PersonX buys the jacket,jacket,jacket,dobj,buy
+PersonX buys some supplies,supply,supply,dobj,buy
+PersonX drops PersonX's wallet,wallet,wallet,dobj,drop
+PersonX drops the ball,ball,ball,dobj,drop
+PersonX finds one online,online,online,dobj,find
+PersonX cuts to the chase,chase,chase,pobj,cut
+PersonX escapes PersonX's cage,cage,cage,dobj,escape
+PersonX buys the shoes PersonY wanted,shoe,shoe,dobj,buy
+PersonX dresses to kill,dress,dress,ROOT,
+PersonX costs ___ a lot of money,money,money,pobj,cost
+PersonX drags ___ out of bed,bed,bed,pobj,drag
+PersonX finds an email,email,email,dobj,find
+PersonX buys the new game,game,game,dobj,buy
+PersonX escapes from PersonX's cage,cage,cage,pobj,escape
+PersonX costs PersonY a lot of money,money,money,pobj,cost
+PersonX drops PersonX's cell phone,cell_phone,phone,dobj,drop
+PersonX fights PersonY's battle,battle,battle,dobj,fight
+PersonX decides to buy a dog,dog,dog,dobj,buy
+PersonX buys the ice cream,ice_cream,cream,dobj,buy
+PersonX drops the bag,bag,bag,dobj,drop
+PersonX drops PersonY's bags,bag,bag,dobj,drop
+PersonX eats breakfast,breakfast,breakfast,dobj,eat
+PersonX finds money,money,money,dobj,find
+PersonX cuts the cheese,cheese,cheese,dobj,cut
+PersonX gets PersonX's foot in the door,foot,foot,dobj,get
+PersonX gets PersonX's foot in the door,door,door,pobj,get
+PersonX gets PersonX's test back,test,test,dobj,get
+PersonX gets a balloon,balloon,balloon,dobj,get
+PersonX gets a new bike,bike,bike,dobj,get
+PersonX gets PersonX's dream job,dream_job,job,dobj,get
+PersonX gets PersonY home,home,home,dobj,get
+PersonX gets ___ from the library,library,library,pobj,get
+PersonX gets a band aid,band_aid,aid,dobj,get
+PersonX gets a charge out of ___,charge,charge,dobj,get
+PersonX gets PersonX's first kiss,kiss,kiss,dobj,get
+PersonX gets a beer,beer,beer,dobj,get
+PersonX gets a message,message,message,dobj,get
+PersonX gets PersonY estimate,estimate,estimate,dobj,get
+PersonX gets ___ from the bank,bank,bank,pobj,get
+PersonX gets a bath,bath,bath,dobj,get
+PersonX gets a new boss,boss,boss,dobj,get
+PersonX gets PersonY information,information,information,dobj,get
+PersonX gets PersonX's gun,gun,gun,dobj,get
+PersonX gets a black eye,eye,eye,dobj,get
+PersonX gets a new dress,dress,dress,dobj,get
+PersonX forgets PersonY's list,list,list,dobj,forget
+PersonX gets PersonX's grades,grade,grade,dobj,get
+PersonX gets PersonY in trouble,trouble,trouble,pobj,get
+PersonX gets a break,break,break,dobj,get
+PersonX gets a cat,cat,cat,dobj,get
+PersonX gets ___ in order,order,order,pobj,get
+PersonX gets a burger,burger,burger,dobj,get
+PersonX gets a medal,medal,medal,dobj,get
+PersonX forgets PersonX's keys,key,key,dobj,forget
+PersonX gets PersonX's haircut,haircut,haircut,dobj,get
+PersonX gets PersonY impression,impression,impression,dobj,get
+PersonX gets a better job,job,job,dobj,get
+PersonX gets ___ in the face,face,face,pobj,get
+PersonX gets a new job,job,job,dobj,get
+PersonX forgets PersonX's list,list,list,dobj,forget
+PersonX gets PersonX's ice cream,ice_cream,cream,dobj,get
+PersonX gets PersonY in PersonZ's trademark,trademark,trademark,pobj,get
+PersonX gets ___ for school,school,school,pobj,get
+PersonX gets a call from PersonY,call,call,dobj,get
+PersonX gets a new cat,cat,cat,dobj,get
+PersonX follows a recipe,recipe,recipe,dobj,follow
+PersonX forgets the milk,milk,milk,dobj,forget
+PersonX gets PersonY into trouble,trouble,trouble,pobj,get
+PersonX gets a bike,bike,bike,dobj,get
+PersonX gets PersonY's wallet back,wallet,wallet,dobj,get
+PersonX forgets PersonX's problems,problem,problem,dobj,forget
+PersonX gets a fire going,fire,fire,dobj,get
+PersonX gets PersonX's hands on ___,hand,hand,dobj,get
+PersonX gets PersonY job,job,job,dobj,get
+PersonX gets ___ in trouble,trouble,trouble,pobj,get
+PersonX gets a new cell phone,cell_phone,phone,dobj,get
+PersonX forgets PersonX's homework,homework,homework,dobj,forget
+PersonX gets PersonX's hair done,hair,hair,dobj,get
+PersonX gets PersonX's new car,car,car,dobj,get
+PersonX gets a new pet,pet,pet,dobj,get
+PersonX gets ___ night,night,night,npadvmod,get
+PersonX forgets PersonX's lunch,lunch,lunch,dobj,forget
+PersonX gets PersonX's juices flowing,juice,juice,nsubj,flow
+PersonX gets PersonY money,money,money,dobj,get
+PersonX gets a new kitten,kitten,kitten,dobj,get
+PersonX gets ___ last month,month,month,npadvmod,get
+PersonX gets a bite,bite,bite,dobj,get
+PersonX forgets PersonY's birthday,birthday,birthday,dobj,forget
+PersonX gets PersonX's makeup done,makeup,makeup,dobj,get
+PersonX gets PersonY opportunity,opportunity,opportunity,dobj,get
+PersonX gets a call ___,call,call,dobj,get
+PersonX gets a new pair of shoes,pair,pair,dobj,get
+PersonX gets a new pair of shoes,shoe,shoe,pobj,get
+PersonX gets PersonY thinking,thinking,thinking,dobj,get
+PersonX gets a book,book,book,dobj,get
+PersonX gets ___ last week,week,week,npadvmod,get
+PersonX gets PersonX's hopes up,hope,hope,dobj,get
+PersonX forgets PersonX's phone,phone,phone,dobj,forget
+PersonX gets PersonY view,view,view,dobj,get
+PersonX gets ___ last night,night,night,npadvmod,get
+PersonX gets a call back,call,call,dobj,get
+PersonX gets a pet,pet,pet,dobj,get
+PersonX forgets PersonX's umbrella,umbrella,umbrella,dobj,forget
+PersonX forgets PersonY's wallet,wallet,wallet,dobj,forget
+PersonX gets a new ipad,ipad,ipad,dobj,get
+PersonX gets ___ in the head,head,head,pobj,get
+PersonX gets PersonX's lunch,lunch,lunch,dobj,get
+PersonX gets a call from PersonX's boss,call,call,dobj,get
+PersonX gets a call from PersonX's boss,boss,boss,pobj,get
+PersonX gets a new camera,camera,camera,dobj,get
+PersonX forgets PersonX's sunscreen,sunscreen,sunscreen,dobj,forget
+PersonX gets ___ off the ground,ground,ground,pobj,get
+PersonX gets PersonX's medicine,medicine,medicine,dobj,get
+PersonX gets PersonY picture,picture,picture,dobj,get
+PersonX gets a call for an interview,call,call,dobj,get
+PersonX gets a call for an interview,interview,interview,pobj,get
+PersonX gets a new iphone,iphone,iphone,dobj,get
+PersonX forgets PersonY's umbrella,umbrella,umbrella,dobj,forget
+PersonX gets PersonY order,order,order,dobj,get
+PersonX gets ___ in school,school,school,pobj,get
+PersonX gets a card,card,card,dobj,get
+PersonX forgets PersonY's keys,key,key,dobj,forget
+PersonX gets a date with PersonY,date,date,dobj,get
+PersonX gets a new puppy ___,puppy,puppy,compound,get
+PersonX gets a car,car,car,dobj,get
+PersonX gets a note,note,note,dobj,get
+PersonX forgets PersonY's sunscreen,sunscreen,sunscreen,dobj,forget
+PersonX forgets to set PersonY's alarm,alarm,alarm,dobj,set
+PersonX gets a call from PersonY's boss,call,call,dobj,get
+PersonX gets a call from PersonY's boss,boss,boss,pobj,get
+PersonX gets a new haircut,haircut,haircut,dobj,get
+PersonX forgets PersonY's name,name,name,dobj,forget
+PersonX gets PersonX's picture taken,picture,picture,dobj,get
+PersonX gets PersonX's permit,permit,permit,dobj,get
+PersonX gets ___ in the mail,mail,mail,pobj,get
+PersonX gets a coffee,coffee,coffee,dobj,get
+PersonX gets PersonX's money 's worth,money,money,poss,get
+PersonX gets a checkup,checkup,checkup,dobj,get
+PersonX gets ___ on PersonX's birthday,birthday,birthday,pobj,get
+PersonX gets a full refund,refund,refund,dobj,get
+PersonX gets PersonX's moneys worth,money,money,dobj,get
+PersonX gets ___ on PersonX's face,face,face,pobj,get
+PersonX gets a credit card,credit_card,card,dobj,get
+PersonX gets PersonX's phone,phone,phone,dobj,get
+PersonX gets PersonY understanding,understanding,understanding,dobj,get
+PersonX gets a discount,discount,discount,dobj,get
+PersonX forgets to put on sunscreen,sunscreen,sunscreen,dobj,put
+PersonX forgets the sugar,sugar,sugar,dobj,forget
+PersonX gets PersonY's wallet,wallet,wallet,dobj,get
+PersonX gets a cast,cast,cast,dobj,get
+PersonX gets PersonX's nails done,nail,nail,dobj,get
+PersonX follows the sound,sound,sound,dobj,follow
+PersonX gets a closer look,look,look,dobj,get
+PersonX gets ___ in return,return,return,pobj,get
+PersonX gets a date,date,date,dobj,get
+PersonX gets PersonX's passport,passport,passport,dobj,get
+PersonX gets PersonY's ball,ball,ball,dobj,get
+PersonX gets ___ on PersonX's test,test,test,pobj,get
+PersonX gets a cup of coffee,cup,cup,dobj,get
+PersonX gets a cup of coffee,coffee,coffee,pobj,get
+PersonX gets PersonX's new phone,phone,phone,dobj,get
+PersonX forgets the yeast,yeast,yeast,dobj,forget
+PersonX gets a drink of water,drink,drink,dobj,get
+PersonX gets a drink of water,water,water,pobj,get
+PersonX gets ___ on the paper,paper,paper,pobj,get
+PersonX gets PersonY's autograph,autograph,autograph,dobj,get
+PersonX gets PersonX's marching orders,marching_order,order,dobj,get
+PersonX gets a degree,degree,degree,dobj,get
+PersonX gets PersonX's pilot 's license,pilot,pilot,poss,get
+PersonX gets PersonX's pilot 's license,license,license,dobj,get
+PersonX forgets to do PersonX's homework,homework,homework,dobj,do
+PersonX gets ___ for my birthday,birthday,birthday,pobj,get
+PersonX follows the instructions,instruction,instruction,dobj,follow
+PersonX gets PersonX's fill,fill,fill,dobj,get
+PersonX gets PersonY's credit card,credit_card,card,dobj,get
+PersonX gets a glass,glass,glass,dobj,get
+PersonX gets PersonY's bike,bike,bike,dobj,get
+PersonX gets PersonX's phone back,phone,phone,dobj,get
+PersonX gets a dog instead,dog,dog,dobj,get
+PersonX forgets my wallet,wallet,wallet,dobj,forget
+PersonX gets PersonX's own apartment,apartment,apartment,dobj,get
+PersonX gets ___ out of the garage,garage,garage,pobj,get
+PersonX gets a divorce,divorce,divorce,dobj,get
+PersonX gets PersonX's money back,money,money,dobj,get
+PersonX gets PersonY's ears pierced,ear,ear,dobj,get
+PersonX gets ___ from the fridge,fridge,fridge,pobj,get
+PersonX gets a drink,drink,drink,dobj,get
+PersonX gets PersonX's first job,job,job,dobj,get
+PersonX gets a bad sunburn,sunburn,sunburn,dobj,get
+PersonX gets PersonY's car back,car,car,dobj,get
+PersonX gets PersonY's stuff,stuff,stuff,dobj,get
+PersonX follows PersonY's example,example,example,dobj,follow
+PersonX gets a good look,look,look,dobj,get
+PersonX gets PersonX's shirt out,shirt,shirt,dobj,get
+PersonX gets PersonX's ___ in order,order,order,pobj,get
+PersonX gets PersonY's ticket,ticket,ticket,dobj,get
+PersonX follows ___ through society,society,society,pobj,follow
+PersonX gets a fix,fix,fix,dobj,get
+PersonX gets PersonX's ___ in the door,door,door,pobj,get
+PersonX gets PersonX's skates on,skate,skate,dobj,get
+PersonX gets PersonY's tickets,ticket,ticket,dobj,get
+PersonX gets PersonY's car fixed,car,car,nsubj,fix
+PersonX gets ___ out of the tree,tree,tree,pobj,get
+PersonX gets PersonX's shine box,shine_box,box,dobj,get
+PersonX gets PersonY's dog,dog,dog,dobj,get
+PersonX gets PersonY interview,interview,interview,dobj,get
+PersonX gets ___ on the test,test,test,pobj,get
+PersonX gets a glass of water,glass,glass,dobj,get
+PersonX gets a glass of water,water,water,pobj,get
+PersonX gets PersonY's towel,towel,towel,dobj,get
+PersonX gets ___ for easter,easter,easter,pobj,get
+PersonX gets a good grade,grade,grade,dobj,get
+PersonX finds a pay phone,pay_phone,phone,dobj,find
+PersonX gets ___ as a gift,gift,gift,pobj,get
+PersonX gets PersonX's belly button pierced,belly_button,button,dobj,get
+PersonX gets a dog,dog,dog,dobj,get
+PersonX gets PersonX's paycheck,paycheck,paycheck,dobj,get
+PersonX gets a gift,gift,gift,dobj,get
+PersonX gets ___ that night,night,night,npadvmod,get
+PersonX gets PersonX's money 's ___,money,money,poss,get
+PersonX gets PersonY's food,food,food,dobj,get
+PersonX gets ___ at school,school,school,pobj,get
+PersonX gets ___ that evening,evening,evening,npadvmod,get
+PersonX gets a hold of PersonY,hold,hold,dobj,get
+PersonX forgets PersonX's money,money,money,dobj,forget
+PersonX gets a hot dog,dog,dog,dobj,get
+PersonX gets PersonX's ___ under control,control,control,pobj,get
+PersonX gets a grip,grip,grip,dobj,get
+PersonX gets PersonY's phone number,phone_number,number,dobj,get
+PersonX gets PersonY's hands,hand,hand,dobj,get
+PersonX follows in PersonY's wake,wake,wake,pobj,follow
+PersonX forgives ___ PersonY's trespasses,trespass,trespass,dobj,forgive
+PersonX gets PersonY's ice cream,ice_cream,cream,dobj,get
+PersonX gets PersonX's wallet back,wallet,wallet,dobj,get
+PersonX gets a great job,job,job,dobj,get
+PersonX follows in detail the ___,detail,detail,pobj,follow
+PersonX gets ___ after school,school,school,pobj,get
+PersonX gets PersonX's car,car,car,dobj,get
+PersonX gets ___ that year,year,year,npadvmod,get
+PersonX gets a handle on ___,handle,handle,dobj,get
+PersonX gets PersonX's towel,towel,towel,dobj,get
+PersonX gets PersonX's ticket,ticket,ticket,dobj,get
+PersonX gets PersonX's act together,act,act,dobj,get
+PersonX gets ___ at night,night,night,pobj,get
+PersonX gets a good job,job,job,dobj,get
+PersonX gets PersonX's test,test,test,dobj,get
+PersonX follows the doctor 's ___,doctor,doctor,poss,follow
+PersonX gets a hotel room,hotel_room,room,dobj,get
+PersonX gets PersonX's bearings,bearing,bearing,dobj,get
+PersonX gets PersonY's keys,key,key,dobj,get
+PersonX gets PersonY's tree,tree,tree,dobj,get
+PersonX gets PersonX's wish,wish,wish,dobj,get
+PersonX follows in PersonY's footsteps,footstep,footstep,pobj,follow
+PersonX gets a job offer,job_offer,offer,dobj,get
+PersonX gets PersonY a dog,dog,dog,dobj,get
+PersonX gets PersonY's license,license,license,dobj,get
+PersonX gets ___ at the store,store,store,pobj,get
+PersonX gets a hole,hole,hole,dobj,get
+PersonX follows the recipe exactly,recipe,recipe,dobj,follow
+PersonX follows the doctor 's advice,doctor,doctor,poss,follow
+PersonX follows the doctor 's advice,advice,advice,dobj,follow
+PersonX gets PersonX's shorts in a knot,short,short,dobj,get
+PersonX gets PersonX's shorts in a knot,knot,knot,pobj,get
+PersonX gets PersonY's mail,mail,mail,dobj,get
+PersonX gets a good spot,spot,spot,dobj,get
+PersonX gets PersonX's wisdom teeth removed,wisdom_tooth,tooth,dobj,get
+PersonX gets PersonX's check,check,check,dobj,get
+PersonX gets PersonY's hair cut,hair,hair,nsubj,cut
+PersonX gets ___ to college,college,college,pobj,get
+PersonX gets ___ as a pet,pet,pet,pobj,get
+PersonX gets a kitten,kitten,kitten,dobj,get
+PersonX follows suit,suit,suit,dobj,follow
+PersonX gets PersonX's blood drawn,blood,blood,dobj,get
+PersonX gets PersonY's letter,letter,letter,dobj,get
+PersonX gets PersonY's books,book,book,dobj,get
+PersonX follows the directions,direction,direction,dobj,follow
+PersonX gets a letter,letter,letter,dobj,get
+PersonX gets PersonX's books,book,book,dobj,get
+PersonX gets PersonY a puppy,puppy,puppy,dobj,get
+PersonX follows PersonY example,example,example,dobj,follow
+PersonX gets a hit,hit,hit,dobj,get
+PersonX gets PersonX's degree,degree,degree,dobj,get
+PersonX gets PersonY abortion,abortion,abortion,dobj,get
+PersonX gets ___ this year,year,year,npadvmod,get
+PersonX gets PersonY's driver 's license,driver,driver,poss,get
+PersonX gets PersonY's driver 's license,license,license,dobj,get
+PersonX gets a great deal,deal,deal,dobj,get
+PersonX follows the recipe,recipe,recipe,dobj,follow
+PersonX gets PersonX's claws out,claws,claws,dobj,get
+PersonX gets PersonX's freak on,freak,freak,dobj,get
+PersonX gets ___ as a result,result,result,pobj,get
+PersonX gets ___ on PersonX's phone,phone,phone,pobj,get
+PersonX gets PersonY's money,money,money,dobj,get
+PersonX follows the manufacturer 's ___,manufacturer,manufacturer,poss,follow
+PersonX gets a haircut,haircut,haircut,dobj,get
+PersonX gets PersonX's car fixed,car,car,dobj,get
+PersonX gets PersonY bearings,bearing,bearing,dobj,get
+PersonX gets ___ the night,night,night,npadvmod,get
+PersonX gets a leg up,leg,leg,dobj,get
+PersonX gets ___ at work,work,work,pobj,get
+PersonX gets a loan,loan,loan,dobj,get
+PersonX gets PersonX's computer repaired,computer,computer,dobj,get
+PersonX gets PersonY a gift,gift,gift,dobj,get
+PersonX gets PersonY's name,name,name,dobj,get
+PersonX gets ___ for PersonY's birthday,birthday,birthday,pobj,get
+PersonX gets a hole in one,hole,hole,dobj,get
+PersonX gets PersonY appointment,appointment,appointment,dobj,get
+PersonX gets PersonY's money 's ___,money,money,poss,get
+PersonX gets a kick out of ___,kick,kick,dobj,get
+PersonX gets PersonX's bike,bike,bike,dobj,get
+PersonX gets PersonX's feet wet,foot,foot,dobj,get
+PersonX gets PersonX's feet wet,wet,wet,ccomp,get
+PersonX forges PersonY alliance,alliance,alliance,dobj,forge
+PersonX gets PersonY answer,answer,answer,dobj,get
+PersonX gets PersonY's new car,car,car,dobj,get
+PersonX forces PersonY entrance,entrance,entrance,dobj,force
+PersonX gets a bloody nose,nose,nose,dobj,get
+PersonX gets PersonX's hearing checked,hearing,hearing,dobj,get
+PersonX gets PersonY hands on,hand,hand,dobj,get
+PersonX gets PersonY's phone back,phone,phone,dobj,get
+PersonX gets a job,job,job,dobj,get
+PersonX gets PersonY a great gift,gift,gift,dobj,get
+PersonX gets PersonX's diploma,diploma,diploma,dobj,get
+PersonX gets PersonY's order,order,order,dobj,get
+PersonX gets ___ for an interview,interview,interview,pobj,get
+PersonX gets ___ off PersonX's chest,chest,chest,pobj,get
+PersonX forces PersonY's eyes,eye,eye,dobj,force
+PersonX gets a lot of compliments,compliment,compliment,pobj,get
+PersonX gets PersonX's car repaired,car,car,dobj,get
+PersonX gets PersonY's money back,money,money,dobj,get
+PersonX gets ___ from PersonX's boss,boss,boss,pobj,get
+PersonX gets a ladder,ladder,ladder,dobj,get
+PersonX gets ___ yesterday,yesterday,yesterday,npadvmod,get
+PersonX follows PersonY's home,home,home,dobj,follow
+PersonX gets PersonX's exam back,exam,exam,dobj,get
+PersonX gets ___ for lunch,lunch,lunch,pobj,get
+PersonX gets PersonY's phone,phone,phone,dobj,get
+PersonX follows PersonY course,course,course,dobj,follow
+PersonX gets a letter in the mail,letter,letter,dobj,get
+PersonX gets a letter in the mail,mail,mail,pobj,get
+PersonX forces PersonY's hand,force,force,ROOT,
+PersonX forces PersonY's hand,hand,hand,appos,
+PersonX gets ___ today,today,today,npadvmod,get
+PersonX gets a lot of money,money,money,pobj,get
+PersonX follows PersonY home,home,home,dobj,follow
+PersonX follows PersonY's instructions,instruction,instruction,dobj,follow
+PersonX gets PersonX's first haircut,haircut,haircut,dobj,get
+PersonX gets PersonY's number,number,number,dobj,get
+PersonX gets PersonX's first car,car,car,dobj,get
+PersonX gets a lot of candy,candy,candy,pobj,get
+PersonX forgets PersonX's lines,line,line,dobj,forget
+PersonX follows PersonY's course,course,course,dobj,follow
+PersonX gets PersonY a job,job,job,dobj,get
+PersonX forgets to set PersonX's alarm,alarm,alarm,dobj,set
+PersonX gets ___ under control,control,control,pobj,get
+PersonX follows PersonY's advice,advice,advice,dobj,follow
+PersonX gets a call,call,call,dobj,get
+PersonX follows PersonY to the door,door,door,pobj,follow
+PersonX gets PersonY's picture taken,picture,picture,dobj,get
+PersonX gets PersonX's dog,dog,dog,dobj,get
+PersonX gets ___ from school,school,school,pobj,get
+PersonX forgets ___ at home,home,home,pobj,forget
+PersonX gets a manicure,manicure,manicure,dobj,get
+PersonX follows PersonY's gaze,gaze,gaze,dobj,follow
+PersonX finds a gun,gun,gun,dobj,find
+PersonX gets PersonX's grades up,grade,grade,dobj,get
+PersonX gets ___ from the store,store,store,pobj,get
+PersonX gets PersonX's hands dirty,hand,hand,dobj,get
+PersonX follows PersonY into the room,room,room,pobj,follow
+PersonX gets a massage,massage,massage,dobj,get
+PersonX gets a bad grade,grade,grade,dobj,get
+PersonX gets PersonX's grade,grade,grade,dobj,get
+PersonX gets PersonY sleep,sleep,sleep,dobj,get
+PersonX gets ___ from the vending machine,machine,machine,pobj,get
+PersonX gets a good deal,deal,deal,dobj,get
+PersonX follows PersonY's lead,lead,lead,dobj,follow
+PersonX gets PersonX's eyes checked,eye,eye,dobj,get
+PersonX gets PersonY education,education,education,dobj,get
+PersonX gets PersonY's share,share,share,dobj,get
+PersonX gets ___ from work,work,work,pobj,get
+PersonX gets a better look,look,look,dobj,get
+PersonX gets a basket,basket,basket,dobj,get
+PersonX forces upon PersonY,force,force,ROOT,
+PersonX gets new pants,pant,pant,dobj,get
+PersonX gets great grades in school,grade,grade,dobj,get
+PersonX gets great grades in school,school,school,pobj,get
+PersonX gets a surprise,surprise,surprise,dobj,get
+PersonX gets the mail,mail,mail,dobj,get
+PersonX gets sicker,sicker,sicker,dobj,get
+PersonX gets some exercise,exercise,exercise,dobj,get
+PersonX gets the milk,milk,milk,dobj,get
+PersonX gets on the stick,stick,stick,pobj,get
+PersonX gets a warning,warning,warning,dobj,get
+PersonX gets the last laugh,laugh,laugh,dobj,get
+PersonX gets in better shape,shape,shape,pobj,get
+PersonX gets all the supplies,supply,supply,dobj,get
+PersonX gets some bad news,news,news,dobj,get
+PersonX gets the message across,message,message,dobj,get
+PersonX gets free food,food,food,dobj,get
+PersonX gets a wiggle on,wiggle,wiggle,dobj,get
+PersonX gets the promotion,promotion,promotion,dobj,get
+PersonX gets great grades,grade,grade,dobj,get
+PersonX gets a new car,car,car,dobj,get
+PersonX gets some pizza,pizza,pizza,dobj,get
+PersonX gets tacos,taco,taco,punct,get
+PersonX gets on PersonY's nerves,nerve,nerve,pobj,get
+PersonX gets the newspaper,newspaper,newspaper,dobj,get
+PersonX gets candy,candy,candy,dobj,get
+PersonX gets chinese food,food,food,dobj,get
+PersonX gets pizza,pizza,pizza,dobj,get
+PersonX gets shots,shot,shot,dobj,get
+PersonX gets all the ingredients together,ingredient,ingredient,dobj,get
+PersonX gets some fresh air,air,air,dobj,get
+PersonX gets the puppy,puppy,puppy,dobj,get
+PersonX gets a soda from the vending machine,soda,soda,dobj,get
+PersonX gets a soda from the vending machine,machine,machine,pobj,get
+PersonX gets the role,role,role,dobj,get
+PersonX gets some ice cream,ice_cream,cream,dobj,get
+PersonX gets my stuff together,stuff,stuff,dobj,get
+PersonX gets the shot,shot,shot,dobj,get
+PersonX gets calls,call,call,dobj,get
+PersonX gets the pizza,pizza,pizza,dobj,get
+PersonX gets flowers,flower,flower,dobj,get
+PersonX gets money back,money,money,dobj,get
+PersonX gets a parking ticket,parking_ticket,ticket,dobj,get
+PersonX gets some money,money,money,dobj,get
+PersonX gets good grades,grade,grade,dobj,get
+PersonX gets a treat,treat,treat,dobj,get
+PersonX gets the results,result,result,dobj,get
+PersonX gets all the ingredients,ingredient,ingredient,dobj,get
+PersonX gets the stain,stain,stain,dobj,get
+PersonX gets groceries,grocery,grocery,dobj,get
+PersonX gets cash,cash,cash,dobj,get
+PersonX gets all of the ingredients,ingredient,ingredient,pobj,get
+PersonX gets the letter,letter,letter,dobj,get
+PersonX gets some help,help,help,dobj,get
+PersonX gets out of dodge,dodge,dodge,pobj,get
+PersonX gets glasses,glass,glass,dobj,get
+PersonX gets the ring,ring,ring,dobj,get
+PersonX gets some new shoes,shoe,shoe,dobj,get
+PersonX gets another job,job,job,dobj,get
+PersonX gets great seats,seat,seat,dobj,get
+PersonX gets the shoes,shoe,shoe,dobj,get
+PersonX gets paint,paint,paint,dobj,get
+PersonX gets some work done,work,work,dobj,get
+PersonX gets a rash,rash,rash,dobj,get
+PersonX gets some food,food,food,dobj,get
+PersonX gets ready for a date,date,date,pobj,get
+PersonX gets all wet,wet,wet,dobj,get
+PersonX gets dinner,dinner,dinner,dobj,get
+PersonX gets some water,water,water,dobj,get
+PersonX gets no response,response,response,dobj,get
+PersonX gets a tutor,tutor,tutor,dobj,get
+PersonX gets through PersonX's head,head,head,pobj,get
+PersonX gets change,change,change,dobj,get
+PersonX gets out while the gettings good,getting,getting,nsubj,get
+PersonX gets out of bed on the wrong side,bed,bed,pobj,get
+PersonX gets out of bed on the wrong side,side,side,pobj,get
+PersonX gets hit in the face,face,face,pobj,hit
+PersonX gets much sleep,sleep,sleep,dobj,get
+PersonX gets help,help,help,dobj,get
+PersonX gets a ride,ride,ride,dobj,get
+PersonX gets this ___ on the road,road,road,pobj,get
+PersonX gets plastic surgery,surgery,surgery,dobj,get
+PersonX gets some fast food,food,food,dobj,get
+PersonX gets ready for work,work,work,pobj,get
+PersonX gets a promotion,promotion,promotion,dobj,get
+PersonX gets some sleep,sleep,sleep,dobj,get
+PersonX gets headaches,headache,headache,dobj,get
+PersonX gets this show on the road,show,show,dobj,get
+PersonX gets this show on the road,road,road,pobj,get
+PersonX gets along with others,other,other,pobj,get
+PersonX gets ready for school,school,school,pobj,get
+PersonX gets hit by a car,car,car,pobj,hit
+PersonX gets stitches,stitch,stitch,dobj,get
+PersonX gets extra help,help,help,dobj,get
+PersonX gets an apartment,apartment,apartment,dobj,get
+PersonX gets ready for bed,bed,bed,pobj,get
+PersonX gets an award,award,award,dobj,get
+PersonX gets hit in the head,head,head,pobj,hit
+PersonX gets supplies,supply,supply,dobj,get
+PersonX gets contact lenses,contact_lens,lens,dobj,get
+PersonX gets another flight,flight,flight,dobj,get
+PersonX gets ready in the morning,morning,morning,pobj,get
+PersonX gets hold of PersonY,hold,hold,dobj,get
+PersonX gets an invitation,invitation,invitation,dobj,get
+PersonX gets an interview,interview,interview,dobj,get
+PersonX gets home,home,home,dobj,get
+PersonX gets back to work,work,work,pobj,get
+PersonX gets an a on PersonX's test,test,test,pobj,get
+PersonX gets straight 's,straight,straight,advmod,get
+PersonX gets cold feet,foot,foot,dobj,get
+PersonX gets home late from work,work,work,pobj,get
+PersonX gets coffee,coffee,coffee,dobj,get
+PersonX gets an infection,infection,infection,dobj,get
+PersonX gets new shoes,shoe,shoe,dobj,get
+PersonX gets away with murder,murder,murder,pobj,get
+PersonX gets an ipad,ipad,ipad,dobj,get
+PersonX gets compliments,compliment,compliment,dobj,get
+PersonX gets an a on the test,test,test,pobj,get
+PersonX gets done today,today,today,npadvmod,do
+PersonX gets a scholarship,scholarship,scholarship,dobj,get
+PersonX gets ready to go to work,work,work,pobj,go
+PersonX gets counseling,counseling,counseling,dobj,get
+PersonX gets surgery,surgery,surgery,dobj,get
+PersonX gets detention,detention,detention,dobj,get
+PersonX gets a pedicure,pedicure,pedicure,dobj,get
+PersonX gets home that night,night,night,npadvmod,get
+PersonX gets the ball rolling,ball,ball,nsubj,roll
+PersonX gets a new video game,video_game,game,dobj,get
+PersonX gets into the wrong hands,hand,hand,pobj,get
+PersonX gets the book,book,book,dobj,get
+PersonX gets lots of candy,candy,candy,pobj,get
+PersonX gets autographs,autograph,autograph,dobj,get
+PersonX gets in PersonY's car,car,car,pobj,get
+PersonX gets the boot,boot,boot,dobj,get
+PersonX gets down to business,business,business,pobj,get
+PersonX gets a good night 's ___,night,night,poss,get
+PersonX gets the ___ into PersonX's hands,hand,hand,pobj,get
+PersonX gets lost in the woods,wood,wood,pobj,lose
+PersonX gets a perfect score,score,score,dobj,get
+PersonX gets into a car accident,car_accident,accident,pobj,get
+PersonX gets antsy,antsy,antsy,dobj,get
+PersonX gets lunch,lunch,lunch,dobj,get
+PersonX gets a real job,job,job,dobj,get
+PersonX gets in on the act,act,act,pobj,get
+PersonX gets a taxi,taxi,taxi,dobj,get
+PersonX gets ice cream,ice_cream,cream,dobj,get
+PersonX gets revenge,revenge,revenge,dobj,get
+PersonX gets bent out of shape,shape,shape,pobj,get
+PersonX gets many compliments,compliment,compliment,dobj,get
+PersonX gets a phone call,phone_call,call,dobj,get
+PersonX gets money,money,money,dobj,get
+PersonX gets a promotion at work,promotion,promotion,dobj,get
+PersonX gets a promotion at work,work,work,pobj,get
+PersonX gets an oil change,oil_change,change,dobj,get
+PersonX gets more money,money,money,dobj,get
+PersonX gets a picture,picture,picture,dobj,get
+PersonX gets into PersonY's pants,pant,pant,pobj,get
+PersonX gets medicine,medicine,medicine,dobj,get
+PersonX gets the ball back,ball,ball,dobj,get
+PersonX gets down on one knee,knee,knee,pobj,get
+PersonX gets a raise,raise,raise,dobj,get
+PersonX gets home safely,home,home,dobj,get
+PersonX gets suspended from school,school,school,pobj,suspend
+PersonX gets messy,messy,messy,acomp,get
+PersonX gets a soda,soda,soda,dobj,get
+PersonX gets back to school,school,school,pobj,get
+PersonX gets into PersonY's car,car,car,pobj,get
+PersonX gets a puppy,puppy,puppy,dobj,get
+PersonX gets home from school,school,school,pobj,get
+PersonX gets the ball,ball,ball,dobj,get
+PersonX gets medical help,help,help,dobj,get
+PersonX gets a refund,refund,refund,dobj,get
+PersonX gets bad news,news,news,dobj,get
+PersonX gets a ride home,ride_home,home,dobj,get
+PersonX gets the flu,flu,flu,dobj,get
+PersonX gets married today,today,today,npadvmod,get
+PersonX gets back in the car,car,car,pobj,get
+PersonX gets sand,sand,sand,dobj,get
+PersonX gets the call,call,call,dobj,get
+PersonX gets braces,brace,brace,dobj,get
+PersonX gets home from work,home,home,advmod,get
+PersonX gets home from work,work,work,pobj,get
+PersonX gets married a year later,year,year,npadvmod,get
+PersonX gets a replacement,replacement,replacement,dobj,get
+PersonX gets back on the horse that bucked you,horse,horse,pobj,get
+PersonX gets enough sleep,sleep,sleep,dobj,get
+PersonX gets in touch with PersonY,touch,touch,pobj,get
+PersonX gets my money,money,money,dobj,get
+PersonX gets a text,text,text,dobj,get
+PersonX gets a reply,reply,reply,dobj,get
+PersonX gets dressed for work,work,work,pobj,get
+PersonX gets the drift,drift,drift,dobj,get
+PersonX gets a shot,shot,shot,dobj,get
+PersonX gets the cat,cat,cat,dobj,get
+PersonX gets into PersonX's stride,stride,stride,pobj,get
+PersonX gets a second job,job,job,dobj,get
+PersonX gets ready for class,class,class,pobj,get
+PersonX gets my money back,money,money,dobj,get
+PersonX gets a scholarship to college,scholarship,scholarship,dobj,get
+PersonX gets a scholarship to college,college,college,pobj,get
+PersonX gets back to the hotel,hotel,hotel,pobj,get
+PersonX gets my hair cut,hair,hair,dobj,get
+PersonX gets a restraining order,restraining_order,order,dobj,get
+PersonX gets lots of compliments,compliment,compliment,pobj,get
+PersonX gets a terrible grade,grade,grade,dobj,get
+PersonX gets back on track,track,track,pobj,get
+PersonX gets the hang of it,hang,hang,dobj,get
+PersonX gets a second opinion,opinion,opinion,dobj,get
+PersonX gets bad grades,grade,grade,dobj,get
+PersonX gets the job,job,job,dobj,get
+PersonX gets mail,mail,mail,dobj,get
+PersonX gets a small loan,loan,loan,dobj,get
+PersonX gets behind the wheel,wheel,wheel,pobj,get
+PersonX gets the dog,dog,dog,dobj,get
+PersonX gets a strike,strike,strike,dobj,get
+PersonX gets off PersonX's high horse,horse,horse,dobj,get
+PersonX gets beer,beer,beer,dobj,get
+PersonX gets the gold medal,gold_medal,medal,dobj,get
+PersonX gets new glasses,glass,glass,dobj,get
+PersonX gets a snack,snack,snack,dobj,get
+PersonX gets an email,email,email,dobj,get
+PersonX gets my license,license,license,dobj,get
+PersonX gets a standing ovation,standing,standing,amod,get
+PersonX gets a standing ovation,ovation,ovation,dobj,get
+PersonX gets several compliments,compliment,compliment,dobj,get
+PersonX gets the car,car,car,dobj,get
+PersonX gets fired from PersonX's job,job,job,pobj,fire
+PersonX gets milk,milk,milk,dobj,get
+PersonX gets a stain,stain,stain,dobj,get
+PersonX gets home late,home,home,dobj,get
+PersonX gets a speeding ticket,ticket,ticket,dobj,get
+PersonX gets the dirty water off PersonX's chest,water,water,dobj,get
+PersonX gets the dirty water off PersonX's chest,chest,chest,pobj,get
+PersonX gets home ___,home,home,advmod,get
+PersonX gets a summer job,summer_job,job,dobj,get
+PersonX gets the goods on ___,good,good,dobj,get
+PersonX gets a new phone,phone,phone,dobj,get
+PersonX gets gas,gas,gas,dobj,get
+PersonX gets lessons,lesson,lesson,dobj,get
+PersonX gets a team together,team,team,dobj,get
+PersonX gets a notice,notice,notice,dobj,get
+PersonX gets the ice cream,ice_cream,cream,dobj,get
+PersonX gets fast food,food,food,dobj,get
+PersonX gets new tires,tire,tire,dobj,get
+PersonX gets a shock,shock,shock,dobj,get
+PersonX gets the job done,job,job,dobj,get
+PersonX gets sick to PersonX's stomach,stomach,stomach,pobj,get
+PersonX gets food,food,food,dobj,get
+PersonX gets a payday loan,payday_loan,loan,dobj,get
+PersonX gets an autograph,autograph,autograph,dobj,get
+PersonX gets snacks,snack,snack,dobj,get
+PersonX gets a table,table,table,dobj,get
+PersonX gets a new watch,watch,watch,dobj,get
+PersonX gets a ticket,ticket,ticket,dobj,get
+PersonX gets soaking wet,wet,wet,dobj,soak
+PersonX gets a sunburn,sunburn,sunburn,dobj,get
+PersonX gets a flat tire,tire,tire,dobj,get
+PersonX gets food poisoning,food_poisoning,poisoning,dobj,get
+PersonX gets some candy,candy,candy,dobj,get
+PersonX gets on PersonX's feet,foot,foot,pobj,get
+PersonX gets a phone,phone,phone,dobj,get
+PersonX gets a new dog,dog,dog,dobj,get
+PersonX gets better grades,grade,grade,dobj,get
+PersonX gets some coffee,coffee,coffee,dobj,get
+PersonX gets the ingredients,ingredient,ingredient,dobj,get
+PersonX gets a part time job,time_job,job,dobj,get
+PersonX gets a tan,tan,tan,dobj,get
+PersonX gets blood out of a stone,blood,blood,dobj,get
+PersonX gets blood out of a stone,stone,stone,pobj,get
+PersonX gets out of PersonY's car,car,car,pobj,get
+PersonX gets a new computer,computer,computer,dobj,get
+PersonX gets blood from a stone,blood,blood,dobj,get
+PersonX gets blood from a stone,stone,stone,pobj,get
+PersonX gets some air,air,air,dobj,get
+PersonX gets the money,money,money,dobj,get
+PersonX gets a tetanus shot,tetanus_shot,shot,dobj,get
+PersonX gives PersonY gifts,gift,gift,dobj,give
+PersonX gives PersonY a stare,stare,stare,dobj,give
+PersonX gives PersonY a kick,kick,kick,dobj,give
+PersonX gives PersonY some advice,advice,advice,dobj,give
+PersonX gives PersonY the letter,letter,letter,dobj,give
+PersonX gives PersonX's name,name,name,dobj,give
+PersonX gives PersonY a lesson,lesson,lesson,dobj,give
+PersonX gives PersonY encouragement,encouragement,encouragement,dobj,give
+PersonX gives PersonY relief,relief,relief,dobj,give
+PersonX gives PersonY's candy,candy,candy,dobj,give
+PersonX gives PersonX's head a shake,head,head,dative,give
+PersonX gives PersonX's head a shake,shake,shake,dobj,give
+PersonX gives PersonY a hint,hint,hint,dobj,give
+PersonX gives PersonY aid,aid,aid,dobj,give
+PersonX gives PersonY direction,direction,direction,dobj,give
+PersonX gives PersonY some medicine,medicine,medicine,dobj,give
+PersonX gives PersonY the old heave-ho,heave,heave,compound,give
+PersonX gives PersonY a hug,hug,hug,dobj,give
+PersonX gives PersonY detention,detention,detention,dobj,give
+PersonX gives PersonX's medicine,medicine,medicine,dobj,give
+PersonX gives PersonY air,air,air,dobj,give
+PersonX gives PersonY's baby ___,baby,baby,dative,give
+PersonX gives PersonY an allowance,allowance,allowance,dobj,give
+PersonX gives PersonY an interview,interview,interview,dobj,give
+PersonX gives PersonY some tips,tip,tip,dobj,give
+PersonX gives PersonY trouble,trouble,trouble,dobj,give
+PersonX gives PersonY a book,book,book,dobj,give
+PersonX gets to the bottom of ___,bottom,bottom,pobj,get
+PersonX gives PersonY a treat,treat,treat,dobj,give
+PersonX gives PersonY a shock,shock,shock,dobj,give
+PersonX gives PersonY some information,information,information,dobj,give
+PersonX gives PersonY thanks,thank,thank,dobj,give
+PersonX gives PersonY access,access,access,dobj,give
+PersonX gives PersonY a glance,glance,glance,dobj,give
+PersonX gives PersonY sign,sign,sign,dobj,give
+PersonX gives PersonY the information,information,information,dobj,give
+PersonX gives PersonX's reasons,reason,reason,dobj,give
+PersonX gives PersonY a bonus,bonus,bonus,dobj,give
+PersonX gives PersonY food,food,food,dobj,give
+PersonX gives PersonY analysis,analysis,analysis,dobj,give
+PersonX gives PersonY some pills,pill,pill,dobj,give
+PersonX gives PersonY's baby,baby,baby,dobj,give
+PersonX gives PersonY a huge hug,hug,hug,dobj,give
+PersonX gives PersonY a right,right,right,dobj,give
+PersonX gives PersonY experience,experience,experience,dobj,give
+PersonX gives PersonY the ability,ability,ability,dobj,give
+PersonX gives PersonY a message,message,message,dobj,give
+PersonX gives PersonY an ultimatum,ultimatum,ultimatum,dobj,give
+PersonX gives PersonY plenty,plenty,plenty,dobj,give
+PersonX gives PersonY comfort,comfort,comfort,dobj,give
+PersonX gives PersonY a job,job,job,dobj,give
+PersonX gives PersonX's position,position,position,dobj,give
+PersonX gives PersonY excuse,excuse,excuse,dobj,give
+PersonX gives PersonY's advice,advice,advice,dobj,give
+PersonX gives PersonY a note,note,note,dobj,give
+PersonX gives PersonY evidence,evidence,evidence,dobj,give
+PersonX gives PersonY my number,number,number,dobj,give
+PersonX gives PersonY's dog ___,dog,dog,dative,give
+PersonX gives PersonY a minute,minute,minute,dobj,give
+PersonX gives PersonY a shake,shake,shake,dobj,give
+PersonX gives PersonY static,static,static,dobj,give
+PersonX gives PersonY assistance,assistance,assistance,dobj,give
+PersonX gives PersonY answers,answer,answer,dobj,give
+PersonX gives PersonY a account,account,account,dobj,give
+PersonX gives PersonY look,look,look,dobj,give
+PersonX gives PersonX's money,money,money,dobj,give
+PersonX gives PersonY a home,home,home,dobj,give
+PersonX gives PersonY example,example,example,dobj,give
+PersonX gives PersonY assurance,assurance,assurance,dobj,give
+PersonX gives PersonY strength,strength,strength,dobj,give
+PersonX gives PersonY's dog,dog,dog,dobj,give
+PersonX gives PersonX's presentation,presentation,presentation,dobj,give
+PersonX gives PersonY a knowledge,knowledge,knowledge,dobj,give
+PersonX gives PersonY flowers,flower,flower,dobj,give
+PersonX gives PersonY security,security,security,dobj,give
+PersonX gives PersonY a funny look,look,look,dobj,give
+PersonX gives PersonY a reward,reward,reward,dobj,give
+PersonX gives PersonY directions,direction,direction,dobj,give
+PersonX gives PersonY the appearance,appearance,appearance,dobj,give
+PersonX gives PersonY's hand ___,hand,hand,compound,give
+PersonX gives PersonX's opinions,opinion,opinion,dobj,give
+PersonX gives PersonY guidance,guidance,guidance,dobj,give
+PersonX gives PersonY a nod,nod,nod,dobj,give
+PersonX gives PersonY space,space,space,dobj,give
+PersonX gives PersonY a look,look,look,dobj,give
+PersonX gives PersonY description,description,description,dobj,give
+PersonX gives PersonY's history,history,history,dobj,give
+PersonX gives PersonY a kiss,kiss,kiss,dobj,give
+PersonX gives PersonY help,help,help,dobj,give
+PersonX gives PersonY appearance,appearance,appearance,dobj,give
+PersonX gives PersonY the strength,strength,strength,dobj,give
+PersonX gives PersonX's tickets,ticket,ticket,dobj,give
+PersonX gives PersonY his head,head,head,dobj,give
+PersonX gives PersonY a trial,trial,trial,dobj,give
+PersonX gives PersonY a lift,lift,lift,dobj,give
+PersonX gives PersonY the chair,chair,chair,dobj,give
+PersonX gives PersonY a lecture,lecture,lecture,dobj,give
+PersonX gives PersonX's testimony,testimony,testimony,dobj,give
+PersonX gives PersonY support,support,support,dobj,give
+PersonX gives PersonY hopes,hope,hope,dobj,give
+PersonX gives PersonX's views,view,view,dobj,give
+PersonX gives PersonY a sign,sign,sign,dobj,give
+PersonX gives PersonY inch,inch,inch,dobj,give
+PersonX gives PersonY names,name,name,dobj,give
+PersonX gives PersonY a name,name,name,dobj,give
+PersonX gives PersonY a tour,tour,tour,dobj,give
+PersonX gives PersonY the eye,eye,eye,dobj,give
+PersonX gives PersonY estimate,estimate,estimate,dobj,give
+PersonX gives PersonY impression,impression,impression,dobj,give
+PersonX gives PersonY birth,birth,birth,dobj,give
+PersonX gives PersonY PersonZ's name,name,name,dobj,give
+PersonX gives PersonY a number,number,number,dobj,give
+PersonX gives PersonY authority,authority,authority,dobj,give
+PersonX gives PersonY's flowers,flower,flower,dobj,give
+PersonX gives PersonY a pat,pat,pat,dobj,give
+PersonX gives PersonY battle,battle,battle,dobj,give
+PersonX gives PersonY the command,command,command,dobj,give
+PersonX gives PersonY a picture,picture,picture,dobj,give
+PersonX gives PersonY PersonZ's opinion,opinion,opinion,dobj,give
+PersonX gives PersonY instruction,instruction,instruction,dobj,give
+PersonX gives PersonY a view,view,view,dobj,give
+PersonX gives PersonY the benefit,benefit,benefit,dobj,give
+PersonX gives PersonX's word,word,word,dobj,give
+PersonX gives PersonY a puppy,puppy,puppy,dobj,give
+PersonX gives PersonY bread,bread,bread,dobj,give
+PersonX gives PersonY the heave-ho,heave,heave,compound,give
+PersonX gives PersonY indication,indication,indication,dobj,give
+PersonX gives PersonY's directions,direction,direction,dobj,give
+PersonX gives PersonY a position,position,position,dobj,give
+PersonX gives PersonY information,information,information,dobj,give
+PersonX gives PersonY's hand,hand,hand,dobj,give
+PersonX gives PersonY the benefit of the doubt,benefit,benefit,dobj,give
+PersonX gives PersonY the benefit of the doubt,doubt,doubt,pobj,give
+PersonX gives PersonY PersonX's name,name,name,dobj,give
+PersonX gives PersonY command,command,command,dobj,give
+PersonX gives PersonY employment,employment,employment,dobj,give
+PersonX gives PersonY a peck,peck,peck,dobj,give
+PersonX gives PersonY the cold shoulder,shoulder,shoulder,dobj,give
+PersonX gives PersonY's names,name,name,dobj,give
+PersonX gives PersonY PersonX's hand,hand,hand,dobj,give
+PersonX gives PersonY a piece,piece,piece,dobj,give
+PersonX gives PersonY form,form,form,dobj,give
+PersonX gives PersonY the name,name,name,dobj,give
+PersonX gives PersonY a big head,head,head,dobj,give
+PersonX gives PersonY control,control,control,dobj,give
+PersonX gives PersonY the feeling,feeling,feeling,dobj,give
+PersonX gives PersonY counsel,counsel,counsel,dobj,give
+PersonX gives PersonY answer,answer,answer,dobj,give
+PersonX gives PersonY light,light,light,dobj,give
+PersonX gives PersonY some money,money,money,dobj,give
+PersonX gives PersonY's name,name,name,dobj,give
+PersonX gives PersonX's consent,consent,consent,dobj,give
+PersonX gives PersonY a push,push,push,dobj,give
+PersonX gives PersonY increase,increase,increase,dobj,give
+PersonX gives PersonY the details,detail,detail,dobj,give
+PersonX gives PersonY PersonX's opinion,opinion,opinion,dobj,give
+PersonX gives PersonY a pep talk,pep_talk,talk,dobj,give
+PersonX gives PersonY death,death,death,dobj,give
+PersonX gives PersonY lessons,lesson,lesson,dobj,give
+PersonX gives PersonY some water,water,water,dobj,give
+PersonX gives PersonY details,detail,detail,dobj,give
+PersonX gives PersonY explanation,explanation,explanation,dobj,give
+PersonX gives PersonY the business,business,business,dobj,give
+PersonX gives ___ a bath,bath,bath,dobj,give
+PersonX gives PersonY a blow,blow,blow,dobj,give
+PersonX gives PersonY advice,advice,advice,dobj,give
+PersonX gives PersonY a report,report,report,dobj,give
+PersonX gives PersonY the gift,gift,gift,dobj,give
+PersonX gives PersonY instructions,instruction,instruction,dobj,give
+PersonX gives PersonY's pleasure,pleasure,pleasure,dobj,give
+PersonX gives PersonY a bath,bath,bath,dobj,give
+PersonX gives PersonY opportunities,opportunity,opportunity,dobj,give
+PersonX gives PersonY education,education,education,dobj,give
+PersonX gives PersonY interpretation,interpretation,interpretation,dobj,give
+PersonX gives PersonY's permission,permission,permission,dobj,give
+PersonX gives PersonY a ride,ride,ride,dobj,give
+PersonX gives PersonY the courage,courage,courage,dobj,give
+PersonX gives PersonY knowledge,knowledge,knowledge,dobj,give
+PersonX gives PersonY's support,support,support,dobj,give
+PersonX gives PersonY a beating,beating,beating,dobj,give
+PersonX gets up on the wrong side of the bed,side,side,pobj,get
+PersonX gets up on the wrong side of the bed,bed,bed,pobj,get
+PersonX gives PersonY a raise,raise,raise,dobj,give
+PersonX gives PersonY the impression,impression,impression,dobj,give
+PersonX gives ___ a big smile,smile,smile,dobj,give
+PersonX gives PersonY a answer,answer,answer,dobj,give
+PersonX gives PersonY the money,money,money,dobj,give
+PersonX gives PersonY expression,expression,expression,dobj,give
+PersonX gives PersonY's tickets,ticket,ticket,dobj,give
+PersonX gives PersonY a big hug,hug,hug,dobj,give
+PersonX gives PersonY a refund,refund,refund,dobj,give
+PersonX gives PersonY illustration,illustration,illustration,dobj,give
+PersonX gives PersonY the news,news,news,dobj,give
+PersonX gives PersonY's medicine,medicine,medicine,dobj,give
+PersonX gives PersonY a reason,reason,reason,dobj,give
+PersonX gives PersonY power,power,power,dobj,give
+PersonX gets the stain out,stain,stain,dobj,get
+PersonX gives PersonY a berth,berth,berth,dobj,give
+PersonX gives PersonY a shot,shot,shot,dobj,give
+PersonX gives PersonY medicine,medicine,medicine,dobj,give
+PersonX gives PersonY the opportunity,opportunity,opportunity,dobj,give
+PersonX gets wet,wet,wet,dobj,get
+PersonX gives PersonY a bloody nose,nose,nose,dobj,give
+PersonX gives PersonY news,news,news,dobj,give
+PersonX gives ___ a bonus,bonus,bonus,dobj,give
+PersonX gives PersonY a ring,ring,ring,dobj,give
+PersonX gives PersonY the key,key,key,dobj,give
+PersonX gets work,work,work,dobj,get
+PersonX gives PersonX's dog,dog,dog,dobj,give
+PersonX gives PersonY a ticket,ticket,ticket,dobj,give
+PersonX gives PersonY the pleasure,pleasure,pleasure,dobj,give
+PersonX gives ___ a black eye,eye,eye,dobj,give
+PersonX gets the test,test,test,dobj,get
+PersonX gives PersonY a clue,clue,clue,dobj,give
+PersonX gives PersonY a ride home,ride_home,home,dobj,give
+PersonX gives PersonY notice,notice,notice,dobj,give
+PersonX gives PersonY the message,message,message,dobj,give
+PersonX gets tickets,ticket,ticket,dobj,get
+PersonX gets water,water,water,dobj,get
+PersonX gives PersonY a description,description,description,dobj,give
+PersonX gives PersonY a share,share,share,dobj,give
+PersonX gives PersonY dollars,dollar,dollar,dobj,give
+PersonX gives PersonY the means,mean,mean,dobj,give
+PersonX gives ___ a discount,discount,discount,dobj,give
+PersonX gives PersonY a blanket,blanket,blanket,dobj,give
+PersonX gives PersonY the power,power,power,dobj,give
+PersonX gives PersonY a piece of PersonX's mind,piece,piece,dobj,give
+PersonX gives ___ a haircut,haircut,haircut,dobj,give
+PersonX gives PersonY a box,box,box,dobj,give
+PersonX gives PersonY money,money,money,dobj,give
+PersonX gives PersonY a seat,seat,seat,dobj,give
+PersonX gives ___ PersonX's money,money,money,dobj,give
+PersonX gives PersonY the names,name,name,dobj,give
+PersonX gilds the pill,pill,pill,dobj,gild
+PersonX gives PersonY the number,number,number,dobj,give
+PersonX gives PersonY opinion,opinion,opinion,dobj,give
+PersonX gets the lead out,lead,lead,dobj,get
+PersonX gives PersonY a shove,shove,shove,dobj,give
+PersonX gives PersonY orders,order,order,dobj,give
+PersonX gives PersonY a character,character,character,dobj,give
+PersonX gets the ingredients together,ingredient,ingredient,dobj,get
+PersonX gives PersonY a reception,reception,reception,dobj,give
+PersonX gives PersonY name,name,name,dobj,give
+PersonX gives PersonY the slip,slip,slip,dobj,give
+PersonX gives PersonX's baby ___,baby,baby,dative,give
+PersonX gives PersonY a copy,copy,copy,dobj,give
+PersonX gives PersonY hope,hope,hope,dobj,give
+PersonX gives PersonY the satisfaction,satisfaction,satisfaction,dobj,give
+PersonX gets with the program,program,program,pobj,get
+PersonX gives PersonY a deal,deal,deal,dobj,give
+PersonX gives PersonY a squeeze,squeeze,squeeze,dobj,give
+PersonX gives ___ a gift,gift,gift,dobj,give
+PersonX gives PersonY proof,proof,proof,dobj,give
+PersonX gets the word out,word,word,dobj,get
+PersonX gives PersonY a cup,cup,cup,dobj,give
+PersonX gives PersonY grief,grief,grief,dobj,give
+PersonX gives PersonY a massage,massage,massage,dobj,give
+PersonX gives PersonY the right,right,right,dobj,give
+PersonX gives ___ a lift,lift,lift,dobj,give
+PersonX gets the ___ into PersonY's hands,hand,hand,pobj,get
+PersonX gives PersonY a gift,gift,gift,dobj,give
+PersonX gives PersonY a small smile,smile,smile,dobj,give
+PersonX gives PersonY courage,courage,courage,dobj,give
+PersonX gives ___ PersonY opportunity,opportunity,opportunity,dobj,give
+PersonX gets to the front of the line,front,front,pobj,get
+PersonX gets to the front of the line,line,line,pobj,get
+PersonX gives PersonY a couple,couple,couple,dobj,give
+PersonX gives PersonY PersonY's number,number,number,dobj,give
+PersonX gives PersonY order,order,order,dobj,give
+PersonX gives ___ a huge hug,hug,hug,dobj,give
+PersonX gives PersonY a dinner,dinner,dinner,dobj,give
+PersonX gets to PersonY's feet,foot,foot,pobj,get
+PersonX gives PersonY a slap,slap,slap,dobj,give
+PersonX gives PersonY pain,pain,pain,dobj,give
+PersonX gives ___ a makeover,makeover,makeover,dobj,give
+PersonX gets to PersonY's house,house,house,pobj,get
+PersonX gives PersonY a smile,smile,smile,dobj,give
+PersonX gives PersonY a call,call,call,dobj,give
+PersonX gives PersonY overview,overview,overview,dobj,give
+PersonX gives ___ a lollipop,lollipop,lollipop,dobj,give
+PersonX gets the lead role,role,role,dobj,get
+PersonX gets the food,food,food,dobj,get
+PersonX gives PersonY a grin,grin,grin,dobj,give
+PersonX gives PersonY outline,outline,outline,dobj,give
+PersonX gives PersonY a start,start,start,dobj,give
+PersonX gives PersonY treatment,treatment,treatment,dobj,give
+PersonX gives ___ a job,job,job,dobj,give
+PersonX gives PersonY a makeover,makeover,makeover,dobj,give
+PersonX gives PersonY a drink,drink,drink,dobj,give
+PersonX gives PersonY pleasure,pleasure,pleasure,dobj,give
+PersonX gives ___ a gift card,gift_card,card,dobj,give
+PersonX gives PersonY understanding,understanding,understanding,dobj,give
+PersonX gives PersonY a special gift,gift,gift,dobj,give
+PersonX gives PersonY permission,permission,permission,dobj,give
+PersonX gives PersonY tips,tip,tip,dobj,give
+PersonX gets up PersonY's nose,nose,nose,dobj,get
+PersonX gives PersonY a education,education,education,dobj,give
+PersonX gives PersonY confidence,confidence,confidence,dobj,give
+PersonX gives PersonY this opportunity,opportunity,opportunity,dobj,give
+PersonX gets the picture,picture,picture,dobj,get
+PersonX gives PersonY a discount,discount,discount,dobj,give
+PersonX gives PersonX enough rope,rope,rope,dobj,give
+PersonX gives PersonY picture,picture,picture,dobj,give
+PersonX gives ___ a massage,massage,massage,dobj,give
+PersonX gives PersonY the title,title,title,dobj,give
+PersonX gives PersonY a glimpse,glimpse,glimpse,dobj,give
+PersonX gives PersonY a opportunity,opportunity,opportunity,dobj,give
+PersonX gives PersonY protection,protection,protection,dobj,give
+PersonX gives ___ a promotion,promotion,promotion,dobj,give
+PersonX gets the sack,sack,sack,dobj,get
+PersonX gets treatment,treatment,treatment,dobj,get
+PersonX gives PersonX's orders,order,order,dobj,give
+PersonX gives PersonY reasons,reason,reason,dobj,give
+PersonX gives PersonY training,training,training,dobj,give
+PersonX gives ___ PersonY's number,number,number,dobj,give
+PersonX gets up with the chickens,chicken,chicken,pobj,get
+PersonX gives PersonX's history,history,history,dobj,give
+PersonX gives PersonY opportunity,opportunity,opportunity,dobj,give
+PersonX gives PersonX's candy,candy,candy,dobj,give
+PersonX gives ___ a puppy,puppy,puppy,dobj,give
+PersonX gives PersonY a feeling,feeling,feeling,dobj,give
+PersonX gives PersonY peace,peace,peace,dobj,give
+PersonX gives PersonY the answer,answer,answer,dobj,give
+PersonX gives PersonY a welcome,welcome,welcome,dobj,give
+PersonX gives PersonY a haircut,haircut,haircut,dobj,give
+PersonX gives PersonY freedom,freedom,freedom,dobj,give
+PersonX gives PersonY address,address,address,dobj,give
+PersonX gives PersonY uneasiness,uneasiness,uneasiness,dobj,give
+PersonX gives PersonY's orders,order,order,dobj,give
+PersonX gets under PersonY's skin,skin,skin,pobj,get
+PersonX gives PersonY a headache,headache,headache,dobj,give
+PersonX gives PersonX's dog ___,dog,dog,dative,give
+PersonX gives PersonY a warning,warning,warning,dobj,give
+PersonX gives PersonY utterance,utterance,utterance,dobj,give
+PersonX gives PersonY reason,reason,reason,dobj,give
+PersonX gives ___ a prescription,prescription,prescription,dobj,give
+PersonX gets to grips with ___,grip,grip,pobj,get
+PersonX gives PersonY a understanding,understanding,understanding,dobj,give
+PersonX gives PersonY presents,present,present,dobj,give
+PersonX gives PersonY a break,break,break,dobj,give
+PersonX gives PersonY value,value,value,dobj,give
+PersonX gives ___ a look,look,look,dobj,give
+PersonX gives PersonX's speech,speech,speech,dobj,give
+PersonX gives PersonY room,room,room,dobj,give
+PersonX gives PersonY the support,support,support,dobj,give
+PersonX gives PersonY a wink,wink,wink,dobj,give
+PersonX gives PersonY a gift card,gift_card,card,dobj,give
+PersonX gives PersonY a hand,hand,hand,dobj,give
+PersonX gives PersonY powers,power,power,dobj,give
+PersonX gives PersonY view,view,view,dobj,give
+PersonX gives ___ a call,call,call,dobj,give
+PersonX gives PersonX's opinion,opinion,opinion,dobj,give
+PersonX gives PersonY a hearing,hearing,hearing,dobj,give
+PersonX gives PersonY shelter,shelter,shelter,dobj,give
+PersonX gives PersonY water,water,water,dobj,give
+PersonX gives PersonY a promotion,promotion,promotion,dobj,give
+PersonX gives ___ a raise,raise,raise,dobj,give
+PersonX gives PersonY a letter,letter,letter,dobj,give
+PersonX gives PersonY rights,right,right,dobj,give
+PersonX gives PersonY a word,word,word,dobj,give
+PersonX gives PersonY warning,warning,warning,dobj,give
+PersonX gives PersonY a glass,glass,glass,dobj,give
+PersonX gives PersonY account,account,account,dobj,give
+PersonX gives PersonY work,work,work,dobj,give
+PersonX gives PersonY satisfaction,satisfaction,satisfaction,dobj,give
+PersonX grabs and go,grab,grab,ROOT,
+PersonX gives ___ to others,other,other,pobj,give
+PersonX hides in plain sight,sight,sight,pobj,hide
+PersonX hits a snag,snag,snag,dobj,hit
+PersonX gives the ___ the right,right,right,dobj,give
+PersonX hides in PersonY's room,room,room,pobj,hide
+PersonX hits the road,road,road,dobj,hit
+PersonX grabs PersonY 's hand,hand,hand,dobj,grab
+PersonX hides PersonY's ___ under a bushel,bushel,bushel,pobj,hide
+PersonX grabs PersonY's chest,chest,chest,nsubj,grab
+PersonX hits the ground running,ground,ground,nsubj,run
+PersonX gives ___ money,money,money,dobj,give
+PersonX grabs by the lapels,grab,grab,ROOT,
+PersonX grabs by the lapels,lapel,lapel,pobj,
+PersonX grabs PersonY hand,grab,grab,ROOT,
+PersonX grabs PersonY hand,hand,hand,appos,
+PersonX hits paydirt,paydirt,paydirt,dobj,hit
+PersonX hides the sausage,sausage,sausage,dobj,hide
+PersonX gives a presentation,presentation,presentation,dobj,give
+PersonX grabs PersonY by the hair,hair,hair,pobj,
+PersonX hits a rock,rock,rock,dobj,hit
+PersonX hides under the covers,cover,cover,pobj,hide
+PersonX gives ___ trouble,trouble,trouble,dobj,give
+PersonX gives the baby,baby,baby,dobj,give
+PersonX goes trick or treating,trick,trick,dobj,go
+PersonX hits PersonY's car,car,car,dobj,hit
+PersonX hurts PersonX's knee,knee,knee,dobj,hurt
+PersonX gives the dog ___,dog,dog,dative,give
+PersonX grabs PersonY's arms,arm,arm,nsubj,grab
+PersonX hits PersonY in the head,head,head,pobj,hit
+PersonX has PersonX's work cut out for PersonX,work,work,nsubj,cut
+PersonX has any money though,money,money,dobj,have
+PersonX gives away the store,store,store,dobj,give
+PersonX gives the cat ___,cat,cat,dative,give
+PersonX grabs PersonY's backpack,backpack,backpack,dobj,grab
+PersonX hits the snooze button,snooze_button,button,dobj,hit
+PersonX gives ___ water,water,water,dobj,give
+PersonX gives the ___ PersonX's name,name,name,dobj,give
+PersonX grabs PersonX's gun,gun,gun,ROOT,
+PersonX has a snowball fight,snowball_fight,fight,dobj,have
+PersonX gives ___ to problems,problem,problem,pobj,give
+PersonX hails a taxi,taxi,taxi,dobj,hail
+PersonX hurts PersonY feelings,feeling,feeling,dobj,hurt
+PersonX hits PersonX's car,car,car,dobj,hit
+PersonX gives a pop quiz,pop_quiz,quiz,dobj,give
+PersonX grabs PersonY's bags,bag,bag,dobj,grab
+PersonX gives the class ___,class,class,dative,give
+PersonX hits PersonY in the face,face,face,pobj,hit
+PersonX gives a small smile,smile,smile,dobj,give
+PersonX hurts PersonX's leg,leg,leg,dobj,hurt
+PersonX gives the baby ___,baby,baby,dative,give
+PersonX grabs PersonY's shirt,shirt,shirt,ROOT,
+PersonX has a huge fight,fight,fight,dobj,have
+PersonX has enough money to pay PersonY's rent,money,money,dobj,have
+PersonX has enough money to pay PersonY's rent,rent,rent,dobj,pay
+PersonX hurts PersonY's leg,leg,leg,dobj,hurt
+PersonX gives a great speech,speech,speech,dobj,give
+PersonX grabs PersonY's hips,hip,hip,dobj,grab
+PersonX has PersonY's hair cut,hair,hair,nsubj,cut
+PersonX gives the gift,gift,gift,dobj,give
+PersonX hires a lawyer,lawyer,lawyer,dobj,hire
+PersonX gives a good account of oneself,account,account,dobj,give
+PersonX grabs PersonY's face,face,face,ROOT,
+PersonX has a stab,stab,stab,dobj,have
+PersonX gives a speech,speech,speech,dobj,give
+PersonX has very little money,money,money,dobj,have
+PersonX hits the sack,sack,sack,dobj,hit
+PersonX holds PersonY's feet to the fire,foot,foot,dobj,hold
+PersonX holds PersonY's feet to the fire,fire,fire,pobj,hold
+PersonX has PersonY's hide,hide,hide,dobj,have
+PersonX grabs PersonY's gun,gun,gun,nsubj,grab
+PersonX gives the kitten,kitten,kitten,dobj,give
+PersonX grabs PersonY's hair,hair,hair,dobj,grab
+PersonX hits PersonY's face,face,face,dobj,hit
+PersonX gives you PersonY opportunity,opportunity,opportunity,dobj,give
+PersonX gives birth to PersonY,birth,birth,dobj,give
+PersonX hurts PersonX's head,head,head,dobj,hurt
+PersonX grabs PersonY's head,head,head,nsubj,grab
+PersonX hits PersonY's city,city,city,dobj,hit
+PersonX has PersonX's hair cut,hair,hair,nsubj,cut
+PersonX gives a rats arse,rat,rat,dative,give
+PersonX gives a rats arse,arse,arse,dobj,give
+PersonX gives the money,money,money,dobj,give
+PersonX grabs PersonY by the shoulders,shoulder,shoulder,pobj,
+PersonX has a lot of money,money,money,pobj,have
+PersonX hits the hay,hay,hay,dobj,hit
+PersonX gives birth,birth,birth,dobj,give
+PersonX gives the dog away,dog,dog,dobj,give
+PersonX grabs PersonY's purse,purse,purse,dobj,grab
+PersonX has caught fire,fire,fire,dobj,catch
+PersonX gives birth to a PersonY,birth,birth,dobj,give
+PersonX has a panic attack,panic_attack,attack,dobj,have
+PersonX gives the devil his due,devil,devil,dative,give
+PersonX grabs PersonY's phone,phone,phone,dobj,grab
+PersonX hits PersonY's head,head,head,dobj,hit
+PersonX grabs the ball,ball,ball,dobj,grab
+PersonX grabs PersonY's tools,tool,tool,nsubj,grab
+PersonX hits the roof,roof,roof,dobj,hit
+PersonX gives birth to children,birth,birth,dobj,give
+PersonX grabs PersonY's shoulders,shoulder,shoulder,nsubj,grab
+PersonX hits a deer,deer,deer,dobj,hit
+PersonX has a heart attack,heart_attack,attack,dobj,have
+PersonX gives ___ up for adoption,adoption,adoption,pobj,give
+PersonX gives the reader some ___,reader,reader,dative,give
+PersonX grabs PersonY's hands,hand,hand,dobj,grab
+PersonX grabs PersonY's hand,hand,hand,nsubj,grab
+PersonX hits ___ in the face,face,face,pobj,hit
+PersonX gives bob ___,bob,bob,dative,give
+PersonX grabs a towel,towel,towel,dobj,grab
+PersonX has extra money,money,money,dobj,have
+PersonX hits below PersonX's weight,weight,weight,pobj,hit
+PersonX gives chase,chase,chase,dobj,give
+PersonX gives the kitten ___,kitten,kitten,dative,give
+PersonX grabs a gun,gun,gun,dobj,grab
+PersonX has much money,money,money,dobj,have
+PersonX hits a ball,ball,ball,dobj,hit
+PersonX hits by a car,car,car,pobj,hit
+PersonX gives birth to a daughter,birth,birth,dobj,give
+PersonX grabs PersonY's wallet,wallet,wallet,dobj,grab
+PersonX has enough money,money,money,dobj,have
+PersonX has to use the bathroom,bathroom,bathroom,dobj,use
+PersonX hurts PersonY's arm,arm,arm,dobj,hurt
+PersonX grabs PersonY's stuff,stuff,stuff,nsubj,grab
+PersonX hits ___ out of the park,park,park,pobj,hit
+PersonX hurts my ankle,ankle,ankle,dobj,hurt
+PersonX has more money than god,money,money,dobj,have
+PersonX hits ___ on the head,head,head,pobj,hit
+PersonX grabs PersonY's keys,key,key,nsubj,grab
+PersonX has enough money to buy it,money,money,dobj,have
+PersonX grabs a shovel,shovel,shovel,dobj,grab
+PersonX hits a bump,bump,bump,dobj,hit
+PersonX gives hostage to fortune,hostage,hostage,dobj,give
+PersonX gives hostage to fortune,fortune,fortune,pobj,give
+PersonX has enough money to pay PersonX's rent,money,money,dobj,have
+PersonX has enough money to pay PersonX's rent,rent,rent,dobj,pay
+PersonX grabs a glass,glass,glass,dobj,grab
+PersonX hits a car,car,car,dobj,hit
+PersonX gives ___ to the world,world,world,pobj,give
+PersonX gives the ultimate pleasure,pleasure,pleasure,dobj,give
+PersonX has no money left,money,money,dobj,have
+PersonX hits a homerun,homerun,homerun,dobj,hit
+PersonX grabs a knife,knife,knife,dobj,grab
+PersonX gives detention,detention,detention,dobj,give
+PersonX gives tom,tom,tom,dobj,give
+PersonX grabs PersonY's wrist,wrist,wrist,nsubj,grab
+PersonX hits a pole,pole,pole,dobj,hit
+PersonX has enough money to buy one,money,money,dobj,have
+PersonX hurts PersonY's head,head,head,dobj,hurt
+PersonX gives birth to the PersonY,birth,birth,dobj,give
+PersonX grabs a ladder,ladder,ladder,dobj,grab
+PersonX hits a parked car,car,car,dobj,hit
+PersonX grabs PersonY's shoulder,shoulder,shoulder,nsubj,grab
+PersonX gives the royal treatment,treatment,treatment,dobj,give
+PersonX grabs ___ from the fridge,fridge,fridge,pobj,grab
+PersonX giveth PersonX's ___ for the sheep,sheep,sheep,pobj,
+PersonX has to get a job,job,job,dobj,get
+PersonX hurts PersonX's ankle,ankle,ankle,dobj,hurt
+PersonX hides in PersonX's room,room,room,pobj,hide
+PersonX grabs a bite to eat,bite,bite,dobj,grab
+PersonX hits PersonY on the head,head,head,pobj,hit
+PersonX gives it PersonX's best shot,shot,shot,dobj,give
+PersonX has to get a cast,cast,cast,dobj,get
+PersonX hits another car,car,car,dobj,hit
+PersonX gives it PersonX's name,name,name,dobj,give
+PersonX gives the reader PersonY idea,reader,reader,dative,give
+PersonX grabs PersonY by the arm,arm,arm,pobj,
+PersonX injures PersonX's knee,knee,knee,dobj,injure
+PersonX injures PersonY's leg,leg,leg,dobj,injure
+PersonX has to take care of PersonY,care,care,dobj,take
+PersonX hits a patch of black ice,patch,patch,dobj,hit
+PersonX hits a patch of black ice,ice,ice,pobj,hit
+PersonX gives a ticket,ticket,ticket,dobj,give
+PersonX gives ___ some medicine,medicine,medicine,dobj,give
+PersonX has to take PersonY to the hospital,hospital,hospital,pobj,take
+PersonX hits a telephone pole,telephone_pole,pole,dobj,hit
+PersonX gives it a try,try,try,dobj,give
+PersonX hurts like hell,hell,hell,pobj,hurt
+PersonX gives ___ an ultimatum,ultimatum,ultimatum,dobj,give
+PersonX hits a wall,wall,wall,dobj,hit
+PersonX has to be taken to the hospital,hospital,hospital,pobj,take
+PersonX gives a great performance,performance,performance,dobj,give
+PersonX gives thanks to god,thank,thank,dobj,give
+PersonX injures PersonX's leg,leg,leg,dobj,injure
+PersonX gives the speech,speech,speech,dobj,give
+PersonX gives ___ a whirl,whirl,whirl,dobj,give
+PersonX has food poisoning,food_poisoning,poisoning,dobj,have
+PersonX hits rock bottom,rock_bottom,bottom,dobj,hit
+PersonX gives ___ candy,candy,candy,dobj,give
+PersonX gives the reader a ___,reader,reader,dative,give
+PersonX has forgotten PersonX's wallet,wallet,wallet,dobj,forget
+PersonX invests PersonX's money,money,money,dobj,invest
+PersonX gives it PersonY's name,name,name,dobj,give
+PersonX gives gifts,gift,gift,dobj,give
+PersonX gives ___ medicine,medicine,medicine,dobj,give
+PersonX gives you PersonY answer,answer,answer,dobj,give
+PersonX is a big hit,hit,hit,attr,
+PersonX hits by lightning,lightning,lightning,pobj,hit
+PersonX gives the class,class,class,dobj,give
+PersonX hears the door open,door,door,dobj,hear
+PersonX gives another example,example,example,dobj,give
+PersonX gives ___ the benefit of the doubt,benefit,benefit,dobj,give
+PersonX gives ___ the benefit of the doubt,doubt,doubt,pobj,give
+PersonX gives it the gun,gun,gun,dobj,give
+PersonX gives under PersonY hand,hand,hand,pobj,give
+PersonX gives ___ to PersonX's grandmother,grandmother,grandmother,pobj,give
+PersonX gives ___ a big hug,hug,hug,dobj,give
+PersonX gives ___ at work,work,work,pobj,give
+PersonX has any extra money,money,money,dobj,have
+PersonX is a police officer,police_officer,officer,attr,
+PersonX gives ___ a ride home,ride_home,home,dobj,give
+PersonX gives ___ a standing ovation,ovation,ovation,dobj,give
+PersonX gives the ___ PersonY opportunity,opportunity,opportunity,dobj,give
+PersonX has to call the fire department,fire_department,department,dobj,call
+PersonX hits above PersonX's weight,weight,weight,pobj,hit
+PersonX gives battle,battle,battle,dobj,give
+PersonX gives ___ a refund,refund,refund,dobj,give
+PersonX hits the ___ on the head,head,head,pobj,hit
+PersonX gives ___ some pills,pill,pill,dobj,give
+PersonX hides PersonX's ___ in PersonY's hands,hand,hand,pobj,hide
+PersonX is buying groceries,grocery,grocery,dobj,buy
+PersonX gives it to PersonY for PersonZ's birthday,birthday,birthday,pobj,give
+PersonX hits the bricks,brick,brick,dobj,hit
+PersonX gives ___ a hug,hug,hug,dobj,give
+PersonX gives ___ some money,money,money,dobj,give
+PersonX gives you PersonY account,account,account,dobj,give
+PersonX hits the brakes,brake,brake,dobj,hit
+PersonX gives PersonY's position,position,position,dobj,give
+PersonX gives you PersonY opinion,opinion,opinion,dobj,give
+PersonX gives notice,notice,notice,dobj,give
+PersonX hits my head,head,head,dobj,hit
+PersonX gives ___ a ride,ride,ride,dobj,give
+PersonX gives ___ some advice,advice,advice,dobj,give
+PersonX hears the fire alarm,fire_alarm,alarm,dobj,hear
+PersonX hits the bottle,bottle,bottle,dobj,hit
+PersonX gives ___ a miss,miss,miss,dobj,give
+PersonX gives ___ tips,tip,tip,dobj,give
+PersonX has to take PersonY to the doctor,doctor,doctor,pobj,take
+PersonX hits the floor,floor,floor,dobj,hit
+PersonX gives ___ a special gift,gift,gift,dobj,give
+PersonX has to go to court,court,court,pobj,go
+PersonX is fired from PersonX's job,job,job,pobj,fire
+PersonX hits the books,book,book,dobj,hit
+PersonX gives ___ a reward,reward,reward,dobj,give
+PersonX has to buy a new car,car,car,dobj,buy
+PersonX is getting a divorce,divorce,divorce,dobj,get
+PersonX gives it a bath,bath,bath,dobj,give
+PersonX hits the ball,ball,ball,dobj,hit
+PersonX gives ___ a speeding ticket,ticket,ticket,dobj,give
+PersonX goes bird watching,bird,bird,dobj,go
+PersonX has trouble paying PersonX's bills,trouble,trouble,dobj,have
+PersonX has trouble paying PersonX's bills,bill,bill,dobj,pay
+PersonX hits the gas,gas,gas,dobj,hit
+PersonX gives ___ a small smile,smile,smile,dobj,give
+PersonX gives glory to god,glory,glory,dobj,give
+PersonX hides PersonX's ___ in PersonX's hands,hand,hand,pobj,hide
+PersonX is a huge hit,hit,hit,attr,
+PersonX gives money,money,money,dobj,give
+PersonX hits the car,car,car,dobj,hit
+PersonX gives ___ an interview,interview,interview,dobj,give
+PersonX gives ___ the money,money,money,dobj,give
+PersonX goes to the store to buy more,store,store,pobj,go
+PersonX hits the buffers,buffer,buffer,dobj,hit
+PersonX gives ___ the right,right,right,dobj,give
+PersonX giveth PersonY's ___ for the sheep,sheep,sheep,pobj,
+PersonX invests the money,money,money,dobj,invest
+PersonX gives ___ a headache,headache,headache,dobj,give
+PersonX gives ___ a ticket,ticket,ticket,dobj,give
+PersonX hits the ball hard,ball,ball,dobj,hit
+PersonX hits the ground,ground,ground,dobj,hit
+PersonX gives ___ a warning,warning,warning,dobj,give
+PersonX hides PersonX's face in PersonX's hands,face,face,dobj,hide
+PersonX hides PersonX's face in PersonX's hands,hand,hand,pobj,hide
+PersonX hits the jackpot,jackpot,jackpot,dobj,hit
+PersonX glances at PersonY's watch,watch,watch,pobj,glance
+PersonX hides PersonX's light under a bushel,light,light,dobj,hide
+PersonX hides PersonX's light under a bushel,bushel,bushel,pobj,hide
+PersonX gives ___ a treat,treat,treat,dobj,give
+PersonX hides PersonX's ___ under a bushel,bushel,bushel,pobj,hide
+PersonX hits the headlines,headline,headline,dobj,hit
+PersonX hides PersonY's face,face,face,dobj,hide
+PersonX gives rise to PersonY,rise,rise,dobj,give
+PersonX hits the pavement,pavement,pavement,dobj,hit
+PersonX gives ___ a shot,shot,shot,dobj,give
+PersonX hides in PersonX's closet,closet,closet,pobj,hide
+PersonX hits the high notes,note,note,dobj,hit
+PersonX gives ___ a try,try,try,dobj,give
+PersonX gives ___ to PersonY's grandmother,grandmother,grandmother,pobj,give
+PersonX gives the dog,dog,dog,dobj,give
+PersonX is getting a raise,raise,raise,dobj,get
+PersonX hits ___ in the head,head,head,pobj,hit
+PersonX gives ___ access,access,access,dobj,give
+PersonX gives ___ food,food,food,dobj,give
+PersonX hides in PersonY's closet,closet,closet,pobj,hide
+PersonX grabs PersonY's arm,arm,arm,nsubj,grab
+PersonX is fired on the spot,spot,spot,pobj,fire
+PersonX gives a hint on PersonY's project,hint,hint,dobj,give
+PersonX gives a hint on PersonY's project,project,project,pobj,give
+PersonX hits the ground hard,ground,ground,dobj,hit
+PersonX gives ___ an allowance,allowance,allowance,dobj,give
+PersonX hides PersonY's ___ in PersonX's hands,hand,hand,pobj,hide
+PersonX gives the ___ a appearance,appearance,appearance,dobj,give
+PersonX hits the nail on the head,nail,nail,dobj,hit
+PersonX hits the nail on the head,head,head,pobj,hit
+PersonX gives ___ detention,detention,detention,dobj,give
+PersonX hides PersonX's feelings,feeling,feeling,dobj,hide
+PersonX goes to the store to buy some,store,store,pobj,go
+PersonX hurts PersonY's feelings,feeling,feeling,dobj,hurt
+PersonX gives ___ a kiss,kiss,kiss,dobj,give
+PersonX hides eggs,egg,egg,dobj,hide
+PersonX gives the ___ PersonY's name,name,name,dobj,give
+PersonX hits the deer,deer,deer,dobj,hit
+PersonX goes to the store to get some,store,store,pobj,go
+PersonX hides the ___ in PersonX's voice,voice,voice,pobj,hide
+PersonX gives PersonY's detention,detention,detention,dobj,give
+PersonX hits the rocks,rock,rock,dobj,hit
+PersonX hides in the bathroom,bathroom,bathroom,pobj,hide
+PersonX gives ___ to charity,charity,charity,advcl,give
+PersonX grabs PersonX's wallet,wallet,wallet,ROOT,
+PersonX gives ___ some milk,milk,milk,dobj,give
+PersonX grabs PersonY arm,grab,grab,ROOT,
+PersonX grabs PersonY arm,arm,arm,dobj,
+PersonX is getting ready for work,work,work,pobj,get
+PersonX gives it a shot,shot,shot,dobj,give
+PersonX hits a tree,tree,tree,dobj,hit
+PersonX gives ___ the opportunity,opportunity,opportunity,dobj,give
+PersonX hits PersonX's city,city,city,dobj,hit
+PersonX grabs PersonX's tools,tool,tool,ROOT,
+PersonX hits the target,target,target,dobj,hit
+PersonX hides under PersonY's bed,bed,bed,pobj,hide
+PersonX goes to the store to get more,store,store,pobj,go
+PersonX is getting ready for school,school,school,pobj,get
+PersonX lets nature take its course,nature,nature,nsubj,take
+PersonX lets nature take its course,course,course,dobj,take
+PersonX needs extra money,money,money,dobj,need
+PersonX opens PersonY's eyes slowly,eye,eye,dobj,open
+PersonX pays ___ to the fact,fact,fact,pobj,pay
+PersonX pays PersonX's rent on time,rent,rent,dobj,pay
+PersonX opens PersonX's lips,lip,lip,dobj,open
+PersonX kicks a ball,ball,ball,dobj,kick
+PersonX makes a break for it,break,break,dobj,make
+PersonX mows lawns,lawn,lawn,dobj,mow
+PersonX pays ___ to the subject,subject,subject,pobj,pay
+PersonX opens PersonY's mouth,mouth,mouth,dobj,open
+PersonX kicks at the can,can,can,pobj,kick
+PersonX makes lots of money,money,money,pobj,make
+PersonX mows the lawn,lawn,lawn,dobj,mow
+PersonX opens PersonY's mouth to speak,mouth,mouth,dobj,open
+PersonX pays PersonX's water bill,water_bill,bill,dobj,pay
+PersonX makes any money,money,money,dobj,make
+PersonX markets and sell a product or service,market,market,ROOT,
+PersonX markets and sell a product or service,product,product,dobj,sell
+PersonX markets and sell a product or service,service,service,conj,sell
+PersonX lies beneath the surface,surface,surface,pobj,lie
+PersonX opens PersonY's mouth to say something,mouth,mouth,dobj,open
+PersonX keeps watch,watch,watch,dobj,keep
+PersonX makes a little extra money,money,money,dobj,make
+PersonX needs money badly,money,money,dobj,need
+PersonX lies outside the scope,scope,scope,pobj,lie
+PersonX pays PersonX's fees,fee,fee,dobj,pay
+PersonX opens PersonY's gifts,gift,gift,dobj,open
+PersonX kicks off PersonY's shoes,shoe,shoe,dobj,kick
+PersonX makes extra money,money,money,dobj,make
+PersonX needs more money,money,money,dobj,need
+PersonX lies on either side,side,side,pobj,lie
+PersonX opens PersonY's fridge,fridge,fridge,dobj,open
+PersonX keeps PersonY account,account,account,dobj,keep
+PersonX pays PersonY bill,bill,bill,dobj,pay
+PersonX limits PersonY's use,use,use,dobj,limit
+PersonX names your poison,poison,poison,dobj,name
+PersonX keeps the home fires burning,home_fire,fire,dobj,keep
+PersonX makes breakfast for PersonX's family,breakfast,breakfast,dobj,make
+PersonX needs some extra money,money,money,dobj,need
+PersonX lies at PersonY's feet,foot,foot,pobj,lie
+PersonX opens PersonY's eyes again,eye,eye,dobj,open
+PersonX pays PersonX's debt to society,debt,debt,dobj,pay
+PersonX pays PersonX's debt to society,society,society,pobj,pay
+PersonX kicks against the pricks,prick,prick,pobj,kick
+PersonX makes PersonX's breakfast,breakfast,breakfast,dobj,make
+PersonX opens PersonY's gift,gift,gift,dobj,open
+PersonX pays PersonY bills,bill,bill,dobj,pay
+PersonX kills PersonY enemy,enemy,enemy,dobj,kill
+PersonX makes breakfast for PersonY's family,breakfast,breakfast,dobj,make
+PersonX makes more money,money,money,dobj,make
+PersonX is in dire need of money,need,need,pobj,
+PersonX is in dire need of money,money,money,pobj,
+PersonX lives paycheck to paycheck,paycheck,paycheck,dobj,live
+PersonX opens all PersonY's presents,present,present,dobj,open
+PersonX kicks the bucket,bucket,bucket,dobj,kick
+PersonX mounts PersonY attack,attack,attack,dobj,mount
+PersonX lies on the ground,ground,ground,pobj,lie
+PersonX opens a lemonade stand,lemonade_stand,stand,dobj,open
+PersonX pays PersonY homage,homage,homage,dobj,pay
+PersonX kicks ___ out of the house,house,house,pobj,kick
+PersonX makes copies,copy,copy,dobj,make
+PersonX lies on PersonY's side,side,side,pobj,lie
+PersonX opens ___ in the form,form,form,pobj,open
+PersonX kicks some tires,tire,tire,dobj,kick
+PersonX makes a fire,fire,fire,dobj,make
+PersonX makes PersonY's jaw drop,jaw_drop,drop,dobj,make
+PersonX is desperate for money,money,money,pobj,
+PersonX locks PersonX's keys in PersonY's car,key,key,dobj,lock
+PersonX locks PersonX's keys in PersonY's car,car,car,pobj,lock
+PersonX opens a restaurant,restaurant,restaurant,dobj,open
+PersonX pays PersonX's debts,debt,debt,dobj,pay
+PersonX makes some money,money,money,dobj,make
+PersonX needs some money,money,money,dobj,need
+PersonX kicks the tires,tire,tire,dobj,kick
+PersonX locks ___ in PersonX's room,room,room,pobj,lock
+PersonX is given detention,detention,detention,dobj,give
+PersonX pays PersonY dollars,dollar,dollar,dobj,pay
+PersonX opens PersonY's own store,store,store,dobj,open
+PersonX makes good money,money,money,dobj,make
+PersonX needs to buy a new car,car,car,dobj,buy
+PersonX lights a fire,fire,fire,dobj,light
+PersonX kicks the ball,ball,ball,dobj,kick
+PersonX obtains PersonY's release,release,release,dobj,obtain
+PersonX pays PersonY tax,tax,tax,dobj,pay
+PersonX makes enough money,money,money,dobj,make
+PersonX makes money online,money,money,dobj,make
+PersonX lights ___ on fire,fire,fire,pobj,light
+PersonX opens my door,door,door,dobj,open
+PersonX pays PersonY debts,debt,debt,dobj,pay
+PersonX makes money,money,money,dobj,make
+PersonX kicks up PersonX's heels,heel,heel,dobj,kick
+PersonX locks PersonY's keys in PersonZ's car,key,key,dobj,lock
+PersonX locks PersonY's keys in PersonZ's car,car,car,pobj,lock
+PersonX pays PersonX's electric bill,bill,bill,dobj,pay
+PersonX makes PersonY's breakfast in bed,breakfast,breakfast,dobj,make
+PersonX makes PersonY's breakfast in bed,bed,bed,pobj,make
+PersonX is hit by a car,car,car,pobj,hit
+PersonX kicks the tyres,tyre,tyre,dobj,kick
+PersonX lives a lie,lie,lie,dobj,live
+PersonX pays PersonY fee,fee,fee,dobj,pay
+PersonX makes breakfast,breakfast,breakfast,dobj,make
+PersonX obtains PersonY order,order,order,dobj,obtain
+PersonX is in a hurry to get to work,hurry,hurry,pobj,
+PersonX kicks up a fuss,fuss,fuss,dobj,kick
+PersonX locks the door,door,door,dobj,lock
+PersonX opens a new bank account,bank_account,account,dobj,open
+PersonX pays PersonY visit,visit,visit,dobj,pay
+PersonX makes much money,money,money,dobj,make
+PersonX needs to pay rent,rent,rent,dobj,pay
+PersonX is making breakfast,breakfast,breakfast,dobj,make
+PersonX lights a fire under ___,fire,fire,dobj,light
+PersonX needs to save money,money,money,dobj,save
+PersonX needs to get home,home,home,dobj,get
+PersonX is low on money,money,money,pobj,
+PersonX pays PersonY respects,respect,respect,dobj,pay
+PersonX makes scrambled eggs for breakfast,egg,egg,dobj,make
+PersonX makes scrambled eggs for breakfast,breakfast,breakfast,pobj,make
+PersonX makes the cut,cut,cut,dobj,make
+PersonX opens all PersonX's presents,present,present,dobj,open
+PersonX keeps PersonX's options open,option,option,dobj,keep
+PersonX locks PersonY's keys,key,key,dobj,lock
+PersonX opens doors,door,door,dobj,open
+PersonX pays PersonY rent,rent,rent,dobj,pay
+PersonX makes the money,money,money,dobj,make
+PersonX is losing money,money,money,dobj,lose
+PersonX kills PersonY animal,animal,animal,dobj,kill
+PersonX locks eyes,eye,eye,dobj,lock
+PersonX opens a small business,business,business,dobj,open
+PersonX opens the email,email,email,dobj,open
+PersonX makes decent money,money,money,dobj,make
+PersonX needs to use the restroom,restroom,restroom,dobj,use
+PersonX is mowing PersonX's lawn,lawn,lawn,dobj,mow
+PersonX opens a bottle of wine,bottle,bottle,dobj,open
+PersonX opens a bottle of wine,wine,wine,pobj,open
+PersonX pays PersonY's debts,debt,debt,dobj,pay
+PersonX locks PersonY's keys in PersonY's car,key,key,dobj,lock
+PersonX locks PersonY's keys in PersonY's car,car,car,pobj,lock
+PersonX makes pancakes for breakfast,pancake,pancake,dobj,make
+PersonX makes pancakes for breakfast,breakfast,breakfast,pobj,make
+PersonX locks the doors,door,door,dobj,lock
+PersonX opens all of PersonX's presents,present,present,pobj,open
+PersonX makes some extra money,money,money,dobj,make
+PersonX kills ___ with stone,stone,stone,pobj,kill
+PersonX is mowing PersonY's lawn,lawn,lawn,dobj,mow
+PersonX lies through PersonX's teeth,tooth,tooth,pobj,lie
+PersonX pays PersonY's share,share,share,dobj,pay
+PersonX opens a store,store,store,dobj,open
+PersonX marches to the beat of a different drum,beat,beat,pobj,march
+PersonX marches to the beat of a different drum,drum,drum,pobj,march
+PersonX is a waste of money,waste,waste,attr,
+PersonX is a waste of money,money,money,pobj,
+PersonX opens the bag,bag,bag,dobj,open
+PersonX locks ___ in PersonX's car,car,car,pobj,lock
+PersonX opens the fridge,fridge,fridge,dobj,open
+PersonX obtains PersonY audience,audience,audience,dobj,obtain
+PersonX locks the door behind PersonY,door,door,dobj,lock
+PersonX opens fire,fire,fire,dobj,open
+PersonX pays PersonY wages,wage,wage,dobj,pay
+PersonX murders PersonY's wife,murder,murder,ROOT,
+PersonX locks PersonY's keys in PersonX's car,key,key,dobj,lock
+PersonX locks PersonY's keys in PersonX's car,car,car,pobj,lock
+PersonX pays PersonX's debt,debt,debt,dobj,pay
+PersonX opens presents,present,present,dobj,open
+PersonX needs the money,money,money,dobj,need
+PersonX makes a lot of money,money,money,pobj,make
+PersonX keeps an eye open,eye,eye,dobj,keep
+PersonX locks horns,horn,horn,dobj,lock
+PersonX opens projects in the form,project,project,dobj,open
+PersonX opens projects in the form,form,form,pobj,open
+PersonX pays PersonY's fees,fee,fee,dobj,pay
+PersonX mows PersonY's lawn,lawn,lawn,dobj,mow
+PersonX not gives a monkeys,monkey,monkey,dobj,give
+PersonX locks eyes with PersonY,eye,eye,dobj,lock
+PersonX opens the lid,lid,lid,dobj,open
+PersonX opens the gate,gate,gate,dobj,open
+PersonX obtains PersonY solution,solution,solution,dobj,obtain
+PersonX is pulled over by a police officer,police_officer,officer,pobj,pull
+PersonX kills PersonY on the spot,spot,spot,pobj,kill
+PersonX opens all of PersonY's presents,present,present,pobj,open
+PersonX needs money,money,money,dobj,need
+PersonX is short on money,money,money,pobj,
+PersonX keeps a close watch on ___,watch,watch,dobj,keep
+PersonX opens one eye,eye,eye,dobj,open
+PersonX pays PersonY's cable bill,cable_bill,bill,dobj,pay
+PersonX makes the track team,track_team,team,dobj,make
+PersonX kicks PersonY's legs,leg,leg,dobj,kick
+PersonX is pulled over by a cop,cop,cop,pobj,pull
+PersonX opens the back door,door,door,dobj,open
+PersonX meets the user 's ___,user,user,poss,meet
+PersonX obtains PersonY information,information,information,dobj,obtain
+PersonX is on the track team,track_team,team,pobj,
+PersonX looks at PersonY's watch,watch,watch,pobj,look
+PersonX opens a savings account,saving_account,account,dobj,open
+PersonX kills birds with stone,bird,bird,dobj,kill
+PersonX kills birds with stone,stone,stone,pobj,kill
+PersonX pays PersonY tribute,tribute,tribute,dobj,pay
+PersonX meets ___ with force,force,force,pobj,meet
+PersonX is sent to prison,prison,prison,pobj,send
+PersonX opens the door for PersonY,door,door,dobj,open
+PersonX opens the closet door,closet_door,door,dobj,open
+PersonX needs a break,break,break,dobj,need
+PersonX obtains PersonY answer,answer,answer,dobj,obtain
+PersonX is selling cookies,cooky,cooky,dobj,sell
+PersonX opens the car door,car_door,door,dobj,open
+PersonX pays PersonY's expenses,expense,expense,dobj,pay
+PersonX kisses the gunners daughter,gunner,gunner,dobj,kiss
+PersonX mows my lawn,lawn,lawn,dobj,mow
+PersonX obtains PersonY education,education,education,dobj,obtain
+PersonX kills ___ for food,food,food,pobj,kill
+PersonX looks for a dog to kick,dog,dog,nsubj,kick
+PersonX pays PersonY a compliment,compliment,compliment,dobj,pay
+PersonX is selling lemonade,lemonade,lemonade,dobj,sell
+PersonX loses a lot of money,money,money,pobj,lose
+PersonX opens the box,box,box,dobj,open
+PersonX pays ___ at the rate,rate,rate,pobj,pay
+PersonX kills in PersonY accident,accident,accident,pobj,kill
+PersonX opens the chest,chest,chest,dobj,open
+PersonX pays PersonX's taxes,taxis,taxis,dobj,pay
+PersonX locks ___ out of the house,house,house,pobj,lock
+PersonX opens the front door,door,door,dobj,open
+PersonX obtains ___ by means,mean,mean,pobj,obtain
+PersonX makes PersonX's bed and lie in it,bed,bed,dobj,make
+PersonX pays PersonY's bills,bill,bill,dobj,pay
+PersonX kills the snake,snake,snake,dobj,kill
+PersonX kills PersonX's darlings,darling,darling,dobj,kill
+PersonX loses all PersonY's money,money,money,dobj,lose
+PersonX obtains ___ from the government,government,government,pobj,obtain
+PersonX opens the door,door,door,dobj,open
+PersonX pays PersonY's rent,rent,rent,dobj,pay
+PersonX loses PersonX's money,money,money,dobj,lose
+PersonX obtains PersonY interview,interview,interview,dobj,obtain
+PersonX pays PersonY's electric bill,bill,bill,dobj,pay
+PersonX opens the door to PersonY,door,door,dobj,open
+PersonX is playing hide and seek,hide,hide,dobj,play
+PersonX loses all PersonX's money,money,money,dobj,lose
+PersonX opens the doors,door,door,dobj,open
+PersonX pays ___ for years,year,year,pobj,pay
+PersonX loses all of PersonX's money,money,money,pobj,lose
+PersonX kills the fatted calf,calf,calf,dobj,kill
+PersonX needs to get a job,job,job,dobj,get
+PersonX lies on the sidewalk,sidewalk,sidewalk,pobj,lie
+PersonX pays ___ at a rate,rate,rate,pobj,pay
+PersonX opens the package,package,package,dobj,open
+PersonX kills the spider,spider,spider,dobj,kill
+PersonX loses track of time,track,track,dobj,lose
+PersonX obtains ___ from sources,source,source,pobj,obtain
+PersonX pays PersonY's visit,visit,visit,dobj,pay
+PersonX opens the floodgates,floodgate,floodgate,dobj,open
+PersonX obtains ___ for analysis,analysis,analysis,pobj,obtain
+PersonX loses all the money,money,money,dobj,lose
+PersonX pays PersonY's bill,bill,bill,dobj,pay
+PersonX orders take out,order,order,nsubj,take
+PersonX overflows PersonY's banks,bank,bank,dobj,overflow
+PersonX knows every trick in the book,trick,trick,dobj,know
+PersonX knows every trick in the book,book,book,pobj,know
+PersonX pays ___ for the privilege,privilege,privilege,pobj,pay
+PersonX kicks with the other foot,foot,foot,pobj,kick
+PersonX makes PersonX's escape,escape,escape,dobj,make
+PersonX opens PersonX's big mouth,mouth,mouth,dobj,open
+PersonX outlives PersonX's usefulness,usefulness,usefulness,dobj,outlive
+PersonX pays ___ for the use,use,use,pobj,pay
+PersonX loses money,money,money,dobj,lose
+PersonX opens PersonX's curtains,curtain,curtain,dobj,open
+PersonX opens the letter,letter,letter,dobj,open
+PersonX pays PersonX's dues,due,due,dobj,pay
+PersonX kicks into touch,touch,touch,pobj,kick
+PersonX makes PersonY arrest,arrest,arrest,dobj,make
+PersonX opens the oven,oven,oven,dobj,open
+PersonX is watching the news,news,news,dobj,watch
+PersonX pays ___ for goods,good,good,pobj,pay
+PersonX kills the goose that lays the golden eggs,goose,goose,dobj,kill
+PersonX kills the goose that lays the golden eggs,egg,egg,dobj,lay
+PersonX opens PersonX's gift,gift,gift,dobj,open
+PersonX obtains PersonY understanding,understanding,understanding,dobj,obtain
+PersonX is trying to watch a movie,movie,movie,dobj,watch
+PersonX opens PersonY account,account,account,dobj,open
+PersonX learns how to throw a curveball,curveball,curveball,dobj,throw
+PersonX loses track of the time,track,track,dobj,lose
+PersonX is watching a scary movie,movie,movie,dobj,watch
+PersonX pays ___ to details,detail,detail,pobj,pay
+PersonX launches PersonY attack,attack,attack,dobj,launch
+PersonX loves watching television,television,television,dobj,watch
+PersonX opens the gift,gift,gift,dobj,open
+PersonX is watching a movie,movie,movie,dobj,watch
+PersonX kills two birds with PersonX stone,bird,bird,dobj,kill
+PersonX kills two birds with PersonX stone,stone,stone,pobj,kill
+PersonX makes PersonX's laws,law,law,dobj,make
+PersonX is throwing a party,party,party,dobj,throw
+PersonX not is able to get a word in edgeways,word,word,dobj,get
+PersonX not is able to get a word in edgeways,edgeway,edgeway,pobj,get
+PersonX loves watching movies,movie,movie,dobj,watch
+PersonX opens the envelope,envelope,envelope,dobj,open
+PersonX opens PersonX's own store,store,store,dobj,open
+PersonX is watching television,television,television,dobj,watch
+PersonX pays PersonX's respects,respect,respect,dobj,pay
+PersonX loses PersonY's money,money,money,dobj,lose
+PersonX jumps the gun,gun,gun,dobj,jump
+PersonX pays PersonY price,price,price,dobj,pay
+PersonX opens PersonY's eyes,eye,eye,dobj,open
+PersonX leaves the gate open,gate,gate,dobj,leave
+PersonX opens PersonY eyes,eye,eye,dobj,open
+PersonX is taken care of,care,care,dobj,take
+PersonX pays PersonY a visit,visit,visit,dobj,pay
+PersonX leaves the door open,door,door,dobj,leave
+PersonX opens PersonX's fridge,fridge,fridge,dobj,open
+PersonX pays PersonX's ___ to the king,king,king,pobj,pay
+PersonX learns how to give the ultimate pleasure,pleasure,pleasure,dobj,give
+PersonX pays PersonY taxes,taxis,taxis,dobj,pay
+PersonX leaves ___ on account,account,account,pobj,leave
+PersonX outlives PersonY's usefulness,usefulness,usefulness,dobj,outlive
+PersonX opens PersonY mouth,mouth,mouth,dobj,open
+PersonX keeps the money,money,money,dobj,keep
+PersonX pays ___ to the details,detail,detail,pobj,pay
+PersonX kicks the can down the road,can,can,dobj,kick
+PersonX kicks the can down the road,road,road,pobj,kick
+PersonX makes PersonY use,use,use,dobj,make
+PersonX overthrows the ___ by force,force,force,pobj,overthrow
+PersonX is taken to the hospital,hospital,hospital,pobj,take
+PersonX opens PersonX's presents,present,present,dobj,open
+PersonX pays ___ in advance,advance,advance,pobj,pay
+PersonX makes PersonY assault,assault,assault,dobj,make
+PersonX opens the windows,window,window,dobj,open
+PersonX joins forces,force,force,dobj,join
+PersonX opens PersonX's legs,leg,leg,dobj,open
+PersonX lays down the law,law,law,dobj,lay
+PersonX opens PersonY door,door,door,dobj,open
+PersonX makes PersonY payment,payment,payment,dobj,make
+PersonX owes PersonY money,money,money,dobj,owe
+PersonX keeps PersonY's eyes open,eye,eye,dobj,keep
+PersonX pays ___ to information,information,information,pobj,pay
+PersonX locks PersonX's keys in PersonX's car,key,key,dobj,lock
+PersonX locks PersonX's keys in PersonX's car,car,car,pobj,lock
+PersonX opens the window,window,window,dobj,open
+PersonX opens PersonX's mouths,mouth,mouth,dobj,open
+PersonX pays PersonY's water bill,water_bill,bill,dobj,pay
+PersonX licks PersonX's wounds,wound,wound,dobj,lick
+PersonX makes PersonY's laws,law,law,dobj,make
+PersonX opens PersonY's car,car,car,dobj,open
+PersonX opens PersonX's own shop,shop,shop,dobj,open
+PersonX joins the track team,track_team,team,dobj,join
+PersonX lends PersonY money,money,money,dobj,lend
+PersonX opens PersonX's gifts,gift,gift,dobj,open
+PersonX makes PersonY's breakfast,breakfast,breakfast,dobj,make
+PersonX opens PersonY's curtains,curtain,curtain,dobj,open
+PersonX pays ___ on demand,demand,demand,pobj,pay
+PersonX opens PersonX's own business,business,business,dobj,open
+PersonX lends PersonY the money,money,money,dobj,lend
+PersonX loses all of PersonY's money,money,money,pobj,lose
+PersonX passes PersonY law,law,law,dobj,pass
+PersonX makes oatmeal for breakfast,breakfast,breakfast,pobj,make
+PersonX pays PersonX's cable bill,cable_bill,bill,dobj,pay
+PersonX opens PersonX's car,car,car,dobj,open
+PersonX opens PersonY's doors,door,door,dobj,open
+PersonX owes money,money,money,dobj,owe
+PersonX makes PersonY money,money,money,dobj,make
+PersonX pays ___ to issues,issue,issue,pobj,pay
+PersonX opens PersonY's door,door,door,dobj,open
+PersonX keeps track of PersonY,track,track,dobj,keep
+PersonX makes ___ for breakfast,breakfast,breakfast,pobj,make
+PersonX pays ___ to the problems,problem,problem,pobj,pay
+PersonX lies beyond the scope,scope,scope,pobj,lie
+PersonX opens PersonY's arms,arm,arm,dobj,open
+PersonX keeps track of the number,track,track,dobj,keep
+PersonX keeps track of the number,number,number,pobj,keep
+PersonX makes a clean break,break,break,dobj,make
+PersonX opens PersonX's mouth wide,mouth,mouth,dobj,open
+PersonX pays PersonX's expenses,expense,expense,dobj,pay
+PersonX keeps my eyes open,eye,eye,dobj,keep
+PersonX lies ___ by side,side,side,pobj,lie
+PersonX orders takeout,order,order,nsubj,takeout
+PersonX makes an account,account,account,dobj,make
+PersonX pays ___ to problems,problem,problem,pobj,pay
+PersonX lets sleeping dogs lie,dog,dog,dobj,sleep
+PersonX opens PersonY's legs,leg,leg,dobj,open
+PersonX kicks PersonY out of the house,house,house,pobj,kick
+PersonX makes a killing,killing,killing,dobj,make
+PersonX pays ___ in class,class,class,pobj,pay
+PersonX pulls up stakes,stake,stake,dobj,pull
+PersonX puts ___ to good use,use,use,pobj,put
+PersonX pulls PersonY's hand back,hand,hand,dobj,pull
+PersonX points a gun at PersonY,gun,gun,dobj,point
+PersonX returns the money,money,money,dobj,return
+PersonX sells books,book,book,dobj,sell
+PersonX pulls PersonY's head back,head,head,dobj,pull
+PersonX pays a lot of money,money,money,pobj,pay
+PersonX sells PersonY's car,car,car,dobj,sell
+PersonX pulls PersonY's hair,hair,hair,dobj,pull
+PersonX pisses money up the wall,money,money,dobj,piss
+PersonX pisses money up the wall,wall,wall,dobj,piss
+PersonX rubs salt in the wound,rub,rub,nsubj,salt
+PersonX rubs salt in the wound,wound,wound,pobj,salt
+PersonX plays tricks,trick,trick,dobj,play
+PersonX pushes PersonX's luck,luck,luck,dobj,push
+PersonX pulls the car over,car,car,dobj,pull
+PersonX saves so much money,money,money,dobj,save
+PersonX plays kickball,kickball,kickball,dobj,play
+PersonX pulls PersonY's head,head,head,dobj,pull
+PersonX sells ___ on craigslist,craigslist,craigslist,pobj,sell
+PersonX robs the cradle,cradle,cradle,dobj,rob
+PersonX sells ice to eskimos,ice,ice,dobj,sell
+PersonX sells ice to eskimos,eskimo,eskimo,pobj,sell
+PersonX pays bills,bill,bill,dobj,pay
+PersonX pulls PersonY's pants,pant,pant,dobj,pull
+PersonX receives PersonX's first paycheck,paycheck,paycheck,dobj,receive
+PersonX sells the ___ at a price,price,price,pobj,sell
+PersonX pours gasoline on the fire,gasoline,gasoline,dobj,pour
+PersonX pours gasoline on the fire,fire,fire,pobj,pour
+PersonX pushes PersonX's ___ through the crowd,crowd,crowd,pobj,push
+PersonX pulls PersonY to PersonY's feet,foot,foot,pobj,pull
+PersonX saves PersonY money,money,money,dobj,save
+PersonX sells lemonade,lemonade,lemonade,dobj,sell
+PersonX pushes the door open,door,door,dobj,push
+PersonX saves money,money,money,dobj,save
+PersonX sells PersonY's land,land,land,dobj,sell
+PersonX pushes PersonY over the edge,edge,edge,pobj,push
+PersonX saves PersonY's money,money,money,dobj,save
+PersonX pulls ___ to safety,safety,safety,pobj,pull
+PersonX pours fuel on the fire,fuel,fuel,dobj,pour
+PersonX pours fuel on the fire,fire,fire,pobj,pour
+PersonX pulls ___ out of PersonY's pocket,pocket,pocket,pobj,pull
+PersonX pushes PersonY's tongue,tongue,tongue,dobj,push
+PersonX saves up enough money,money,money,dobj,save
+PersonX pulls PersonY's bacon out of the fire,bacon,bacon,dobj,pull
+PersonX pulls PersonY's bacon out of the fire,fire,fire,pobj,pull
+PersonX pushes PersonY's hair,hair,hair,dobj,push
+PersonX pushes the boat out,boat,boat,dobj,push
+PersonX sells cookies,cooky,cooky,dobj,sell
+PersonX puts it under PersonY's pillow,pillow,pillow,pobj,put
+PersonX saves money on bread,money,money,dobj,save
+PersonX saves money on bread,bread,bread,pobj,save
+PersonX sells candy bars,candy_bar,bar,dobj,sell
+PersonX plays tricks on PersonY,trick,trick,dobj,play
+PersonX pulls PersonY's knees,knee,knee,dobj,pull
+PersonX saves more money,money,money,dobj,save
+PersonX sells the car,car,car,dobj,sell
+PersonX pays all PersonY's bills,bill,bill,dobj,pay
+PersonX pulls ___ over PersonY's head,head,head,pobj,pull
+PersonX pushes PersonY on the ground,ground,ground,pobj,push
+PersonX saves up PersonY's money,money,money,dobj,save
+PersonX pushes up daisies,daisy,daisy,dobj,push
+PersonX sells tickets,ticket,ticket,dobj,sell
+PersonX presents PersonY account,account,account,dobj,present
+PersonX puts PersonY in jail,jail,jail,pobj,put
+PersonX runs around like a chicken with its head cut off,chicken,chicken,pobj,run
+PersonX runs around like a chicken with its head cut off,head,head,nsubj,cut
+PersonX pulls PersonY's hand away,hand,hand,dobj,pull
+PersonX screams blue murder,murder,murder,dobj,scream
+PersonX punches ___ in the face,face,face,pobj,punch
+PersonX puts PersonY in prison,prison,prison,pobj,put
+PersonX sends PersonY to prison,prison,prison,pobj,send
+PersonX prevents PersonY's escape,escape,escape,dobj,prevent
+PersonX pulls away from PersonY's home,home,home,pobj,pull
+PersonX pushes PersonY's hips,hip,hip,dobj,push
+PersonX puts PersonX's money where PersonX's mouth is,money,money,dobj,put
+PersonX puts PersonX's money where PersonX's mouth is,mouth,mouth,nsubj,put
+PersonX scrambles eggs for breakfast,egg,egg,dobj,scramble
+PersonX scrambles eggs for breakfast,breakfast,breakfast,pobj,scramble
+PersonX pounds a beat,beat,beat,dobj,pound
+PersonX pushes PersonY's chair,chair,chair,dobj,push
+PersonX puts out a fire,fire,fire,dobj,put
+PersonX saves the money,money,money,dobj,save
+PersonX pays all PersonX's bills,bill,bill,dobj,pay
+PersonX pushes PersonY's ___ through the crowd,crowd,crowd,pobj,push
+PersonX protects the ___ from damage,damage,damage,pobj,protect
+PersonX pushes PersonY's head,head,head,dobj,push
+PersonX sees how the land lies,land,land,nsubj,lie
+PersonX sends PersonY money,money,money,dobj,send
+PersonX pushes against an open door,door,door,pobj,push
+PersonX saves a lot of money,money,money,pobj,save
+PersonX sends an email,email,email,dobj,send
+PersonX pays money,money,money,dobj,pay
+PersonX pulls ___ into PersonY's arms,arm,arm,pobj,pull
+PersonX pushes PersonY's fingers,finger,finger,dobj,push
+PersonX puts ___ under PersonX's pillow,pillow,pillow,pobj,put
+PersonX screams bloody murder,murder,murder,dobj,scream
+PersonX pulls ___ to the side of the road,side,side,pobj,pull
+PersonX pulls ___ to the side of the road,road,road,pobj,pull
+PersonX sees ___ on fire,fire,fire,pobj,see
+PersonX pushes PersonY's hands,hand,hand,dobj,push
+PersonX puts PersonY's money,money,money,dobj,put
+PersonX seizes ___ by force,force,force,pobj,seize
+PersonX pulls ___ out of the water,water,water,pobj,pull
+PersonX sells PersonX's ___ at a price,price,price,pobj,sell
+PersonX sends money ___,money,money,dative,send
+PersonX puts money,money,money,dobj,put
+PersonX sentences to prison,sentence,sentence,ROOT,
+PersonX sentences to prison,prison,prison,pobj,
+PersonX pulls an all-nighter to study,nighter,nighter,dobj,pull
+PersonX punches below PersonX's weight,weight,weight,pobj,punch
+PersonX sells PersonY's ___ at prices,price,price,pobj,sell
+PersonX puts it under PersonX's pillow,pillow,pillow,pobj,put
+PersonX sees an opening,opening,opening,dobj,see
+PersonX prevents PersonY's use,use,use,dobj,prevent
+PersonX pulls a face,face,face,dobj,pull
+PersonX raises a lot of money,money,money,pobj,raise
+PersonX pushes open the door,door,door,dobj,open
+PersonX sends PersonY an email,email,email,dobj,send
+PersonX pulls a muscle,muscle,muscle,dobj,pull
+PersonX puts the money,money,money,dobj,put
+PersonX sells PersonX's ___ for money,money,money,pobj,sell
+PersonX serves without pay,pay,pay,pobj,serve
+PersonX raises PersonY's hackles,hackle,hackle,dobj,raise
+PersonX seizes the ___ by force,force,force,pobj,seize
+PersonX protects the ___ from attack,attack,attack,pobj,protect
+PersonX pulls an all-nighter,nighter,nighter,dobj,pull
+PersonX shoots PersonX's bolt,bolt,bolt,dobj,shoot
+PersonX puts ___ in the bank,bank,bank,pobj,put
+PersonX pulls ___ out of the oven,oven,oven,pobj,pull
+PersonX raises the money,money,money,dobj,raise
+PersonX pushes ___ on the ground,ground,ground,pobj,push
+PersonX scrambles ___ for breakfast,breakfast,breakfast,pobj,scramble
+PersonX pulls a prank,prank,prank,dobj,pull
+PersonX provides PersonY account,account,account,dobj,provide
+PersonX realizes PersonY forgot PersonX's wallet,wallet,wallet,dobj,forget
+PersonX sends to jail,jail,jail,pobj,send
+PersonX pulls a rabbit out of a hat,rabbit,rabbit,dobj,pull
+PersonX pulls a rabbit out of a hat,hat,hat,pobj,pull
+PersonX sells PersonX's ___ at the price,price,price,pobj,sell
+PersonX puts PersonX's money,money,money,dobj,put
+PersonX puts the fire out,fire,fire,dobj,put
+PersonX sells PersonX's ___ at prices,price,price,pobj,sell
+PersonX sets ___ on fire,fire,fire,pobj,set
+PersonX pushes ___ into the pool,pool,pool,pobj,push
+PersonX prevents PersonY attack,attack,attack,dobj,prevent
+PersonX sees a police car,police_car,car,dobj,see
+PersonX pulls ___ from PersonY's pocket,pocket,pocket,pobj,pull
+PersonX receives an email,email,email,dobj,receive
+PersonX sells PersonX's ___ to the devil,devil,devil,pobj,sell
+PersonX sets the world on fire,world,world,dobj,set
+PersonX sets the world on fire,fire,fire,pobj,set
+PersonX sells PersonX's collection,collection,collection,dobj,sell
+PersonX serves ___ in prison,prison,prison,pobj,serve
+PersonX pulls over to the side of the road,side,side,pobj,pull
+PersonX pulls over to the side of the road,road,road,pobj,pull
+PersonX produces ___ for use,use,use,pobj,produce
+PersonX raises ___ by taxation,taxation,taxation,pobj,raise
+PersonX pushes the car,car,car,dobj,push
+PersonX sells PersonX's ___ to the bidder,bidder,bidder,pobj,sell
+PersonX pays PersonY's medical bills,bill,bill,dobj,pay
+PersonX sets PersonY's ___ on fire,fire,fire,pobj,set
+PersonX sets PersonX's hair on fire,hair,hair,dobj,set
+PersonX sets PersonX's hair on fire,fire,fire,pobj,set
+PersonX raises money,money,money,dobj,raise
+PersonX sets the ___ on fire,fire,fire,pobj,set
+PersonX sells PersonX's body,body,body,dobj,sell
+PersonX poses PersonY threat,threat,threat,dobj,pose
+PersonX pulls an allnighter,allnighter,allnighter,dobj,pull
+PersonX pays ___ to the state,state,state,pobj,pay
+PersonX sets PersonX's ___ on fire,fire,fire,pobj,set
+PersonX sells PersonX's goods,good,good,dobj,sell
+PersonX pays rent,rent,rent,dobj,pay
+PersonX pulls teeth,tooth,tooth,dobj,pull
+PersonX publishes PersonY account,account,account,dobj,publish
+PersonX sells PersonX's soul,soul,soul,dobj,sell
+PersonX pays ___ to the government,government,government,pobj,pay
+PersonX sets the thames on fire,thame,thame,dobj,set
+PersonX sets the thames on fire,fire,fire,pobj,set
+PersonX provides ___ to users,user,user,pobj,provide
+PersonX pulls out PersonY's cell phone,cell_phone,phone,dobj,pull
+PersonX pays ___ to the needs,need,need,pobj,pay
+PersonX sells PersonX's old car,car,car,dobj,sell
+PersonX pays the cashier,cashier,cashier,dobj,pay
+PersonX pulls PersonX's finger out,finger,finger,dobj,pull
+PersonX pulls oneself up by PersonX's bootstraps,bootstrap,bootstrap,pobj,pull
+PersonX pays ___ to the problem,problem,problem,pobj,pay
+PersonX sells PersonY a bill of goods,bill,bill,dobj,sell
+PersonX sells PersonY a bill of goods,good,good,pobj,sell
+PersonX shoots a three pointer,pointer,pointer,dobj,shoot
+PersonX pulls out PersonY's phone,phone,phone,dobj,pull
+PersonX provides ___ with access,access,access,pobj,provide
+PersonX sells PersonX's products,product,product,dobj,sell
+PersonX sets fire to PersonY,fire,fire,dobj,set
+PersonX pays the fee,fee,fee,dobj,pay
+PersonX pulls rank,rank,rank,dobj,pull
+PersonX pulls PersonX's car over,car,car,dobj,pull
+PersonX pays ___ to the king,king,king,pobj,pay
+PersonX sells PersonX's property,property,property,dobj,sell
+PersonX pays a big fine,fine,fine,dobj,pay
+PersonX sets fire to the house,fire,fire,dobj,set
+PersonX sets fire to the house,house,house,pobj,set
+PersonX pays the piper,piper,piper,dobj,pay
+PersonX pulls a prank on PersonY,prank,prank,dobj,pull
+PersonX protects ___ from damage,damage,damage,pobj,protect
+PersonX repairs the damage,damage,damage,dobj,repair
+PersonX pays ___ to the emperor,emperor,emperor,pobj,pay
+PersonX sells PersonX's motorcycle,motorcycle,motorcycle,dobj,sell
+PersonX sells PersonY's ___ at a price,price,price,pobj,sell
+PersonX pulls the trigger,trigger,trigger,dobj,pull
+PersonX raises enough money,money,money,dobj,raise
+PersonX sells PersonX's jewelry,jewelry,jewelry,dobj,sell
+PersonX pulls PersonX's socks up,sock,sock,dobj,pull
+PersonX pays the freight,freight,freight,dobj,pay
+PersonX shoots a deer,deer,deer,dobj,shoot
+PersonX pulls out of the hat,hat,hat,pobj,pull
+PersonX puts ___ under PersonY's pillow,pillow,pillow,pobj,put
+PersonX pays all of PersonX's bills,bill,bill,pobj,pay
+PersonX sells PersonY's ___ for money,money,money,pobj,sell
+PersonX performs tricks,trick,trick,dobj,perform
+PersonX pulls PersonX's weight,weight,weight,dobj,pull
+PersonX pulls the other leg,leg,leg,dobj,pull
+PersonX sells PersonY into slavery,slavery,slavery,pobj,sell
+PersonX pays the money,money,money,dobj,pay
+PersonX protects ___ from abuse,abuse,abuse,pobj,protect
+PersonX pulls pranks,prank,prank,dobj,pull
+PersonX sets it on fire,fire,fire,pobj,set
+PersonX sells PersonX's land,land,land,dobj,sell
+PersonX pays the bills,bill,bill,dobj,pay
+PersonX shoots off at the mouth,mouth,mouth,pobj,shoot
+PersonX sells PersonY's ___ at the price,price,price,pobj,sell
+PersonX pays the fiddler,fiddler,fiddler,dobj,pay
+PersonX pulls out all the stops,stop,stop,dobj,pull
+PersonX reads PersonY account,account,account,dobj,read
+PersonX shoots a gun,gun,gun,dobj,shoot
+PersonX pays a ___ for the privilege,privilege,privilege,pobj,pay
+PersonX sells PersonY's ___ in the market,market,market,pobj,sell
+PersonX shoots PersonX's load,load,load,dobj,shoot
+PersonX pays through the nose,nose,nose,pobj,pay
+PersonX pays dividends,dividend,dividend,dobj,pay
+PersonX pulls PersonY's shirt,shirt,shirt,dobj,pull
+PersonX renders PersonY account,account,account,dobj,render
+PersonX sells ___ to the public,public,public,pobj,sell
+PersonX saves some money,money,money,dobj,save
+PersonX pays the ticket,ticket,ticket,dobj,pay
+PersonX resists ___ by force,force,force,pobj,resist
+PersonX shoots first and ask questions later,question,question,dobj,ask
+PersonX plays ___ chess online,chess,chess,dobj,play
+PersonX shoots oneself in the foot,foot,foot,pobj,shoot
+PersonX pays attention to details,detail,detail,pobj,pay
+PersonX sells PersonY's collection,collection,collection,dobj,sell
+PersonX pulls the ___ over PersonX's eyes,eye,eye,pobj,pull
+PersonX pays PersonY's respects,respect,respect,dobj,pay
+PersonX sells ___ at prices,price,price,pobj,sell
+PersonX pays the rent,rent,rent,dobj,pay
+PersonX pulls PersonY into PersonY's arms,arm,arm,pobj,pull
+PersonX pushes PersonY's hand,hand,hand,dobj,push
+PersonX pulls the car,car,car,dobj,pull
+PersonX shoulds break up,should,should,nsubj,break
+PersonX sells PersonX's wares,ware,ware,dobj,sell
+PersonX picks a fight,fight,fight,dobj,pick
+PersonX punches PersonY's lights out,light,light,dobj,punch
+PersonX pulls PersonY's hands,hand,hand,dobj,pull
+PersonX rediscovers fire,rediscover_fire,fire,ROOT,
+PersonX sells ___ at a price,price,price,pobj,sell
+PersonX punches PersonY in the face,face,face,pobj,punch
+PersonX pulls PersonY into a hug,hug,hug,pobj,pull
+PersonX refers the ___ to the court,court,court,pobj,refer
+PersonX slams on the breaks,break,break,pobj,slam
+PersonX sells PersonY's ___ for a mess,mess,mess,pobj,sell
+PersonX pays cash,cash,cash,dobj,pay
+PersonX skips a beat,beat,beat,dobj,skip
+PersonX plays a trick,trick,trick,dobj,play
+PersonX pulls punches,punch,punch,dobj,pull
+PersonX slaps PersonY in the face,face,face,pobj,slap
+PersonX pulls PersonX's punches,punch,punch,dobj,pull
+PersonX sells PersonY's goods,good,good,dobj,sell
+PersonX pulls PersonY to safety,safety,safety,pobj,pull
+PersonX resists PersonY attack,attack,attack,dobj,resist
+PersonX pays for PersonY's services,service,service,pobj,pay
+PersonX shoots the ball,ball,ball,dobj,shoot
+PersonX sells ___ on amazon,amazon,amazon,pobj,sell
+PersonX pays a visit,visit,visit,dobj,pay
+PersonX reports ___ to the police,police,police,pobj,report
+PersonX pulls the tooth,tooth,tooth,dobj,pull
+PersonX slaps PersonY's face,face,face,dobj,slap
+PersonX pays off PersonX's debts,debt,debt,dobj,pay
+PersonX pulls weeds,weed,weed,dobj,pull
+PersonX rips open ___,rip,rip,nsubj,open
+PersonX spends ___ in jail,jail,jail,pobj,spend
+PersonX pays PersonY indemnity,indemnity,indemnity,dobj,pay
+PersonX sells PersonY's wares,ware,ware,dobj,sell
+PersonX pulls PersonY's arm,arm,arm,dobj,pull
+PersonX receives PersonY payment,payment,payment,dobj,receive
+PersonX pays taxes,taxis,taxis,dobj,pay
+PersonX slaps PersonY on the back,back,back,pobj,slap
+PersonX sells PersonY's home,home,home,dobj,sell
+PersonX pays all of PersonY's bills,bill,bill,pobj,pay
+PersonX pulls PersonY's hand,hand,hand,dobj,pull
+PersonX pulls up stumps,stump,stump,dobj,pull
+PersonX reports the ___ to the police,police,police,pobj,report
+PersonX spends ___ in prison,prison,prison,pobj,spend
+PersonX sells PersonY's products,product,product,dobj,sell
+PersonX punches above PersonX's weight,weight,weight,pobj,punch
+PersonX pulls PersonY's car over,car,car,dobj,pull
+PersonX repels ___ by force,force,force,pobj,repel
+PersonX prepares for PersonY attack,attack,attack,pobj,prepare
+PersonX sells PersonY's ___ to the bidder,bidder,bidder,pobj,sell
+PersonX picks a fight with PersonY,fight,fight,dobj,pick
+PersonX pulls PersonY's car,car,car,dobj,pull
+PersonX punches PersonY in the eye,eye,eye,pobj,punch
+PersonX shoots the messenger,messenger,messenger,dobj,shoot
+PersonX sells PersonY's house,house,house,dobj,sell
+PersonX plays with fire,fire,fire,pobj,play
+PersonX repels PersonY attack,attack,attack,dobj,repel
+PersonX spends a night in jail,night,night,dobj,spend
+PersonX spends a night in jail,jail,jail,pobj,spend
+PersonX saves all PersonX's money,money,money,dobj,save
+PersonX plays an online game,game,game,dobj,play
+PersonX pulls PersonY's leg,leg,leg,dobj,pull
+PersonX robs the bank,bank,bank,dobj,rob
+PersonX pulls the rug out from under PersonY,rug,rug,dobj,pull
+PersonX sells PersonX's ___ in the market,market,market,pobj,sell
+PersonX pulls PersonY's legs,leg,leg,dobj,pull
+PersonX plays kick ball,ball,ball,dobj,kick
+PersonX pulls the wool over PersonY's eyes,wool,wool,dobj,pull
+PersonX pulls the wool over PersonY's eyes,eye,eye,pobj,pull
+PersonX robs a bank,bank,bank,dobj,rob
+PersonX sends PersonY a copy,copy,copy,dobj,send
+PersonX points a gun,gun,gun,dobj,point
+PersonX pulls PersonY's fingers out,finger,finger,dobj,pull
+PersonX punches ___ in the eye,eye,eye,pobj,punch
+PersonX saves enough money,money,money,dobj,save
+PersonX sells ___ on the street,street,street,pobj,sell
+PersonX pays the bill,bill,bill,dobj,pay
+PersonX pulls PersonY's fingers,finger,finger,dobj,pull
+PersonX pulls PersonY's face,face,face,dobj,pull
+PersonX rubs salt in PersonY's wounds,rub,rub,nsubj,salt
+PersonX rubs salt in PersonY's wounds,wound,wound,pobj,salt
+PersonX takes PersonY form,form,form,dobj,take
+PersonX takes PersonX's hand in PersonY's,hand,hand,dobj,take
+PersonX spends the ___ in jail,jail,jail,pobj,spend
+PersonX takes PersonY's hand,hand,hand,dobj,take
+PersonX takes ___ at home,home,home,pobj,take
+PersonX takes ___ of the situation,situation,situation,pobj,take
+PersonX takes ___ on a field trip,field_trip,trip,pobj,take
+PersonX steals PersonY's money,money,money,dobj,steal
+PersonX takes PersonY home,home,home,dobj,take
+PersonX takes PersonY's food,food,food,dobj,take
+PersonX takes ___ during the years,year,year,pobj,take
+PersonX takes ___ on a vacation,vacation,vacation,pobj,take
+PersonX spends all of PersonX's money,money,money,pobj,spend
+PersonX takes PersonY inventory,inventory,inventory,dobj,take
+PersonX takes PersonX's hours,hour,hour,dobj,take
+PersonX takes PersonY oath,oath,oath,dobj,take
+PersonX stabs in the back,stab,stab,ROOT,
+PersonX stabs in the back,back,back,pobj,
+PersonX takes ___ on a trip,trip,trip,pobj,take
+PersonX takes ___ during the period,period,period,pobj,take
+PersonX takes PersonY in PersonZ arms,arm,arm,pobj,take
+PersonX starts a food fight,food_fight,fight,dobj,start
+PersonX takes ___ out on a date,date,date,pobj,take
+PersonX takes PersonY on a date,date,date,pobj,take
+PersonX takes PersonY's kite,kite,kite,dobj,take
+PersonX starts saving money,money,money,dobj,save
+PersonX takes PersonY degree,degree,degree,dobj,take
+PersonX takes PersonY's hands,hand,hand,dobj,take
+PersonX spends too much money,money,money,dobj,spend
+PersonX takes PersonY's revenge,revenge,revenge,dobj,take
+PersonX takes ___ out of the oven,oven,oven,pobj,take
+PersonX takes PersonY interest,interest,interest,dobj,take
+PersonX spends the night in jail,night,night,dobj,spend
+PersonX spends the night in jail,jail,jail,pobj,spend
+PersonX takes PersonX's hand in PersonZ's,hand,hand,dobj,take
+PersonX takes ___ in the campaign,campaign,campaign,pobj,take
+PersonX takes ___ out for dinner,dinner,dinner,pobj,take
+PersonX takes PersonY out to lunch,lunch,lunch,pobj,take
+PersonX starts a fight with PersonY,fight,fight,dobj,start
+PersonX takes PersonY's degree,degree,degree,dobj,take
+PersonX takes ___ on walks,walk,walk,pobj,take
+PersonX takes PersonY opportunity,opportunity,opportunity,dobj,take
+PersonX starts a fight,fight,fight,dobj,start
+PersonX takes PersonY's temperature,temperature,temperature,dobj,take
+PersonX takes ___ of the opportunities,opportunity,opportunity,pobj,take
+PersonX takes PersonY measures,measure,measure,dobj,take
+PersonX takes PersonY's girlfriend out to dinner,dinner,dinner,pobj,take
+PersonX steals PersonY's wallet,wallet,wallet,dobj,steal
+PersonX takes ___ out on the lake,lake,lake,pobj,take
+PersonX takes PersonY's advice,advice,advice,dobj,take
+PersonX takes PersonX's dog to the dog park,dog,dog,dobj,take
+PersonX takes PersonX's dog to the dog park,dog_park,park,pobj,take
+PersonX takes PersonX's shot,shot,shot,dobj,take
+PersonX takes PersonY's head off,head,head,dobj,take
+PersonX steals PersonY's thunder,thunder,thunder,dobj,steal
+PersonX takes ___ in PersonX's stride,stride,stride,pobj,take
+PersonX takes ___ out of the freezer,freezer,freezer,pobj,take
+PersonX takes PersonX's position,position,position,dobj,take
+PersonX takes PersonY out for dinner,dinner,dinner,pobj,take
+PersonX slaps PersonY's hand,hand,hand,dobj,slap
+PersonX takes PersonY's hand in PersonZ's,hand,hand,dobj,take
+PersonX steals PersonY's purse,purse,purse,dobj,steal
+PersonX takes ___ out of the refrigerator,refrigerator,refrigerator,pobj,take
+PersonX takes PersonY's boat,boat,boat,dobj,take
+PersonX shops online,shop,shop,ROOT,
+PersonX takes PersonY's home,home,home,dobj,take
+PersonX steals ___ from the store,store,store,pobj,steal
+PersonX takes PersonY role,role,role,dobj,take
+PersonX takes ___ every night,night,night,npadvmod,take
+PersonX takes ___ out of the box,box,box,pobj,take
+PersonX takes PersonX's hat off to ___,hat,hat,dobj,take
+PersonX takes PersonY notice,notice,notice,dobj,take
+PersonX takes ___ out to lunch,lunch,lunch,pobj,take
+PersonX takes PersonY on a hike,hike,hike,pobj,take
+PersonX slowly opened PersonY's eyes,eye,eye,dobj,open
+PersonX spends more money,money,money,dobj,spend
+PersonX takes ___ in college,college,college,pobj,take
+PersonX takes ___ to PersonX's favorite restaurant,restaurant,restaurant,pobj,take
+PersonX sets PersonY on fire,fire,fire,pobj,set
+PersonX takes PersonY's mom 's advice,advice,advice,dobj,take
+PersonX steals PersonY's bike,bike,bike,dobj,steal
+PersonX takes PersonX's lumps,lump,lump,dobj,take
+PersonX sells the house,house,house,dobj,sell
+PersonX takes PersonX's mom 's advice,advice,advice,dobj,take
+PersonX takes PersonY on a trip,trip,trip,pobj,take
+PersonX takes PersonY's laptop,laptop,laptop,dobj,take
+PersonX steals PersonY's lunch,lunch,lunch,dobj,steal
+PersonX takes ___ for ice cream,ice_cream,cream,pobj,take
+PersonX sends money,money,money,dobj,send
+PersonX takes ___ to PersonX's house,house,house,pobj,take
+PersonX takes PersonY on board,board,board,pobj,take
+PersonX takes PersonX's lunch,lunch,lunch,dobj,take
+PersonX takes ___ on a date,date,date,pobj,take
+PersonX takes ___ everyday,everyday,everyday,advmod,take
+PersonX takes PersonY to church,church,church,pobj,take
+PersonX takes ___ on a walk,walk,walk,pobj,take
+PersonX skips breakfast,breakfast,breakfast,dobj,skip
+PersonX steals a glance,glance,glance,dobj,steal
+PersonX takes PersonY's hours,hour,hour,dobj,take
+PersonX takes ___ for a drive,drive,drive,pobj,take
+PersonX spends a lot of money,money,money,pobj,spend
+PersonX takes PersonX's revenge,revenge,revenge,dobj,take
+PersonX steals a car,car,car,dobj,steal
+PersonX steals PersonY's car,car,car,dobj,steal
+PersonX spends PersonY money,money,money,dobj,spend
+PersonX takes PersonY out to dinner,dinner,dinner,pobj,take
+PersonX takes PersonY's medicine,medicine,medicine,dobj,take
+PersonX spends PersonY's money,money,money,dobj,spend
+PersonX takes PersonY by surprise,surprise,surprise,pobj,take
+PersonX takes PersonX's toddler,toddler,toddler,dobj,take
+PersonX stops PersonY in his tracks,track,track,pobj,stop
+PersonX takes ___ for a walk,walk,walk,pobj,take
+PersonX takes ___ to a restaurant,restaurant,restaurant,pobj,take
+PersonX takes PersonY's name,name,name,dobj,take
+PersonX takes PersonY advice,advice,advice,dobj,take
+PersonX steals money,money,money,dobj,steal
+PersonX takes PersonX's pick,pick,pick,dobj,take
+PersonX spends money,money,money,dobj,spend
+PersonX takes PersonX's stand,stand,stand,dobj,take
+PersonX takes PersonY's shopping,shopping,shopping,dobj,take
+PersonX sells a car,car,car,dobj,sell
+PersonX takes PersonX's share,share,share,dobj,take
+PersonX takes PersonY's phone,phone,phone,dobj,take
+PersonX takes PersonY position,position,position,dobj,take
+PersonX steals the ball,ball,ball,dobj,steal
+PersonX takes ___ in PersonY's hands,hand,hand,pobj,take
+PersonX spends all of PersonY's money,money,money,pobj,spend
+PersonX takes ___ in the year,year,year,pobj,take
+PersonX takes PersonY seat,seat,seat,dobj,take
+PersonX takes PersonX's seats,seat,seat,dobj,take
+PersonX takes ___ in the morning,morning,morning,pobj,take
+PersonX takes ___ out for a walk,walk,walk,pobj,take
+PersonX takes PersonY's order,order,order,dobj,take
+PersonX steals the money,money,money,dobj,steal
+PersonX takes PersonY 's hand,hand,hand,dobj,take
+PersonX takes ___ in activities,activity,activity,pobj,take
+PersonX takes ___ to PersonY's house,house,house,pobj,take
+PersonX sits by the fire,fire,fire,pobj,sit
+PersonX takes PersonY to bed,bed,bed,pobj,take
+PersonX takes PersonY's orders,order,order,dobj,take
+PersonX sticks the knife in ___,knife,knife,dobj,stick
+PersonX takes ___ in the future,future,future,pobj,take
+PersonX stabs PersonY in the back,back,back,pobj,
+PersonX takes PersonX's rest,rest,rest,dobj,take
+PersonX takes PersonY shopping,shopping,shopping,dobj,take
+PersonX takes PersonY's lunch,lunch,lunch,dobj,take
+PersonX stops the fight,fight,fight,dobj,stop
+PersonX takes ___ in the battle,battle,battle,pobj,take
+PersonX takes ___ to a bar,bar,bar,pobj,take
+PersonX takes PersonY responsibility,responsibility,responsibility,dobj,take
+PersonX spends so much money,money,money,dobj,spend
+PersonX takes PersonY's dog out,dog,dog,dobj,take
+PersonX slaps ___ in the face,face,face,pobj,slap
+PersonX takes ___ in high school,school,school,pobj,take
+PersonX spends any money,money,money,dobj,spend
+PersonX takes PersonY to the airport,airport,airport,pobj,take
+PersonX takes PersonX's outside,outside,outside,advmod,take
+PersonX takes ___ from work,work,work,pobj,take
+PersonX takes ___ out for a ride,ride,ride,pobj,take
+PersonX spends the money,money,money,dobj,spend
+PersonX takes PersonX's road test,road_test,test,dobj,take
+PersonX takes PersonY's stand,stand,stand,dobj,take
+PersonX takes PersonY to court,court,court,pobj,take
+PersonX shoots the bull,bull,bull,dobj,shoot
+PersonX takes ___ to a dog park,dog_park,park,pobj,take
+PersonX takes ___ in the discussion,discussion,discussion,pobj,take
+PersonX starts the fire,fire,fire,dobj,start
+PersonX takes PersonY to a bar,bar,bar,pobj,take
+PersonX takes ___ in the work,work,work,pobj,take
+PersonX starts a fire,fire,fire,dobj,start
+PersonX sticks to PersonX's guns,gun,gun,pobj,stick
+PersonX takes PersonY's shoes,shoe,shoe,dobj,take
+PersonX stops dead in PersonY's tracks,track,track,pobj,stop
+PersonX takes ___ in the process,process,process,pobj,take
+PersonX splits the money,money,money,dobj,split
+PersonX takes ___ to a shop,shop,shop,pobj,take
+PersonX takes PersonY risk,risk,risk,dobj,take
+PersonX stops in PersonY's tracks,track,track,pobj,stop
+PersonX takes ___ in stride,stride,stride,pobj,take
+PersonX takes ___ to a repair shop,repair_shop,shop,pobj,take
+PersonX steals the car,car,car,dobj,steal
+PersonX spends much money,money,money,dobj,spend
+PersonX stills hurt,still,still,nsubj,hurt
+PersonX takes PersonX's truck,truck,truck,dobj,take
+PersonX takes ___ in the past,past,past,pobj,take
+PersonX takes ___ to a movie,movie,movie,pobj,take
+PersonX takes PersonY money,money,money,dobj,take
+PersonX takes PersonY's shoes off,shoe,shoe,dobj,take
+PersonX takes ___ in the century,century,century,pobj,take
+PersonX takes PersonY to a doctor,doctor,doctor,pobj,take
+PersonX takes PersonY's anger,anger,anger,dobj,take
+PersonX takes PersonY's money,money,money,dobj,take
+PersonX takes ___ to a mechanic,mechanic,mechanic,pobj,take
+PersonX takes PersonY arm,arm,arm,dobj,take
+PersonX takes PersonY to the store,store,store,pobj,take
+PersonX stops watching the news,news,news,dobj,watch
+PersonX takes PersonY's truck,truck,truck,dobj,take
+PersonX suppresses the ___ by force,force,force,pobj,suppress
+PersonX takes ___ to a shelter,shelter,shelter,pobj,take
+PersonX takes PersonY to a movie,movie,movie,pobj,take
+PersonX takes PersonY's photo,photo,photo,dobj,take
+PersonX sues PersonX's boss,boss,boss,dobj,sue
+PersonX takes ___ in the struggle,struggle,struggle,pobj,take
+PersonX takes ___ to court,court,court,relcl,take
+PersonX takes PersonY at PersonZ's word,word,word,pobj,take
+PersonX takes PersonY view,view,view,dobj,take
+PersonX takes PersonY's shot,shot,shot,dobj,take
+PersonX takes PersonX's allowance,allowance,allowance,dobj,take
+PersonX takes ___ in the war,war,war,pobj,take
+PersonX takes PersonY to a shelter,shelter,shelter,pobj,take
+PersonX takes PersonY to the pound,pound,pound,pobj,take
+PersonX takes PersonY's students,student,student,dobj,take
+PersonX swings open the ___,swing,swing,nsubj,open
+PersonX takes ___ in the park,park,park,pobj,take
+PersonX takes PersonY to PersonX's favorite restaurant,restaurant,restaurant,pobj,take
+PersonX takes PersonY's picture,picture,picture,dobj,take
+PersonX takes PersonY to the zoo,zoo,zoo,pobj,take
+PersonX sues the company,company,company,dobj,sue
+PersonX takes ___ into PersonX's hands,hand,hand,pobj,take
+PersonX takes PersonY by the arm,arm,arm,pobj,take
+PersonX takes PersonY's seat,seat,seat,dobj,take
+PersonX takes PersonY to the shelter,shelter,shelter,pobj,take
+PersonX swings open,swing,swing,nsubj,open
+PersonX takes PersonY two hours,hour,hour,npadvmod,take
+PersonX takes PersonY's purse,purse,purse,dobj,take
+PersonX takes PersonY to the beach,beach,beach,pobj,take
+PersonX takes ___ last week,week,week,npadvmod,take
+PersonX takes PersonX's students,student,student,dobj,take
+PersonX takes PersonX's boat,boat,boat,dobj,take
+PersonX takes PersonY's stance,stance,stance,dobj,take
+PersonX takes ___ for a ride,ride,ride,pobj,take
+PersonX takes PersonY to see a doctor,doctor,doctor,dobj,see
+PersonX takes PersonY's arm,arm,arm,dobj,take
+PersonX swallows a bitter pill,pill,pill,dobj,swallow
+PersonX takes ___ last night,night,night,npadvmod,take
+PersonX takes PersonY to disney world,disney_world,world,pobj,take
+PersonX takes PersonY to the veterinarian,veterinarian,veterinarian,pobj,take
+PersonX takes PersonY's share,share,share,dobj,take
+PersonX takes PersonX's baby,baby,baby,dobj,take
+PersonX takes PersonY's toll,toll,toll,dobj,take
+PersonX takes PersonY's boat out,boat,boat,dobj,take
+PersonX takes ___ into PersonX's own hands,hand,hand,pobj,take
+PersonX takes PersonY to the doctor,doctor,doctor,pobj,take
+PersonX takes PersonY's watch off,watch,watch,dobj,take
+PersonX takes PersonY by the hand,hand,hand,pobj,take
+PersonX takes PersonY's cat to the vet,cat,cat,dobj,take
+PersonX takes PersonY's cat to the vet,vet,vet,pobj,take
+PersonX takes ___ of changes,change,change,pobj,take
+PersonX takes PersonY account,account,account,dobj,take
+PersonX takes PersonY stand,stand,stand,dobj,take
+PersonX takes PersonY's test,test,test,dobj,take
+PersonX takes PersonY to jail,jail,jail,pobj,take
+PersonX takes PersonX's phone out,phone,phone,dobj,take
+PersonX takes PersonY's car,car,car,dobj,take
+PersonX takes ___ across the country,country,country,pobj,take
+PersonX takes PersonY in PersonY's arms,arm,arm,pobj,take
+PersonX takes PersonX's eye off the ball,eye,eye,dobj,take
+PersonX takes PersonX's eye off the ball,ball,ball,pobj,take
+PersonX takes ___ into account,account,account,pobj,take
+PersonX takes PersonY attitude,attitude,attitude,dobj,take
+PersonX takes PersonY to the game,game,game,pobj,take
+PersonX takes PersonY's belongings,belonging,belonging,dobj,take
+PersonX takes PersonY's toddler,toddler,toddler,dobj,take
+PersonX takes ___ of business,business,business,pobj,take
+PersonX slaps leather,leather,leather,dobj,slap
+PersonX takes PersonY word,word,word,dobj,take
+PersonX takes PersonY to the library,library,library,pobj,take
+PersonX takes PersonY's seats,seat,seat,dobj,take
+PersonX takes PersonY decision,decision,decision,dobj,take
+PersonX takes PersonY to the bathroom,bathroom,bathroom,pobj,take
+PersonX takes PersonX's eyes off PersonY,eye,eye,dobj,take
+PersonX takes PersonY fishing,fishing,fishing,dobj,take
+PersonX takes PersonY to the emergency room,emergency_room,room,pobj,take
+PersonX takes PersonY's allowance,allowance,allowance,dobj,take
+PersonX takes PersonY's family to the beach,beach,beach,pobj,take
+PersonX takes PersonY action,action,action,dobj,take
+PersonX takes PersonY's baby,baby,baby,dobj,take
+PersonX takes ___ as a result,result,result,pobj,take
+PersonX takes PersonY to the circus,circus,circus,pobj,take
+PersonX takes PersonY's wallet,wallet,wallet,dobj,take
+PersonX takes PersonY average,average,average,dobj,take
+PersonX takes PersonY to the park,park,park,pobj,take
+PersonX takes PersonY's bike,bike,bike,dobj,take
+PersonX takes PersonX's cat to the vet,cat,cat,dobj,take
+PersonX takes PersonX's cat to the vet,vet,vet,pobj,take
+PersonX takes PersonY breath away,breath,breath,dobj,take
+PersonX spends all PersonX's money,money,money,dobj,spend
+PersonX takes PersonY's breath away,breath,breath,dobj,take
+PersonX takes PersonY's word for it,word,word,dobj,take
+PersonX takes PersonX's lunch break,lunch_break,break,dobj,take
+PersonX takes PersonY prisoner,prisoner,prisoner,dobj,take
+PersonX takes ___ of opportunities,opportunity,opportunity,pobj,take
+PersonX takes PersonX's driver 's test,driver,driver,poss,take
+PersonX takes PersonX's driver 's test,test,test,dobj,take
+PersonX takes PersonY hand,hand,hand,dobj,take
+PersonX takes PersonY to the house,house,house,pobj,take
+PersonX takes PersonY's clothes,clothe,clothe,dobj,take
+PersonX takes ___ as a sign,sign,sign,pobj,take
+PersonX takes PersonX's exam,exam,exam,dobj,take
+PersonX takes PersonY food,food,food,dobj,take
+PersonX takes PersonY to the animal shelter,animal_shelter,shelter,pobj,take
+PersonX takes PersonY's choice,choice,choice,dobj,take
+PersonX takes PersonY approach,approach,approach,dobj,take
+PersonX takes PersonY's dog on a walk,dog,dog,dobj,take
+PersonX takes PersonY's dog on a walk,walk,walk,pobj,take
+PersonX takes ___ at work,work,work,pobj,take
+PersonX takes PersonX's glasses,glass,glass,dobj,take
+PersonX takes PersonY to the mall,mall,mall,pobj,take
+PersonX takes PersonY to the movies,movie,movie,pobj,take
+PersonX takes ___ back to the store,store,store,pobj,take
+PersonX takes PersonX's driving test,driving,driving,amod,take
+PersonX takes PersonX's driving test,test,test,dobj,take
+PersonX takes ___ at PersonX's local community college,community_college,college,pobj,take
+PersonX takes ___ off from work,work,work,pobj,take
+PersonX takes PersonX's first bite,bite,bite,dobj,take
+PersonX takes PersonY to the hospital,hospital,hospital,pobj,take
+PersonX takes PersonY's date,date,date,dobj,take
+PersonX takes ___ around the neighborhood,neighborhood,neighborhood,pobj,take
+PersonX takes ___ of the fact,fact,fact,pobj,take
+PersonX takes PersonY to the station,station,station,pobj,take
+PersonX takes PersonY example,example,example,dobj,take
+PersonX takes PersonY's dog for a walk,dog,dog,dobj,take
+PersonX takes PersonY's dog for a walk,walk,walk,pobj,take
+PersonX takes ___ before work,work,work,pobj,take
+PersonX takes ___ of the needs,need,need,pobj,take
+PersonX takes PersonX's first plane ride,plane_ride,ride,dobj,take
+PersonX takes PersonY to the doctor 's office,doctor,doctor,poss,take
+PersonX takes PersonY to the doctor 's office,office,office,pobj,take
+PersonX takes PersonY to dinner,dinner,dinner,pobj,take
+PersonX takes ___ in politics,politic,politic,pobj,take
+PersonX takes PersonX's boat out,boat,boat,dobj,take
+PersonX takes PersonY examination,examination,examination,dobj,take
+PersonX takes PersonY to the pet store,store,store,pobj,take
+PersonX takes PersonY's dog,dog,dog,dobj,take
+PersonX takes PersonY share,share,share,dobj,take
+PersonX takes PersonY's cat,cat,cat,dobj,take
+PersonX takes ___ an hour,hour,hour,npadvmod,take
+PersonX takes ___ of the opportunity,opportunity,opportunity,pobj,take
+PersonX takes PersonY for ice cream,ice_cream,cream,pobj,take
+PersonX takes PersonY's course,course,course,dobj,take
+PersonX takes ___ at the end,end,end,pobj,take
+PersonX takes PersonX for the team,team,team,pobj,take
+PersonX takes PersonY for a walk,walk,walk,pobj,take
+PersonX takes PersonY's dog to the dog park,dog,dog,dobj,take
+PersonX takes PersonY's dog to the dog park,dog_park,park,pobj,take
+PersonX takes PersonY word for it,word,word,dobj,take
+PersonX takes PersonY into account,account,account,pobj,take
+PersonX takes PersonY to the vet,vet,vet,pobj,take
+PersonX takes PersonX's dog out,dog,dog,dobj,take
+PersonX takes PersonY to the dentist,dentist,dentist,pobj,take
+PersonX takes PersonY's glasses,glass,glass,dobj,take
+PersonX takes ___ at school,school,school,pobj,take
+PersonX takes PersonX's girlfriend out to dinner,dinner,dinner,pobj,take
+PersonX takes PersonY into custody,custody,custody,pobj,take
+PersonX takes ___ off road,road,road,pobj,take
+PersonX takes PersonY up on the offer,offer,offer,pobj,take
+PersonX takes PersonY's eyes off,eye,eye,dobj,take
+PersonX takes ___ on vacation,vacation,vacation,pobj,take
+PersonX takes ___ 20 minutes,minute,minute,npadvmod,take
+PersonX takes PersonY in hand,hand,hand,pobj,take
+PersonX takes PersonY to school,school,school,pobj,take
+PersonX watches the olympics,olympic,olympic,dobj,watch
+PersonX takes ___ to a baseball game,baseball_game,game,pobj,take
+PersonX takes a big gulp,gulp,gulp,dobj,take
+PersonX takes ___ to the bathroom,bathroom,bathroom,pobj,take
+PersonX takes ___ to a veterinarian,veterinarian,veterinarian,pobj,take
+PersonX takes a back seat,seat,seat,dobj,take
+PersonX takes ___ today,today,today,npadvmod,take
+PersonX takes ___ up on the offer,offer,offer,pobj,take
+PersonX takes ___ to the doctor 's office,doctor,doctor,poss,take
+PersonX takes ___ to the doctor 's office,office,office,pobj,take
+PersonX takes ___ to get home,home,home,dobj,get
+PersonX works as an accountant,accountant,accountant,pobj,work
+PersonX takes a big bite,bite,bite,dobj,take
+PersonX takes ___ to jail,jail,jail,pobj,take
+PersonX takes a break,break,break,dobj,take
+PersonX wins some money,money,money,dobj,win
+PersonX watches the waves,wave,wave,dobj,watch
+PersonX watches videos,video,video,dobj,watch
+PersonX takes a bullet,bullet,bullet,dobj,take
+PersonX takes a bath,bath,bath,dobj,take
+PersonX wins the fight,fight,fight,dobj,win
+PersonX takes a bite,bite,bite,dobj,take
+PersonX takes ___ of this opportunity,opportunity,opportunity,pobj,take
+PersonX watches videos online,video,video,dobj,watch
+PersonX takes a boat,boat,boat,dobj,take
+PersonX watches youtube videos,video,video,dobj,youtube
+PersonX takes a bite out,bite,bite,dobj,take
+PersonX takes ___ to the animal shelter,animal_shelter,shelter,pobj,take
+PersonX watches tutorials,tutorial,tutorial,dobj,watch
+PersonX takes a bow,bow,bow,dobj,take
+PersonX takes a dancing class,dancing_class,class,dobj,take
+PersonX wins any money,money,money,dobj,win
+PersonX takes a cruise,cruise,cruise,dobj,take
+PersonX watches the parade,parade,parade,dobj,watch
+PersonX takes a breather,breather,breather,dobj,take
+PersonX watches videos on youtube,video,video,dobj,watch
+PersonX watches videos on youtube,youtube,youtube,pobj,watch
+PersonX takes ___ to the airport,airport,airport,pobj,take
+PersonX takes a bus tour,bus_tour,tour,dobj,take
+PersonX wouldnt hurts a fly,fly,fly,dobj,hurt
+PersonX takes a detour,detour,detour,dobj,take
+PersonX takes ___ to dinner,dinner,dinner,pobj,take
+PersonX takes a crack at ___,crack,crack,dobj,take
+PersonX takes ___ to school,school,school,pobj,take
+PersonX takes a cab,cab,cab,dobj,take
+PersonX takes ___ to a vet,vet,vet,pobj,take
+PersonX takes ___ to the car wash,car_wash,wash,pobj,take
+PersonX watches the video,video,video,dobj,watch
+PersonX takes ___ to the car,car,car,pobj,take
+PersonX takes ___ to the movies,movie,movie,pobj,take
+PersonX would take care of it,care,care,dobj,take
+PersonX takes a drive,drive,drive,dobj,take
+PersonX takes ___ out to dinner,dinner,dinner,pobj,take
+PersonX writes PersonY account,account,account,dobj,write
+PersonX takes ___ to disney world,disney_world,world,pobj,take
+PersonX watches the show,show,show,dobj,watch
+PersonX takes a course,course,course,dobj,take
+PersonX takes ___ to the beach,beach,beach,pobj,take
+PersonX works well in business to get,business,business,pobj,work
+PersonX takes a cold shower,shower,shower,dobj,take
+PersonX takes ___ to the counter,counter,counter,pobj,take
+PersonX takes ___ to the aquarium,aquarium,aquarium,pobj,take
+PersonX waters PersonY's lawn,lawn,lawn,dobj,water
+PersonX takes ___ to the market,market,market,pobj,take
+PersonX takes ___ to the city,city,city,pobj,take
+PersonX takes a cooking class,cooking_class,class,dobj,take
+PersonX waters PersonX's lawn,lawn,lawn,dobj,water
+PersonX takes ___ to the game,game,game,pobj,take
+PersonX takes a flyer,flyer,flyer,dobj,take
+PersonX takes ___ to the dentist,dentist,dentist,pobj,take
+PersonX wins money,money,money,dobj,win
+PersonX takes ___ to the grocery store,grocery_store,store,pobj,take
+PersonX takes a day trip,day_trip,trip,dobj,take
+PersonX wins a lot of money,money,money,pobj,win
+PersonX takes ___ to the carnival,carnival,carnival,pobj,take
+PersonX takes a few minutes,minute,minute,dobj,take
+PersonX takes ___ to the groomer,groomer,groomer,pobj,take
+PersonX withdraws money,money,money,dobj,withdraw
+PersonX takes ___ to lunch,lunch,lunch,pobj,take
+PersonX takes a hike,hike,hike,dobj,take
+PersonX takes a dim view of ___,view,view,dobj,take
+PersonX takes a ferry,ferry,ferry,dobj,take
+PersonX takes ___ to the doctor,doctor,doctor,pobj,take
+PersonX takes a flight,flight,flight,dobj,take
+PersonX takes ___ to the dog park,dog_park,park,pobj,take
+PersonX takes a good look,look,look,dobj,take
+PersonX takes ___ to the circus,circus,circus,pobj,take
+PersonX takes a different route,route,route,dobj,take
+PersonX takes a closer look,look,look,dobj,take
+PersonX takes ___ to the capital city of,capital_city,city,pobj,take
+PersonX takes ___ to the emergency room,emergency_room,room,pobj,take
+PersonX takes ___ to the hospital,hospital,hospital,pobj,take
+PersonX takes a hot bath,bath,bath,dobj,take
+PersonX takes a gamble,gamble,gamble,dobj,take
+PersonX takes ___ to the dry cleaners,cleaner,cleaner,pobj,take
+PersonX takes a drink,drink,drink,dobj,take
+PersonX takes ___ to the shelter,shelter,shelter,pobj,take
+PersonX takes ___ to the ocean,ocean,ocean,pobj,take
+PersonX takes a gander,gander,gander,dobj,take
+PersonX takes ___ to the lake,lake,lake,pobj,take
+PersonX takes a hike in the woods,hike,hike,dobj,take
+PersonX takes a hike in the woods,wood,wood,pobj,take
+PersonX takes ___ to the museum,museum,museum,pobj,take
+PersonX takes a class,class,class,dobj,take
+PersonX takes ___ to the library,library,library,pobj,take
+PersonX takes a cab home,cab_home,home,dobj,take
+PersonX takes ___ to the mountains,mountain,mountain,pobj,take
+PersonX takes ___ to the sink,sink,sink,pobj,take
+PersonX takes a bubble bath,bubble_bath,bath,dobj,take
+PersonX takes ___ to the mall,mall,mall,pobj,take
+PersonX takes a field trip,field_trip,trip,dobj,take
+PersonX takes ___ to the pound,pound,pound,pobj,take
+PersonX uses ___ on PersonY's right hand,hand,hand,pobj,use
+PersonX takes ___ to vegas,vegas,vegas,pobj,take
+PersonX uses PersonY word,word,word,dobj,use
+PersonX takes ___ to the grave,grave,grave,pobj,take
+PersonX wants to get in shape,shape,shape,pobj,get
+PersonX takes ___ to the store,store,store,pobj,take
+PersonX takes ___ to the shop,shop,shop,pobj,take
+PersonX watches a horror movie,horror_movie,movie,dobj,watch
+PersonX takes ___ to the zoo,zoo,zoo,pobj,take
+PersonX watches the film,film,film,dobj,watch
+PersonX takes ___ to the shoe store,shoe_store,store,pobj,take
+PersonX takes ___ to the park,park,park,pobj,take
+PersonX takes ___ two hours,hour,hour,npadvmod,take
+PersonX takes ___ to bed,bed,bed,pobj,take
+PersonX takes ___ to the eye doctor,eye_doctor,doctor,pobj,take
+PersonX watches the sun rise,sun_rise,rise,dobj,watch
+PersonX takes ___ to a doctor,doctor,doctor,pobj,take
+PersonX takes ___ to the veterinarian,veterinarian,veterinarian,pobj,take
+PersonX watches the football game,football_game,game,dobj,watch
+PersonX takes ___ in the course,course,course,pobj,take
+PersonX takes ___ to church,church,church,advcl,take
+PersonX watches old movies,movie,movie,dobj,watch
+PersonX takes ___ to a pawn shop,pawn_shop,shop,pobj,take
+PersonX watches PersonY's face,face,face,dobj,watch
+PersonX takes ___ to a park,park,park,pobj,take
+PersonX takes ___ off work,work,work,pobj,take
+PersonX takes ___ to the mechanic,mechanic,mechanic,pobj,take
+PersonX watches the news ___,news,news,dobj,watch
+PersonX takes ___ to the bank,bank,bank,pobj,take
+PersonX watches the storm,storm,storm,dobj,watch
+PersonX takes ___ to the vet,vet,vet,pobj,take
+PersonX takes ___ twenty minutes,minute,minute,npadvmod,take
+PersonX takes ___ to disney,disney,disney,advcl,take
+PersonX takes ___ to the pet store,store,store,pobj,take

@@ -1,0 +1,13 @@
+{
+  "event_rows": 9100,
+  "unique_events": 4648,
+  "mentions_kept": 3318,
+  "discard_reasons": {
+    "scartato: testa generica/persona/astratta": 449,
+    "scartato: nome proprio": 34,
+    "scartato: testa troppo corta": 16,
+    "scartato: caratteri non alfabetici": 2
+  },
+  "distinct_entities": 1066,
+  "entities_in_1_event": 574
+}
