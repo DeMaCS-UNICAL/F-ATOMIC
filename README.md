@@ -23,7 +23,9 @@ The tribunal-validated event dataset contains **9,175 annotations** across six c
 | Property Crimes | 1,254 | 13.7% |
 | Cyber Crimes | 844 | 9.2% |
 | Public Order / Justice | 234 | 2.6% |
-| **Total** | **9,175** | **100.0%** |
+| **Total before human filtering** | **9,175** | **100.0%** |
+| Rejected in human validation | −75 | −0.8% |
+| **Final total after excluding human-rejected annotations** | **9,100** | **99.2%** |
 
 The original human comparison covers **550 form-event judgments**. A subsequent unified evaluation covers **671 distinct events**. The supplied human-filtered dataset contains **9,100 annotations**, excluding 75 events not approved under the joint human score/approval-percentage rule. These are separate evaluation cohorts.
 
